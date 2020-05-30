@@ -1,0 +1,1506 @@
+,Symbol,name_a,price,changesPercentage,change_a,yearHigh,yearLow,priceAvg50,priceAvg200
+0,DCINX,Dunham International Stock Fund Class C,13.18,0.46,0.06,15.4,10.13,12.392353,13.636618
+1,NSCCX,Nuveen NWQ Small-Cap Value Fund Class C,29.86,-2.74,-0.84,40.75,21.67,27.172941,33.193237
+2,APGCX,AB Large Cap Growth Fund Class C,43.79,0.34,0.15,43.72,31.46,40.76147,40.26456
+3,PWGAX,PACE International Equity Investments Class A,13.69,1.18,0.16,16.16,10.53,12.842648,14.289265
+4,ASERX,American Century Select Fund R Class,80.44,0.24,0.19,84.03,58.01,75.31824,75.70713
+5,SCMGX,Sands Capital Global Growth Fund Institutional Shares,29.18,0.72,0.209999,29.04,20.63,26.806765,26.546324
+6,PRDSX,T. Rowe Price QM U.S. Small-Cap Growth Equity Fund,37.34,-1.09,-0.41,41.51,25.9,33.964413,36.66662
+7,TGVRX,Thornburg International Value Fund Class R3,21.18,0.47,0.1,24.1,16.58,19.822647,21.499338
+8,FMFCX,Fidelity Advisor Materials Fund Class C,59.51,0.83,0.490003,67.12,41.23,55.25941,59.51397
+9,BARIX,Baron Asset Fund Institutional Class,92.22,0.68,0.62,97.25,64.09,84.91441,86.59103
+10,SSGAX,SEI Asset Allocation Trust Aggressive Strategy Fund Class F,13.93,0.07,0.01,15.94,11.16,13.229412,14.436838
+11,UOPSX,ProFunds UltraNASDAQ-100 Fund Service Class,74.71,-0.48,-0.36,88.33,42.59,67.51971,69.18919
+12,SDLAX,SEI Institutional Investments Trust Dynamic Asset Allocation Fund Class A,19.29,-0.21,-0.040002,22.42,14.26,18.293236,19.447132
+13,KMDVX,Keeley Mid Cap Dividend Value Fund Class A,18.94,-1.15,-0.22,24.15,12.8,17.239117,20.556324
+14,JUEZX,JPMorgan U.S. Equity Fund Class R2,15.66,-0.19,-0.03,17.04,11.34,14.798235,15.339927
+15,FPSVX,Frontier Phocas Small Cap Value Fund Institutional Class,24.96,-2.69,-0.69,33.15,17.9,22.505295,27.802353
+16,FSCAX,Nuveen Small Cap Value Fund Class A,16.18,-3.11,-0.52,23.0,11.83,14.806471,18.945736
+17,FIOIX,Fidelity Advisor Managed Retirement 2005 Fund Class I,59.11,0.03,0.02,60.19,54.7,58.28794,58.83772
+18,APGAX,AB Large Cap Growth Fund Class A,61.7,0.34,0.21,61.49,44.27,57.403824,56.492645
+19,TMDIX,AMG TimesSquare Mid Cap Growth Fund Class Z,18.38,0.38,0.07,21.18,12.79,16.865294,17.998604
+20,CVTRX,Calamos Growth & Income Fund Class A,33.43,-0.24,-0.080002,35.91,25.66,31.55,32.80309
+21,QMORX,AQR Large Cap Momentum Style Fund Class R6,21.05,0.38,0.08,23.8,15.71,19.799118,20.994486
+22,GSXIX,Aberdeen U.S. Small Cap Equity Fund Institutional Service Class,33.35,-1.8,-0.61,37.01,23.28,29.635883,32.31544
+23,ACTEX,American Century Zero Coupon 2020 Fund Advisor Class,102.63,0.0,0.0,102.67,100.42,102.64147,102.10309
+24,SAOCX,Guggenheim Alpha Opportunity Fund Class C,14.73,-1.14,-0.17,15.45,13.17,14.40147,14.59353
+25,FZAJX,Fidelity Advisor International Growth Fund Class Z,14.9,1.15,0.17,16.48,11.39,14.069118,14.882868
+26,TGGAX,Touchstone International Growth Opportunities Fund Class A,21.05,0.62,0.13,23.49,16.06,19.824705,21.024706
+27,DCGTX,Jackson Square SMID-Cap Growth Fund IS Class,26.09,-0.34,-0.09,26.18,16.64,22.874706,23.254559
+28,SEMNX,Hartford Schroders Emerging Markets Equity Fund Class I,14.06,-0.85,-0.12,17.19,11.64,13.642941,15.064632
+29,CFAIX,Calvert Conservative Allocation Fund Class I,17.3,0.06,0.010001,18.18,14.95,16.790882,17.283823
+30,JTSCX,JPMorgan SmartRetirement 2050 Fund Class C,18.44,-0.16,-0.030001,22.11,14.18,17.47206,19.266691
+31,NRICX,Nuveen Real Asset Income Fund Class C,20.15,0.5,0.1,25.38,15.83,19.379705,22.38728
+32,DHFCX,Diamond Hill Long Short Fund Class C,19.78,-1.05,-0.21,24.39,15.91,18.74853,21.07353
+33,ZSCIX,Zacks Small-Cap Core Fund Institutional Class,20.59,-2.28,-0.48,28.13,14.46,18.789412,23.380808
+34,CSVIX,Calvert Small-Cap Fund Class I,24.8,-1.16,-0.29,29.09,18.54,22.91853,25.585442
+35,NLCDX,Nuveen Large Cap Core Fund Class C,29.3,-0.75,-0.219999,33.17,20.89,27.329412,29.418089
+36,FARCX,Nuveen Real Estate Securities Fund Class I,17.24,0.76,0.13,23.26,13.01,16.444118,19.194044
+37,LCIAX,SEI Institutional Investments Trust Large Cap Index Fund Class A,162.74,-0.23,-0.37,199.7,119.38,153.16705,166.50537
+38,BVEFX,Becker Value Equity Fund Retail Class,15.91,-0.69,-0.11,18.89,12.49,15.133823,16.847721
+39,BALGX,BMO Large-Cap Growth Fund Class A,18.6,0.0,0.0,19.72,13.55,17.426176,17.8375
+40,JCMAX,JPMorgan Mid Cap Equity Fund Class A,46.0,-0.73,-0.34,52.36,32.29,42.558235,45.81625
+41,LISIX,Lazard International Strategic Equity Portfolio Institutional Shares,13.27,1.53,0.199999,15.72,10.06,12.362059,13.8877945
+42,FSIDX,Fidelity Advisor Strategic Dividend & Income Fund I Class,14.25,0.07,0.01,16.19,11.08,13.68,14.62
+43,BIPIX,ProFunds Biotechnology UltraSector Fund Investor Class,68.34,1.01,0.680004,69.18,44.57,64.630295,60.800663
+44,ASMOX,AQR Small Cap Momentum Style Fund Class I,17.36,-2.03,-0.360001,20.35,12.02,15.875294,17.706839
+45,ENPIX,ProFunds UltraSector Oil & Gas Fund Investor Class,13.3,-4.25,-0.59,30.76,6.56,12.032941,19.533455
+46,SBYEX,BNY Mellon Diversified Emerging Markets Fund Class Y,20.75,0.0,0.0,25.28,16.65,20.00706,22.068604
+47,TCMSX,TCM Small Cap Growth Fund,33.88,-1.65,-0.57,38.05,23.1,30.734411,33.224705
+48,SAOAX,Guggenheim Alpha Opportunity Fund Class A,16.87,-1.11,-0.190001,17.7,15.06,16.485294,16.705587
+49,ACCLX,American Century Mid Cap Value Fund C Class,14.09,-0.7,-0.100001,16.99,10.31,13.12,14.920442
+50,CBLAX,Columbia Balanced Fund Class A,43.01,-0.02,-0.009997,45.33,34.89,41.26882,42.23669
+51,VSTCX,Vanguard Strategic Small-Cap Equity Fund Investor Shares,26.71,-2.13,-0.579999,34.0,18.36,24.18147,28.719706
+52,VPCCX,Vanguard PRIMECAP Core Fund Investor Shares,24.33,-0.65,-0.16,29.71,18.81,23.113823,25.7025
+53,ARYCX,American Century Real Estate Fund C Class,23.83,0.25,0.06,32.12,18.05,22.833824,26.860073
+54,AEMZX,Acadian Emerging Markets Portfolio Class I,16.89,0.0,0.0,21.31,13.97,16.454706,18.478382
+55,NESIX,Needham Small Cap Growth Fund Institutional Class,19.17,-2.14,-0.42,19.59,12.75,18.035883,17.315662
+56,JGRTX,Janus Henderson Enterprise Fund Class S,127.22,-0.16,-0.2,143.36,88.51,117.232056,127.205444
+57,JDVAX,JPMorgan Diversified Fund Class A,15.13,0.07,0.01,17.19,12.34,14.465882,15.475368
+58,TRLIX,TIAA-CREF Large-Cap Value Fund Institutional Class,15.57,-0.89,-0.14,18.71,11.5,14.666177,16.479927
+59,AADBX,American Beacon Balanced Fund Institutional Class,14.07,-0.92,-0.13,16.91,11.47,13.3970585,14.799265
+60,MTILX,"Morgan Stanley Institutional Fund, Inc. Global Infrastructure Portfolio Class L",13.73,1.63,0.220001,16.16,10.54,13.139706,14.284926
+61,VLAAX,Value Line Asset Allocation Fund Investor Class,39.2,0.46,0.18,40.9,31.13,37.305588,37.903015
+62,GIBAX,Guggenheim Total Return Bond Fund Class A,28.58,0.11,0.03,28.81,27.02,28.196764,27.648972
+63,SGTRX,Columbia Seligman Global Technology Fund Class R,41.62,-1.93,-0.82,45.87,28.99,39.021175,40.773163
+64,SHSKX,BlackRock Health Sciences Opportunities Portfolio Class K,70.73,1.23,0.86,70.94,50.84,67.99765,66.41059
+65,FGRSX,Federated International Leaders Fund Class R6 Shares,31.51,1.32,0.41,36.45,23.68,29.067648,32.18662
+66,ABMAX,American Beacon Mid-Cap Value Fund Class A,11.81,-2.15,-0.260001,16.15,7.94,10.595,13.290809
+67,FTUAX,Fidelity Advisor Telecommunications Fund Class A,62.68,-0.32,-0.2,66.53,50.1,59.65853,59.983162
+68,BTTRX,American Century Zero Coupon 2025 Fund Investor Class,115.36,-0.02,-0.02,115.64,103.6,114.49177,110.337944
+69,FFTMX,Fidelity Advisor Asset Manager 50% Fund Class M,18.08,0.06,0.01,19.12,15.01,17.357647,17.954338
+70,TRMIX,T. Rowe Price Mid-Cap Value Fund I Class,24.13,-0.98,-0.239999,28.74,17.19,22.391766,25.001692
+71,FHKAX,Fidelity Advisor China Region Fund Class A,38.5,-0.9,-0.35,41.44,31.39,38.036175,37.80213
+72,BCSIX,Brown Capital Management Small Company Fund Investor Shares,108.92,0.11,0.120005,111.06,72.43,96.63412,97.608086
+73,DSEEX,DoubleLine Shiller Enhanced CAPE Class I,14.12,-0.84,-0.12,17.06,10.11,12.957647,14.699926
+74,FURCX,Fidelity Advisor Simplicity RMD 2015 Fund Class C,58.73,0.17,0.1,58.84,56.88,58.73,58.73
+75,SVFAX,Smead Value Fund Class A,41.1,-2.03,-0.849997,51.67,30.52,38.375294,44.26412
+76,FDCGX,Fidelity Advisor Consumer Staples Fund Class C,76.9,0.25,0.19,86.4,62.44,74.505295,79.678085
+77,VRGEX,Virtus Duff & Phelps Global Real Estate Securities Fund Class R6,27.28,0.85,0.229999,35.46,20.45,25.875,30.368456
+78,CIVIX,Causeway International Value Fund Class Institutional,12.43,1.22,0.149999,16.39,9.34,11.292647,13.5533085
+79,EIPFX,EIP Growth and Income Fund Investor Class,13.14,0.23,0.029999,16.16,9.06,12.29,13.905735
+80,LGRNX,Loomis Sayles Growth Fund Class N,19.18,0.58,0.11,19.69,14.5,18.053823,17.97603
+81,GIBIX,Guggenheim Total Return Bond Fund Institutional Class,28.6,0.11,0.03,28.83,27.04,28.22147,27.672867
+82,BIGFX,Baron International Growth Fund Retail Shares,22.93,0.35,0.08,25.02,17.0,21.149706,22.497942
+83,VASVX,Vanguard Selected Value Fund Investor Shares,20.69,-2.36,-0.5,28.89,14.29,18.766766,23.359558
+84,SILVX,SGI U.S. Large Cap Equity Fund Class I,17.29,0.99,0.17,19.59,13.46,16.664118,17.662868
+85,FSCVX,Nuveen Small Cap Value Fund Class C,13.62,-3.06,-0.43,19.33,9.97,12.462353,15.94147
+86,FIATX,Fidelity Advisor International Capital Appreciation Fund Class M,20.54,1.53,0.309999,22.91,15.83,19.457647,20.62228
+87,POPFX,Prospector Opportunity Fund,19.24,-0.77,-0.15,23.04,14.78,18.169117,20.288235
+88,BIEAX,Brandes International Equity Fund A,12.91,-0.08,-0.01,17.41,10.31,12.12,14.712353
+89,AGOZX,Alger Small Cap Focus Fund Class Z,24.44,0.99,0.24,24.57,16.32,22.220882,21.516766
+90,FTHSX,Fuller & Thaler Behavioral Small-Cap Equity Fund Institutional Shares,23.6,-2.03,-0.49,27.74,17.27,21.649118,24.294926
+91,OTPSX,ProFunds NASDAQ-100 Fund Service Class,73.11,-0.27,-0.2,76.21,54.68,69.41735,67.88375
+92,EWENX,Wells Fargo Intrinsic World Equity Fund - Class Inst,19.1,0.37,0.07,22.82,14.44,18.030294,20.139853
+93,AUENX,AQR Large Cap Defensive Style Fund Class N,22.55,0.45,0.100001,24.99,17.28,21.272058,22.39684
+94,TSNIX,T. Rowe Price Science and Technology Fund I Class,44.53,-0.56,-0.25,46.72,31.81,40.91206,41.79066
+95,AAISX,American Beacon International Equity Fund Advisor Class,14.89,1.36,0.199999,19.25,11.37,13.649117,16.240074
+96,SCIOX,Columbia Seligman Communications and Information Fund Advisor Class,74.93,-1.91,-1.46,83.28,52.41,70.26059,73.665886
+97,CTORX,Columbia Thermostat Fund Advisor Class,16.95,-0.06,-0.010001,16.96,13.7,16.416471,15.491912
+98,ALCFX,Alger Focus Equity Fund Class C,40.66,0.1,0.04,41.42,29.22,37.99059,36.998898
+99,JFNCX,Janus Henderson Global Life Sciences Fund Class C,55.27,0.86,0.47,57.01,40.69,52.94912,52.744045
+100,DAINX,Dunham International Stock Fund Class A,13.95,0.43,0.060001,16.26,10.71,13.108824,14.416177
+101,POAGX,PRIMECAP Odyssey Aggressive Growth Fund,41.9,-1.18,-0.5,47.17,30.5,39.011177,41.94625
+102,PAVLX,T. Rowe Price Value Fund Advisor Class,31.81,-0.38,-0.12,38.55,23.64,30.07853,33.673237
+103,AVUAX,American Century Mid Cap Value Fund I Class,14.34,-0.62,-0.09,17.27,10.47,13.336177,15.159926
+104,TESRX,Franklin Mutual Shares Fund Class R,21.53,-0.92,-0.200001,28.27,16.76,20.510588,24.10794
+105,FCHKX,Fidelity Advisor China Region Fund Class C,37.25,-0.9,-0.34,40.21,30.48,36.82647,36.6364
+106,CFWAX,Calvert Global Water Fund Class A,19.56,-0.41,-0.08,22.98,14.65,18.192648,20.22669
+107,LKBAX,LKCM Balanced Fund,23.58,0.21,0.05,25.48,18.46,22.468529,23.339926
+108,CISGX,Touchstone Sands Capital Institutional Growth Fund,25.41,0.0,0.0,25.7,18.01,23.482647,22.758677
+109,FMPFX,Nuveen Small Cap Growth Opportunities Fund Class R6,28.86,-1.57,-0.46,29.9,18.9,25.965294,26.49669
+110,GETGX,Victory Sycamore Established Value Fund Class R,33.32,-1.19,-0.4,41.05,23.58,30.434412,35.20125
+111,PRWAX,T. Rowe Price New America Growth Fund,57.82,-0.02,-0.009998,60.06,41.74,54.186764,54.183384
+112,MASTX,BMO Large-Cap Growth Fund Class Y,18.61,0.0,0.0,19.74,13.57,17.442059,17.85522
+113,NMMTX,Nuveen Large-Cap Value Fund Class R3,19.29,-1.33,-0.260001,24.39,14.02,18.06,20.93
+114,NSDVX,North Star Dividend Fund Class I,16.32,-1.66,-0.2759,20.59,13.2,15.449706,17.905956
+115,FELAX,Fidelity Advisor Semiconductors Fund Class A,26.47,-2.65,-0.719999,29.31,17.52,24.90147,25.637648
+116,FGADX,Franklin Gold and Precious Metals Fund Advisor Class,22.37,0.86,0.19,23.63,12.7,20.831764,19.08125
+117,JPFAX,JPMorgan Equity Focus Fund Class A,25.87,-0.65,-0.17,32.14,18.71,24.219706,26.65581
+118,WBVDX,William Blair Small Cap Value Fund Class N,10.55,-2.04,-0.22,17.85,7.71,9.634118,13.920882
+119,JARTX,Janus Henderson Forty Fund Class S,37.55,0.48,0.18,39.29,27.64,35.299706,35.557648
+120,PAGLX,T. Rowe Price Global Growth Stock Fund Advisor Class,31.1,0.42,0.129999,32.5,22.09,28.587646,29.005074
+121,HWSAX,Hotchkis & Wiley Small Cap Value Fund Class A,37.13,-2.9,-1.11,54.64,26.86,33.490295,43.877647
+122,SPINX,SEI Institutional Investments Trust S&P 500 Index Fund Class A,16.05,-0.19,-0.03,17.95,11.88,15.171177,16.002941
+123,HLMEX,Harding Loevner Institutional Emerging Markets Portfolio Class I,17.85,-0.39,-0.07,23.49,14.91,17.377058,19.997793
+124,JENYX,Jensen Quality Growth Fund Class Y,49.33,0.26,0.13,55.02,36.82,47.32353,49.443604
+125,MMEYX,Victory Integrity Discovery Fund Class Y,25.83,-4.23,-1.14,38.17,18.69,23.239706,30.841177
+126,SDICX,Guggenheim Investment Grade Bond Fund Class C,19.66,0.1,0.02,19.82,18.58,19.411764,19.02375
+127,BDFIX,Baron Discovery Fund Institutional Shares,22.84,-1.25,-0.290001,23.99,14.67,20.039118,20.546986
+128,TRULX,T. Rowe Price U.S. Large-Cap Core Fund,24.92,0.28,0.07,28.12,18.65,23.688824,25.172058
+129,HSFNX,Hennessy Small Cap Financial Fund Investor Class,15.25,-4.09,-0.65,22.36,11.7,13.924412,18.241177
+130,RYCIX,Rydex Consumer Products Fund Class Investor,59.03,0.0,0.0,64.84,46.4,57.051178,59.94875
+131,HFMSX,The Hartford MidCap Fund Class R4,33.47,-0.71,-0.240003,37.85,23.47,30.94647,33.416912
+132,UMPIX,ProFunds UltraMid Cap Fund Investor Class,30.14,-2.9,-0.899999,49.0,14.94,25.042646,36.502426
+133,WGROX,Wasatch Core Growth Fund,69.85,-1.74,-1.24,79.47,47.19,61.86735,67.93809
+134,RRTBX,T. Rowe Price Retirement 2020 Fund Class R,20.75,0.0,0.0,22.72,16.93,19.88353,20.902353
+135,RPTIX,T. Rowe Price Mid-Cap Growth Fund I Class,91.11,0.2,0.18,99.08,63.44,83.60412,89.05427
+136,PTIAX,Performance Trust Strategic Bond Fund,22.36,0.09,0.02,23.76,21.16,22.120295,22.686766
+137,WSMGX,Wilshire Small Company Growth Portfolio Fund Class Institutional,28.07,-1.89,-0.54,31.62,19.59,25.375883,27.448677
+138,VITNX,Vanguard Institutional Total Stock Market Index Fund Institutional Shares,63.76,-0.38,-0.24,72.2,46.94,59.862057,63.879707
+139,NSEPX,Columbia Select Large Cap Equity Fund Institutional Class,14.6,-0.21,-0.03,16.18,10.78,13.893235,14.372941
+140,UIGRX,USAA Growth Fund Institutional Shares,27.41,0.4,0.11,32.52,20.0,25.67147,26.643602
+141,GMCDX,GMO Emerging Country Debt Fund Class III,24.93,-0.16,-0.040001,28.15,22.31,23.826471,25.979118
+142,JDNAX,Janus Henderson Growth And Income Fund Class A,53.83,0.04,0.02,62.67,40.43,51.17235,55.964043
+143,MSGTX,"Morgan Stanley Institutional Fund, Inc. Global Infrastructure Portfolio Class C",13.53,1.58,0.21,15.93,10.39,12.948529,14.080809
+144,NRIAX,Nuveen Real Asset Income Fund Class A,20.14,0.55,0.110001,25.37,15.83,19.364117,22.375883
+145,HILFX,Hennessy Large Cap Financial Fund Institutional Class,21.85,-1.09,-0.24,26.28,15.56,19.963236,22.329044
+146,BUFOX,Buffalo Emerging Opportunities Fund,16.3,-1.75,-0.29,17.71,10.78,14.48,15.5497055
+147,LEVOX,Lazard US Equity Concentrated Portfolio Open Shares,15.67,0.58,0.09,17.89,11.46,14.767647,15.837279
+148,SHSAX,BlackRock Health Sciences Opportunities Portfolio Investor A Shares,66.94,1.22,0.809995,67.21,48.15,64.37559,62.917355
+149,BMGCX,BlackRock Mid-Cap Growth Equity Portfolio Investor C Shares,21.49,1.13,0.24,22.48,14.47,19.611765,19.688602
+150,NLCIX,Nuveen Large Cap Core Fund Class I,29.84,-0.7,-0.21,33.65,21.23,27.808235,29.942427
+151,GTLIX,Glenmede Quantitative U.S. Large Cap Core Equity Portfolio Institutional Shares,23.83,-0.91,-0.22,28.5,17.42,22.314117,24.93044
+152,HFCIX,Hennessy Focus Fund Institutional Class,71.73,-0.77,-0.56,92.01,46.66,64.77971,75.68875
+153,FDLSX,Fidelity Select Leisure Portfolio,12.91,-1.53,-0.2,16.89,8.45,11.775588,13.860294
+154,KWICX,Kinetics Alternative Income Fund Advisor Class C,94.53,0.04,0.04,94.49,90.27,94.212944,93.5853
+155,IBALX,Transamerica Multi-Managed Balanced Fund Class A,28.57,-0.17,-0.049999,30.21,23.1,27.489412,28.16375
+156,CLIFX,Clifford Capital Partners Fund Institutional Class,12.99,-1.96,-0.26,15.73,9.26,11.899706,13.510809
+157,HFMVX,The Hartford MidCap Fund Class R6,35.18,-0.71,-0.25,39.74,24.65,32.51912,35.073162
+158,MMDEX,Praxis Growth Index Fund Class I,28.41,-0.04,-0.01,29.82,20.71,26.747942,26.988897
+159,SICWX,Touchstone Large Cap Focused Fund Class Y,41.17,-0.39,-0.159998,46.6,30.79,38.904118,41.07088
+160,USWGX,USAA World Growth Fund Adviser Shares,23.36,0.17,0.04,35.61,17.66,22.091177,25.362352
+161,CGTUX,Columbia Global Technology Growth Fund Institutional 3 Class,44.71,-0.25,-0.11,47.1,32.74,41.92588,41.49816
+162,MIGIX,"Morgan Stanley Institutional Fund, Inc. Global Advantage Portfolio Class I",21.64,0.6,0.13,21.83,14.03,19.079706,18.091543
+163,FSENX,Fidelity Select Energy Portfolio,22.34,-2.49,-0.57,37.29,13.63,20.577353,27.352648
+164,JBFRX,John Hancock Bond Fund Class R4,16.36,0.06,0.01,16.77,14.95,16.180588,16.16897
+165,NIMEX,Nuveen Equity Market Neutral Fund Class I,21.82,-0.91,-0.2,24.08,21.23,22.064117,22.529926
+166,VMRGX,Vanguard Morgan Growth Fund,27.82,0.51,0.14,27.82,27.82,27.82,27.82
+167,TIVRX,Thornburg International Value Fund Class R5,21.9,0.46,0.1,24.93,17.14,20.495882,22.261839
+168,PRVIX,T. Rowe Price Small-Cap Value Fund I Class,38.9,-1.87,-0.740003,49.54,28.61,35.579117,42.066544
+169,SBFCX,Victory INCORE Investment Grade Convertible Fund Class A,16.25,0.12,0.02,17.86,13.58,15.706764,16.60081
+170,HWLCX,Hotchkis & Wiley Large Cap Value Fund Class C,25.95,-1.56,-0.41,35.36,18.81,23.88147,29.4925
+171,DSCYX,BNY Mellon Opportunistic Small Cap Fund Class Y,23.7,-1.9,-0.46,28.95,15.98,21.263235,24.509485
+172,SMMCX,Western Asset Managed Municipals Fund Class C,15.75,0.19,0.03,16.91,14.51,15.523529,16.127132
+173,VASGX,Vanguard LifeStrategy Growth Fund Investor Shares,33.77,-0.06,-0.02,37.12,26.53,32.112354,33.95772
+174,SEAIX,SEI Asset Allocation Trust Aggressive Strategy Fund Class I,13.54,0.07,0.01,15.51,10.84,12.856765,14.032574
+175,FSBKX,Federated Global Allocation Fund Class R Shares,18.78,0.21,0.04,20.26,15.05,17.85,18.77353
+176,TSSCX,Thornburg Strategic Municipal Income Fund Class C,15.0,0.0,0.0,15.71,14.08,14.860883,15.185441
+177,GILDX,Guggenheim Limited Duration Fund A-Class,24.97,0.16,0.040002,25.07,23.94,24.677353,24.639265
+178,TMMAX,SEI Institutional Managed Trust Tax-Managed Volatility Fund Class F,16.04,0.63,0.099999,18.59,12.38,15.443824,16.749044
+179,PARJX,T. Rowe Price Retirement 2025 Fund Advisor Class,16.78,-0.06,-0.01,18.43,13.37,15.995295,16.89625
+180,SGACX,Virtus SGA Global Growth C Class,21.67,0.6,0.13,22.72,16.03,20.355589,20.612133
+181,FRAPX,Fidelity Advisor Simplicity RMD 2005 Fund Class I,58.31,0.07,0.04,58.47,57.12,58.31,58.31
+182,GMXRX,Nationwide Mid Cap Market Index Fund Class R,12.98,-1.44,-0.189999,15.66,8.9,11.756471,13.4525
+183,RRMVX,T. Rowe Price Mid-Cap Value Fund R Class,23.58,-1.01,-0.24,28.01,16.82,21.892647,24.453604
+184,NLCGX,Nuveen Large Cap Growth Fund Class C,25.03,-0.6,-0.15,27.97,17.92,23.420588,24.895515
+185,JVASX,JPMorgan Value Advantage Fund Class I,29.86,-1.22,-0.370001,37.83,22.14,27.987942,32.82169
+186,FXAIX,Fidelity 500 Index Fund,105.33,-0.2,-0.21,117.71,77.93,99.54176,104.8011
+187,BBHLX,BBH Partner Fund - International Equity Class Institutional,15.83,1.34,0.21,17.23,12.1,14.712059,15.641985
+188,SWFCX,Touchstone International Equity Fund Class C,12.83,0.31,0.04,15.23,9.76,12.074411,13.417721
+189,MYIMX,Victory Integrity Mid-Cap Value Fund Class Y,15.29,-1.61,-0.25,19.67,10.74,14.000588,16.702646
+190,TWSIX,American Century Select Fund I Class,85.68,0.25,0.21,89.33,61.71,80.1797,80.42735
+191,NWGSX,Nationwide WCM Focused Small Cap Fund Institutional Service Class,20.56,-2.33,-0.49,26.94,14.45,18.383823,22.623898
+192,TRRMX,T. Rowe Price Retirement 2050 Fund,14.49,0.0,0.0,16.44,10.92,13.621765,14.695221
+193,JTSIX,JPMorgan SmartRetirement 2050 Fund Class R5,18.81,-0.11,-0.02,22.5,14.45,17.80353,19.622942
+194,FTRVX,Fidelity Advisor Managed Retirement 2020 Fund Class M,51.57,0.23,0.12,51.66,49.71,51.57,51.57
+195,VGSCX,Virtus Duff & Phelps Global Real Estate Securities Fund Class C,26.52,0.87,0.23,34.39,19.92,25.170588,29.561544
+196,VHGEX,Vanguard Global Equity Fund Investor Shares,29.02,0.07,0.02,33.48,21.88,27.349411,29.609339
+197,DIAYX,Diamond Hill Long-Short Fund Class Y,23.33,-1.06,-0.25,28.61,18.73,22.093529,24.792427
+198,CSXAX,Calvert US Large Cap Core Responsible Index Fund Class A,26.02,-0.23,-0.06,28.43,19.09,24.49353,25.371176
+199,PACLX,T. Rowe Price Capital Appreciation Fund Advisor Class,30.81,-0.1,-0.03,32.26,23.58,29.362352,30.12456
+200,HSSIX,Emerald Banking and Finance Fund Institutional Class,25.04,-2.3,-0.590001,36.47,18.66,22.33853,29.902279
+201,MMERX,Victory Integrity Discovery Fund Class R,21.78,-4.22,-0.96,32.39,15.78,19.601177,26.071102
+202,VWNDX,Vanguard Windsor Fund Investor Share,18.13,-1.04,-0.19,23.19,13.09,16.752647,19.302574
+203,TRLHX,TIAA-CREF Large Cap Value Fund Advisor Class,15.56,-0.89,-0.140001,18.7,11.49,14.657353,16.473898
+204,LOGBX,Scharf Multi-Asset Opportunity Fund Retail Class,31.91,0.38,0.120001,35.24,26.73,30.826765,32.241764
+205,SIPIX,SEI Institutional Managed Trust Mid-Cap Portfolio Fund Class I,21.91,-0.99,-0.22,26.62,15.38,20.103529,23.109707
+206,SGOIX,First Eagle Overseas Fund Class I,22.39,0.4,0.09,25.83,18.51,21.576765,23.004633
+207,VBAIX,Vanguard Balanced Index Fund Institutional Shares,38.5,-0.21,-0.08,40.8,31.51,36.981472,37.91103
+208,JMYAX,JPMorgan SmartRetirement Blend 2045 Fund Class R6,22.43,-0.04,-0.01,25.74,17.33,21.192059,23.069118
+209,SISAX,SEI Asset Allocation Trust Tax-Managed Aggressive Strategy Fund Class F,20.27,-0.2,-0.040001,23.22,15.22,19.009706,20.803677
+210,VSNGX,JPMorgan Mid Cap Equity Fund Class I,46.85,-0.7,-0.33,53.28,32.86,43.33,46.63875
+211,NEFOX,Natixis Funds Trust II Oakmark Fund Class A,19.25,-1.53,-0.3,23.62,13.61,17.688824,20.152868
+212,GIFAX,Guggenheim Floating Rate Strategies Fund Class A,22.97,0.53,0.120002,25.45,20.46,22.436766,24.004486
+213,IEMFX,T. Rowe Price Institutional Emerging Markets Equity Fund,35.32,-0.54,-0.19,44.09,29.8,34.52,38.38544
+214,NNTWX,Nicholas II Fund Class N,25.85,-0.23,-0.06,30.81,18.31,23.8,26.197573
+215,BVDIX,William Blair Small Cap Value Fund Class I,10.98,-2.05,-0.229999,18.44,8.02,10.024706,14.400735
+216,CSERX,Columbia Select Large Cap Value Fund Advisor Class,22.76,-0.91,-0.21,28.47,16.23,21.549412,24.381323
+217,RYBMX,Rydex Basic Materials Fund Class A,49.8,-0.56,-0.279998,57.27,33.41,45.44912,49.639557
+218,RPMGX,T. Rowe Price Mid-Cap Growth Fund,91.08,0.2,0.18,99.04,63.43,83.58265,89.038826
+219,GRISX,Nationwide S&P 500 Index Fund Institutional Service Class,15.16,-0.2,-0.03,16.91,11.16,14.328823,15.2002945
+220,SLVIX,Columbia Select Large Cap Value Fund Institutional 2 Class,22.44,-0.93,-0.21,28.11,16.0,21.249706,24.045221
+221,CGMRX,CGM Realty Fund,20.28,-2.92,-0.610001,28.41,13.44,18.522058,22.396986
+222,RRTFX,T. Rowe Price Retirement 2050 Fund Class R,14.2,0.0,0.0,16.08,10.71,13.354412,14.409853
+223,VTRIX,Vanguard International Value Fund Investor Shares,30.95,0.62,0.19,38.5,24.25,29.158236,33.387207
+224,JPYRX,JPMorgan SmartRetirement Blend 2035 Fund Class R6,22.09,-0.05,-0.01,24.75,17.72,21.02647,22.547354
+225,TRRHX,T. Rowe Price Retirement 2025 Fund,16.89,0.0,0.0,18.57,13.45,16.093529,17.000662
+226,FAAIX,Fidelity Advisor Asset Manager 70% Fund I Class,21.72,0.05,0.01,23.93,17.09,20.613823,21.734632
+227,DSMGX,Touchstone International Growth Opportunities Fund Institutional Class,21.29,0.61,0.129998,23.74,16.23,20.047058,21.245735
+228,HNGIX,Harbor Global Leaders Fund Retirement Class,30.11,0.53,0.16,32.97,21.98,28.025589,29.622868
+229,SHMMX,Western Asset Managed Municipals Fund Class A,15.74,0.19,0.03,16.9,14.5,15.51353,16.116985
+230,FSTLX,Federated MDT Large Cap Value Fund Class R6,24.16,-0.49,-0.12,28.68,17.62,22.774412,25.333088
+231,FRQIX,Fidelity Advisor Managed Retirement 2010 Fund Class I,56.38,0.02,0.009997,58.11,51.34,55.32353,56.24728
+232,SFECX,Guggenheim StylePlus - Large Core Fund Class C,14.12,-0.21,-0.03,15.9,10.23,13.287941,14.159191
+233,TEQAX,Touchstone Global ESG Equity Fund - Class A,19.31,0.31,0.06,22.19,14.89,18.261765,19.903456
+234,RYBAX,Rydex Basic Materials Fund Class H,48.21,-0.56,-0.27,55.52,32.34,43.995,48.062866
+235,FMIYX,FMI International Fund Institutional Class,25.68,0.08,0.02,33.01,20.61,24.417059,28.693972
+236,TROCX,Touchstone Global ESG Equity Fund - Class I,20.08,0.35,0.07,23.06,15.48,18.985294,20.686323
+237,FFFCX,Fidelity Freedom 2010 Fund,14.89,0.0,0.0,16.25,13.6,14.742941,15.284633
+238,FMCLX,Federated Mid-Cap Index Fund Class R6 Shares,17.12,-1.38,-0.24,21.55,11.79,15.492059,17.824411
+239,JACRX,James Alpha Global Real Estate Investments Portfolio Class C Shares,14.67,-0.34,-0.05,19.31,11.47,14.033236,16.579044
+240,FIRVX,Fidelity Managed Retirement 2020 Fund,50.95,-0.02,-0.01,53.68,44.76,49.492645,51.018604
+241,VSCRX,Virtus KAR Small-Cap Core Fund Class R6,39.91,-0.2,-0.08,43.18,28.74,36.39,38.92419
+242,NWSAX,Nationwide Small Company Growth Fund Class A,20.73,-0.05,-0.01,21.89,13.94,18.414705,18.933823
+243,PSICX,PGIM QMA Stock Index Fund- Class C,41.68,-0.19,-0.080002,51.11,30.72,39.418823,42.691986
+244,FLRYX,Nuveen Large Cap Select Fund Class I,30.5,-0.23,-0.07,34.93,22.8,28.790882,30.735956
+245,MSGCX,Meridian Small Cap Growth Fund Class C,13.67,-1.87,-0.26,16.06,9.16,12.12,13.537941
+246,HRCMX,Carillon ClariVest Capital Appreciation Fund Class R5,48.58,-0.04,-0.020002,51.9,35.38,45.75088,46.29206
+247,FIVFX,Fidelity International Capital Appreciation Fund,21.42,1.56,0.33,23.87,16.47,20.277353,21.567648
+248,QISGX,Federated MDT Small Cap Growth Fund Institutional Shares,22.84,-2.02,-0.47,26.01,15.08,20.740883,22.59
+249,BSTSX,BlackRock Technology Opportunities Fund Service Shares,40.15,-0.1,-0.040002,40.4,27.63,36.992645,35.001472
+250,WOOPX,JPMorgan Intrepid Mid Cap Fund Class I,16.62,-1.42,-0.24,21.11,11.54,15.252059,17.458162
+251,SIBLX,Touchstone Balanced Fund Class Y,21.03,-0.19,-0.040002,23.29,17.15,20.184118,20.868088
+252,ATSMX,AQR TM Small Cap Momentum Style Fund Class I,17.87,-1.97,-0.360001,20.74,12.36,16.32059,17.949118
+253,SSETX,BNY Mellon Growth Fund Class I,37.0,-1.02,-0.38,37.38,23.53,33.354412,32.030148
+254,NHCCX,Nuveen High Yield Municipal Bond Fund Class C,16.31,0.25,0.040001,18.81,14.61,15.944118,17.307573
+255,FOVAX,First Trust/Confluence Small Cap Value Fund Class A,27.03,-1.92,-0.530001,33.53,20.25,24.685,28.821102
+256,SSIZX,Sierra Tactical Core Income Fund Class A,21.06,0.11,0.023001,21.99,20.64,20.75,21.316912
+257,FWAFX,Fidelity Advisor Worldwide Fund Class A,27.77,0.65,0.18,29.65,20.3,25.877058,26.64816
+258,NWWOX,Virtus Vontobel Global Opportunities Fund Class A,16.34,0.74,0.12,17.96,12.34,15.476176,16.282867
+259,FABCX,Fidelity Advisor Balanced Fund Class C,21.83,-0.37,-0.08,23.25,17.1,20.762058,21.324118
+260,HFDRX,Hartford Schroders US MidCap Opportunities Fund Class R3,14.08,-0.14,-0.02,16.7,9.9,13.028529,14.529118
+261,PFPFX,Poplar Forest Partners Fund Class A,34.75,-1.61,-0.57,44.91,25.11,32.314117,38.094044
+262,NWKCX,Nationwide Geneva Small Cap Growth Fund Class R6,66.0,-1.96,-1.32,70.84,46.18,58.906178,62.19787
+263,GMXAX,Nationwide Mid Cap Market Index Fund Class A,13.23,-1.42,-0.189999,15.94,9.06,11.972941,13.697132
+264,CLNCX,Columbia Large Cap Enhanced Core Fund Institutional 2 Class,23.82,-0.46,-0.11,26.35,17.27,22.387058,23.614632
+265,TEEAX,RBC Small Cap Core Fund Class A,25.47,-2.56,-0.67,32.14,16.69,22.569706,26.569706
+266,JDMRX,Janus Henderson Enterprise Fund Class R,123.08,-0.16,-0.2,138.8,85.67,113.44,123.19324
+267,FLYCX,Nuveen Large Cap Select Fund Class C,27.93,-0.21,-0.06,32.07,20.92,26.384413,28.162647
+268,SBFIX,Federated Global Allocation Fund Institutional Shares,19.04,0.21,0.04,20.54,15.27,18.090588,19.03228
+269,MYSPX,MainStay MacKay S&P 500 Index Fund Investor Class,42.16,-0.19,-0.08,51.47,31.05,39.85882,42.6364
+270,AUEIX,AQR Large Cap Defensive Style Fund Class I,22.59,0.4,0.09,25.02,17.31,21.31294,22.441471
+271,TGIRX,Thornburg International Value Fund Class R6,21.83,0.51,0.11,24.87,17.07,20.419706,22.192059
+272,CLXRX,Columbia Large Cap Index Fund Institutional 2 Class,49.69,-0.2,-0.099997,55.26,36.57,46.97147,49.587795
+273,PYVLX,Payden Equity Income Fund,16.06,0.12,0.020001,18.87,12.53,15.485,16.925
+274,RYCPX,Rydex Consumer Products Fund Class C,44.67,0.0,0.0,49.31,35.18,43.20294,45.553604
+275,FMFEX,Fidelity Advisor Materials Fund Class I,61.96,0.83,0.51,69.94,42.85,57.496178,61.922646
+276,FZAAX,Fidelity Advisor Balanced Fund Class Z,22.49,-0.35,-0.08,23.95,17.63,21.371765,21.957058
+277,RYVYX,Rydex NASDAQ-100 2x Strategy Fund Class H,201.7,-0.5,-1.02,236.88,114.67,182.20882,184.75735
+278,RRITX,T. Rowe Price International Stock Fund Class R,16.39,0.8,0.13,18.9,12.64,15.431765,16.836544
+279,HILRX,Hartford International Value Fund Class R3,11.19,0.09,0.010001,15.41,8.64,10.375294,12.671029
+280,FIOCX,Fidelity Advisor Managed Retirement 2005 Fund Class C,58.4,0.09,0.049998,58.58,57.24,58.4,58.4
+281,UBVAX,Undiscovered Managers Behavioral Value Fund Class A,42.88,-3.34,-1.48,63.14,30.48,38.513237,50.470146
+282,JDCAX,Janus Henderson Forty Fund Class A,39.33,0.49,0.189997,41.13,28.95,36.96706,37.206837
+283,TRRJX,T. Rowe Price Retirement 2035 Fund,17.81,0.0,0.0,19.99,13.72,16.835295,18.009485
+284,TRAIX,T. Rowe Price Capital Appreciation Fund I Class,31.22,-0.1,-0.03,32.73,23.88,29.748236,30.510956
+285,FCRFX,Fidelity Advisor Managed Retirement 2025 Fund Class C,52.44,0.25,0.130002,52.53,50.36,52.44,52.44
+286,FFFEX,Fidelity Freedom 2030 Fund,16.24,-0.06,-0.01,18.5,13.7,15.806765,16.877573
+287,RYCOX,Rydex NASDAQ-100 Fund Class C,37.52,-0.27,-0.1,38.9,27.92,35.595295,34.73757
+288,JSMTX,Jackson Square SMID-Cap Growth Fund Institutional Class,26.09,-0.34,-0.09,26.18,16.64,22.874117,23.25706
+289,FCTGX,Fidelity Advisor Small Cap Growth Fund Class M,23.69,-0.96,-0.23,26.71,16.68,21.82206,23.24478
+290,CAECX,Columbia Acorn European Fund Class C,19.91,1.84,0.36,22.38,13.31,17.81853,19.545
+291,USMCX,Natixis ASG Tactical U.S. Market Fund Class C,12.7,0.08,0.01,16.75,11.2,12.416471,14.212426
+292,FZABX,Fidelity Advisor Diversified International Fund Class Z,22.98,1.41,0.32,25.36,17.25,21.482647,22.893015
+293,BLYYX,American Beacon Bridgeway Large Cap Growth Fund Y Class,29.64,0.27,0.08,32.59,20.94,27.712353,28.931396
+294,SMTCX,JPMorgan SmartRetirement 2040 Fund Class C,18.97,-0.11,-0.02,22.89,14.81,18.028236,19.808603
+295,SGRNX,Wells Fargo Growth Fund - Class Inst,46.77,0.24,0.11,48.32,32.09,42.891174,43.152573
+296,CFIMX,Clipper Fund,106.54,-1.1,-1.19,129.26,81.13,100.33471,112.11985
+297,MIGYX,Invesco Oppenheimer Main Street Fund Class Y,44.38,-0.14,-0.060002,50.99,32.9,42.330296,45.21588
+298,FRNTX,Fidelity Advisor Simplicity RMD Income Fund Class M,58.58,0.07,0.04,58.74,57.47,58.58,58.58
+299,FIMKX,Fidelity Advisor Emerging Markets Fund I Class,25.03,-0.24,-0.06,30.08,20.14,24.15147,25.99478
+300,AAIEX,American Beacon International Equity Fund Institutional Class,14.65,1.38,0.2,18.99,11.17,13.42353,15.973382
+301,FBSOX,Fidelity Select IT Services Portfolio,77.22,0.52,0.4,84.51,53.58,70.59735,73.17824
+302,VINEX,Vanguard International Explorer Fund Investor Shares,15.32,0.66,0.100001,18.39,11.15,14.013235,15.838235
+303,USMAX,Natixis ASG Tactical U.S. Market Fund Class A,13.16,0.08,0.01,17.3,11.57,12.854117,14.699191
+304,RIVBX,Riverbridge Growth Fund Institutional Class,24.88,0.61,0.15,25.11,17.8,23.022648,22.472353
+305,PARKX,T. Rowe Price Retirement 2035 Fund Advisor Class,17.71,0.0,0.0,19.86,13.64,16.743235,17.911177
+306,RYPDX,Rydex Consumer Products Fund Class A,53.43,-0.02,-0.01,58.73,42.02,51.648823,54.324413
+307,HQIIX,The Hartford Equity Income Fund Class I,17.16,0.12,0.02,20.33,12.97,16.267353,17.986471
+308,NLACX,Nuveen Large Cap Core Fund Class A,29.91,-0.7,-0.209999,33.76,21.29,27.877941,30.015293
+309,PAULX,T. Rowe Price U.S. Large-Cap Core Fund Advisor Class,24.92,0.28,0.07,28.14,18.66,23.695,25.178015
+310,GLVNX,Invesco Oppenheimer Global Focus Fund Class R,57.62,0.66,0.380002,58.09,39.45,52.652943,51.34728
+311,CTYRX,Columbia Global Technology Growth Fund Advisor Class,44.25,-0.25,-0.11,46.63,32.41,41.496178,41.083897
+312,PRSVX,T. Rowe Price Small-Cap Value Fund,38.9,-1.87,-0.740003,49.5,28.61,35.58353,42.06875
+313,RAANX,Altegris/AACA Opportunistic Real Estate Fund N,17.87,0.45,0.08,20.06,12.43,16.854118,17.423971
+314,GLFOX,Lazard Global Listed Infrastructure Portfolio Open Shares,14.44,0.21,0.03,16.86,11.71,13.666471,14.862867
+315,PABGX,T. Rowe Price Blue Chip Growth Fund Advisor Class,128.4,0.07,0.09,134.31,92.93,120.68677,119.36956
+316,FSRNX,Fidelity Real Estate Index Fund,13.2,0.08,0.01,17.88,9.96,12.521176,15.10272
+317,LCORX,Leuthold Core Investment Fund Retail Class,18.49,-0.05,-0.01,19.6,15.78,17.934412,18.44522
+318,QNTIX,Meeder Quantex Fund Institutional Class,27.89,-2.79,-0.799999,38.47,19.6,25.422058,31.757647
+319,JSMVX,Jackson Square SMID-Cap Growth Fund Investor Class,25.83,-0.35,-0.09,25.92,16.48,22.650589,23.041838
+320,VQSRX,Virtus KAR Small-Cap Value Fund Class R6,18.58,-1.28,-0.24,20.33,12.68,16.65853,17.881838
+321,TRACX,PGIM QMA Small-Cap Value Fund- Class C,11.17,-3.87,-0.45,17.34,7.69,9.728235,13.387206
+322,JUEAX,JPMorgan U.S. Equity Fund Class A,15.84,-0.13,-0.020001,17.23,11.47,14.962059,15.508308
+323,WWOIX,Virtus Vontobel Global Opportunities Fund Class I,16.36,0.74,0.12,17.97,12.34,15.487059,16.292868
+324,POSKX,PRIMECAP Odyssey Stock Fund,29.07,-0.75,-0.219999,36.36,22.3,27.52353,31.195293
+325,GILHX,Guggenheim Limited Duration Fund Institutional Class,24.96,0.16,0.040002,25.07,23.93,24.671764,24.63309
+326,LSCNX,Loomis Sayles Small Cap Value Fund Class N,21.82,-2.28,-0.51,30.37,15.75,19.859118,24.36647
+327,BREFX,Baron Real Estate Fund Retail Shares,26.44,-1.34,-0.360001,28.66,17.4,23.483234,24.784266
+328,RYCYX,Rydex Dow 2x Strategy Fund Class C,67.14,-1.12,-0.76,101.28,37.28,59.992058,78.6189
+329,SKSEX,AMG Managers Skyline Special Equities Fund Class N,28.15,-3.83,-1.12,39.65,19.13,24.897648,31.555956
+330,WBSNX,William Blair Small Cap Growth Fund Class N,25.93,-1.67,-0.44,29.13,17.72,23.372353,25.589117
+331,TWCCX,American Century Ultra Fund C Class,43.65,0.07,0.029997,45.21,30.74,40.550587,40.24125
+332,THOIX,Thornburg Global Opportunities Fund Class I,27.49,-0.69,-0.19,32.25,20.89,25.76853,28.28919
+333,BESIX,William Blair Emerging Markets Small Cap Growth Fund Class I,15.89,-0.5,-0.08,17.91,11.93,15.089118,15.891029
+334,CSCCX,Calvert Small-Cap Fund Class C,19.4,-1.17,-0.23,22.82,14.53,17.940882,20.068676
+335,OMSIX,Invesco Oppenheimer Main Street Fund Class R6,44.34,-0.14,-0.06,50.94,32.87,42.29265,45.167793
+336,MFOMX,BNY Mellon Focused Equity Opportunities Fund Class M Shares,14.84,-0.27,-0.04,16.82,10.79,14.027059,15.011618
+337,WILJX,William Blair International Leaders Fund R6 Class Shares,16.94,1.13,0.19,18.69,12.72,15.776765,16.825588
+338,PJFBX,PGIM Jennison Growth Fund- Class B,34.26,0.18,0.060003,35.59,24.33,31.877941,31.631912
+339,WHOSX,Wasatch-Hoisington U.S. Treasury Fund,22.19,-1.03,-0.23,24.62,17.21,22.934706,20.643162
+340,CBDYX,Columbia Balanced Fund Institutional 3 Class,43.38,-0.02,-0.01,45.72,35.17,41.615883,42.591396
+341,IPFPX,Poplar Forest Partners Fund Institutional Class,34.77,-1.61,-0.57,44.9,25.11,32.32765,38.10706
+342,RYATX,Rydex NASDAQ-100 Fund Class A,43.71,-0.25,-0.11,45.23,32.48,41.446766,40.363895
+343,RYLIX,Rydex Leisure Fund Class Investor,65.76,-1.95,-1.31,79.3,45.78,60.20441,67.71103
+344,JFNAX,Janus Henderson Global Life Sciences Fund Class A,61.0,0.84,0.51,62.81,44.85,58.411472,58.116104
+345,BARAX,Baron Asset Fund Retail Class,88.37,0.68,0.599996,93.25,61.43,81.37882,83.03463
+346,RLITX,Lazard International Strategic Equity Portfolio R6 Shares,13.28,1.53,0.2,15.73,10.06,12.372353,13.899486
+347,RYBCX,Rydex Basic Materials Fund Class C,43.12,-0.55,-0.24,50.14,28.97,39.370293,43.122425
+348,CMAAX,Calvert Moderate Allocation Fund Class A,18.99,0.0,0.0,20.68,15.44,18.176176,19.088823
+349,BFTIX,Baron Fifth Avenue Growth Fund Institutional Class,39.48,0.97,0.38,39.65,26.94,35.96588,34.476105
+350,JDCRX,Janus Henderson Forty Fund Class R,34.5,0.47,0.16,36.13,25.41,32.44294,32.73294
+351,TRMCX,T. Rowe Price Mid-Cap Value Fund,24.13,-0.98,-0.239999,28.72,17.19,22.393824,25.004412
+352,SCATX,Virtus Zevenbergen Innovative Growth Stock Fund Class I,39.43,0.41,0.16,40.29,24.34,36.05412,32.327354
+353,FTRSX,Fidelity Advisor Managed Retirement 2015 Fund Class M,53.42,0.17,0.090002,53.54,51.8,53.42,53.42
+354,PRMSX,T. Rowe Price Emerging Markets Stock Fund,38.9,-0.54,-0.21,48.48,32.85,38.01882,42.21419
+355,EKGIX,Wells Fargo Global Small Cap Fund Class Inst,36.57,-0.52,-0.19,43.51,28.51,33.89588,38.383602
+356,DHMYX,Diamond Hill Small-Mid Cap Fund Class Y,17.67,-2.16,-0.39,23.45,12.48,16.068235,19.536839
+357,AMVRX,American Century Mid Cap Value Fund R Class,14.23,-0.7,-0.1,17.15,10.41,13.244411,15.058897
+358,PDSIX,PGIM QMA Stock Index Fund- Class I,42.45,-0.19,-0.080003,52.05,31.23,40.120293,43.39603
+359,JFRNX,Janus Henderson Forty Fund Class N,41.22,0.49,0.2,43.07,30.32,38.73588,38.95956
+360,MPGEX,Meritage Growth Equity Fund Investor Shares,16.95,-0.12,-0.020001,18.47,12.88,15.901176,16.234632
+361,RYLCX,Rydex Leisure Fund Class C,52.56,-1.96,-1.05,63.61,36.66,48.152943,54.28353
+362,RYOIX,Rydex Biotechnology Fund Class Investor,89.03,0.64,0.57,90.13,63.72,84.56794,81.3978
+363,JHQCX,JPMorgan Hedged Equity Fund Class C,21.5,-0.19,-0.04,21.74,17.63,21.031178,20.775442
+364,SGRKX,Wells Fargo Growth Fund - Class Admin,42.05,0.24,0.1,43.47,28.86,38.57088,38.886322
+365,LVAEX,LSV Value Equity Fund Investor Class,21.78,-1.94,-0.430001,28.54,15.95,20.206177,23.909412
+366,HRLVX,Harbor Large Cap Value Fund Administrative Class,15.64,-0.64,-0.100001,17.97,11.55,14.555294,15.867206
+367,CYYYX,Columbia Thermostat Fund Institutional 3 Class,16.94,-0.12,-0.020001,16.96,13.7,16.414705,15.489559
+368,GEDIX,GMO Emerging Domestic Opportunities Fund Class IV,22.37,0.13,0.03,22.37,21.08,22.37,22.37
+369,NELIX,Nuveen Equity Long/Short Fund Class I,39.17,-0.61,-0.24,43.41,32.32,37.772648,39.977722
+370,IHORX,The Hartford International Opportunities Fund Class R3,14.51,0.35,0.05,17.14,11.5,13.760882,15.222795
+371,ADGZX,AB Core Opportunities Fund Class Z,20.26,-0.1,-0.02,22.28,15.09,19.114706,20.142132
+372,FSSNX,Fidelity Small Cap Index Fund,17.76,-2.52,-0.46,21.5,12.53,16.133236,18.537132
+373,DSPIX,BNY Mellon Institutional S&P 500 Stock Index Fund Class I,56.38,-0.19,-0.11,62.98,41.7,53.414413,56.531616
+374,TIIRX,TIAA-CREF Growth & Income Fund Retail Class,19.14,-0.16,-0.03,21.62,13.9,17.983824,19.158457
+375,GSMFX,GMO SGM Major Markets Fund Class III,31.84,0.16,0.05,32.55,30.62,31.89147,31.61397
+376,VBINX,Vanguard Balanced Index Fund Investor Shares,38.48,-0.23,-0.09,40.78,31.49,36.970882,37.89669
+377,SGRAX,Wells Fargo Growth Fund - Class A,35.23,0.26,0.09,37.11,24.19,32.313824,32.692795
+378,DHLAX,Diamond Hill Large Cap Fund Class A,24.84,-0.92,-0.23,29.64,18.03,23.280882,26.128088
+379,APHGX,Artisan Global Value Fund Institutional Class,14.58,-0.68,-0.1,18.62,11.19,13.608824,15.970589
+380,POLRX,Polen Growth Fund Investor Class,36.01,0.64,0.23,37.37,26.04,33.528824,33.348164
+381,TFSIX,Franklin Mutual Financial Services Fund Class A,16.11,-0.49,-0.08,23.33,12.69,14.642647,19.17853
+382,PRILX,Parnassus Core Equity Fund - Institutional Shares,44.51,0.43,0.19,49.5,34.64,42.498234,44.7036
+383,FCIGX,Fidelity Advisor Small Cap Growth Fund I Class,26.07,-0.99,-0.26,29.35,18.34,24.006176,25.53772
+384,NRIFX,Nuveen Real Asset Income Fund Class R6,20.24,0.55,0.11,25.5,15.91,19.461765,22.490515
+385,TIRTX,TIAA-CREF Large-Cap Growth Fund Retail Class,23.36,0.21,0.049999,24.2,16.94,21.87353,21.585882
+386,ZSCCX,Zacks Small-Cap Core Fund Investor Class,20.26,-2.31,-0.48,27.69,14.23,18.491764,23.002207
+387,FOCWX,AIG Focused Growth Fund Class W,26.26,0.08,0.02,28.58,18.61,24.306765,24.782795
+388,TILHX,TIAA-CREF Large Cap Growth Fund Advisor Class,23.42,0.26,0.06,24.25,16.98,21.923824,21.638897
+389,MSPTX,"Morgan Stanley Institutional Fund, Inc. Global Advantage Portfolio Class C",19.84,0.61,0.12,20.01,12.9,17.505295,16.642353
+390,WMLIX,Wilmington Large-Cap Strategy Fund Class Institutional,23.11,-0.26,-0.06,25.8,16.88,21.762941,23.03456
+391,RAAAX,Altegris/AACA Opportunistic Real Estate Fund A,17.86,0.39,0.07,20.06,12.43,16.85147,17.420294
+392,FCCGX,Fidelity Advisor Small Cap Growth Fund Class C,21.4,-0.97,-0.209999,24.16,15.08,19.721176,21.035074
+393,QUAYX,AB Small Cap Growth Portfolio Advisor Class,62.24,-1.05,-0.66,64.24,41.01,56.3,57.482426
+394,TDMTX,Templeton Developing Markets Trust Class C,17.72,0.0,0.0,22.13,14.4,17.201471,19.297132
+395,FSMEX,Fidelity Select Medical Technology and Devices Portfolio,59.62,1.58,0.93,63.68,42.64,57.607647,57.830883
+396,VPMCX,Vanguard PRIMECAP Fund Investor Shares,124.64,-0.6,-0.75,148.05,97.74,119.54912,130.01485
+397,BVEIX,Becker Value Equity Fund Institutional Class,15.96,-0.68,-0.11,18.94,12.52,15.179412,16.899265
+398,VPMAX,Vanguard PRIMECAP Fund Admiral Shares,129.2,-0.59,-0.77,153.52,101.3,123.91353,134.7597
+399,LZOEX,Lazard Emerging Markets Equity Portfolio Open Shares,14.43,0.42,0.06,19.3,12.06,13.878823,16.43625
+400,APGYX,AB Large Cap Growth Fund Advisor Class,68.09,0.34,0.23001,67.86,48.83,63.339706,62.281616
+401,HLMNX,Harding Loevner International Equity Portfolio Investor Class,21.29,1.0,0.209998,24.34,16.9,20.085588,21.81581
+402,FLGEX,Fidelity Large Cap Growth Enhanced Index Fund,22.41,0.04,0.01,23.37,16.3,21.19794,21.107279
+403,SBCEX,BNY Mellon Diversified Emerging Markets Fund Class I,20.73,0.05,0.01,25.26,16.63,19.987942,22.049265
+404,GILPX,Guggenheim Limited Duration Fund Class P,24.97,0.16,0.040002,25.07,23.94,24.676176,24.638163
+405,QGRNX,Invesco Oppenheimer Global Allocation Fund Class R,17.7,0.23,0.04,18.83,14.67,16.990294,17.565073
+406,BPLSX,Boston Partners Long/Short Equity Fund Institutional Class,15.17,-1.24,-0.19,18.75,12.2,14.431765,15.883015
+407,SCUIX,Hartford Schroders US Small Cap Opportunities Fund Class I,22.15,-1.47,-0.33,28.19,16.02,20.179117,23.987206
+408,TLIIX,TIAA-CREF Quant Large-Cap Growth Fund Institutional Class,15.27,0.13,0.02,16.15,10.96,14.330588,14.501029
+409,CDICX,Calvert Short Duration Income Fund Class C,15.7,0.13,0.020001,16.29,14.67,15.495,15.844485
+410,MJFOX,Matthews Japan Fund Investor Class,20.8,0.58,0.120002,23.47,15.67,19.497646,20.384926
+411,SCURX,Hartford Schroders US Small Cap Opportunities Fund Class SDR,22.2,-1.46,-0.33,28.25,16.05,20.222353,24.035662
+412,TQAIX,T. Rowe Price QM U.S. Small-Cap Growth Equity Fund I Class,37.47,-1.11,-0.42,41.64,25.99,34.085,36.784855
+413,SCMIX,Columbia Seligman Communications and Information Fund Institutional 2 Class,87.02,-1.91,-1.69,96.22,60.87,81.59647,85.348236
+414,FMPCX,Nuveen Small Cap Growth Opportunities Fund Class C,16.74,-1.59,-0.27,17.41,10.99,15.076177,15.423383
+415,FZAEX,Fidelity Advisor Emerging Markets Fund Class Z,24.98,-0.24,-0.059999,30.06,20.09,24.099117,25.93897
+416,PKSAX,Virtus KAR Small-Cap Core Fund Class A,37.51,-0.19,-0.069998,40.62,27.02,34.204704,36.626984
+417,FRIMX,Fidelity Advisor Managed Retirement Income Fund Class I,58.28,0.02,0.01,59.28,53.94,57.48206,57.99713
+418,WPSKX,AB Concentrated Growth Fund Class K,41.78,-0.41,-0.169997,45.63,29.1,38.880882,40.54647
+419,TCVIX,Touchstone Mid Cap Value Institutional Class,16.57,-0.54,-0.09,20.03,11.64,15.271176,17.278824
+420,PRISX,T. Rowe Price Financial Services Fund,22.01,-1.3,-0.290001,29.04,16.52,20.284412,24.732132
+421,SMDIX,Hartford Schroders US MidCap Opportunities Fund Class I,14.3,-0.14,-0.020001,16.93,10.04,13.221765,14.735
+422,CALCX,Calvert Conservative Allocation Fund Class C,17.05,0.06,0.010001,17.91,14.72,16.562647,17.043015
+423,JFNIX,Janus Henderson Global Life Sciences Fund Class I,62.25,0.84,0.52,64.09,45.75,59.6,59.279778
+424,HILVX,Harbor Large Cap Value Fund Investor Class,15.78,-0.69,-0.109999,18.14,11.66,14.692647,16.018824
+425,NWQAX,Nuveen NWQ Flexible Income Fund Class A,20.63,0.34,0.07,22.6,17.13,20.080294,21.187206
+426,FTRNX,Fidelity Trend Fund,114.96,0.45,0.52,118.62,82.23,107.569115,107.80221
+427,TIBMX,Thornburg Investment Income Builder Fund Class R5,18.53,0.05,0.01,23.14,14.89,17.621765,20.317942
+428,SMMOX,Western Asset Managed Municipals Fund Class 1,15.69,0.19,0.03,16.84,14.45,15.46353,16.064632
+429,HOOTX,Hartford Schroders US Small Cap Opportunities Fund Class R5,22.13,-1.47,-0.33,28.17,16.01,20.164999,23.970589
+430,FFNOX,Fidelity Four-in-One Index Fund,45.87,0.04,0.02,50.59,35.45,43.307648,46.08228
+431,JPIEX,JPMorgan U.S. Research Enhanced Equity Fund Class L,26.14,-0.23,-0.059999,29.11,19.01,24.639118,25.763971
+432,BTTTX,American Century Zero Coupon 2020 Fund Investor Class,108.23,0.0,0.0,108.25,105.64,108.22617,107.60294
+433,BINIX,Baron International Growth Fund Institutional Shares,23.3,0.3,0.07,25.42,17.27,21.492353,22.854633
+434,RYHDX,Rydex High Yield Strategy Fund Class A,22.55,0.31,0.07,25.56,19.85,22.038824,23.662058
+435,VTSIX,Vanguard Tax-Managed Small-Cap Fund Institutional Shares,54.42,-3.18,-1.79,69.33,39.97,49.600292,58.68559
+436,QCSGX,Federated MDT Small Cap Growth Fund Class C Shares,18.89,-2.07,-0.399999,21.58,12.5,17.170588,18.741102
+437,VHCOX,Vanguard Capital Opportunity Fund Investor Shares,62.44,-0.9,-0.57,72.31,47.36,58.973236,63.90544
+438,VSEQX,Vanguard Strategic Equity Fund Investor Shares,28.04,-1.13,-0.32,34.35,19.21,25.583529,29.573381
+439,TRPBX,T. Rowe Price Spectrum Moderate Allocation Fund,23.13,-0.09,-0.02,25.09,18.93,22.111471,23.217133
+440,FRNIX,Fidelity Advisor Simplicity RMD Income Fund Class I,58.61,0.07,0.04,58.78,57.5,58.61,58.61
+441,LSGRX,Loomis Sayles Growth Fund Class Y,19.18,0.58,0.11,19.7,14.5,18.061176,17.983015
+442,WSMDX,William Blair Small-Mid Cap Growth Fund Class I,26.82,-0.41,-0.11,29.21,18.23,24.38353,25.847353
+443,FWTFX,Fidelity Advisor Worldwide Fund Class M,27.54,0.66,0.18,29.43,20.14,25.667646,26.437426
+444,LGMAX,Loomis Sayles Global Allocation Fund Class A,23.92,0.46,0.11,25.24,18.78,22.728529,23.526323
+445,FCVIX,Fidelity Advisor Small Cap Value Fund Class I,12.03,-2.27,-0.279999,15.66,8.75,11.044412,13.299853
+446,BCSSX,Brown Capital Management Small Company Fund Institutional Shares,111.38,0.11,0.120005,113.27,74.04,98.803825,99.7286
+447,FSIMX,Salient Select Income Advisor,23.57,0.13,0.030001,23.57,23.57,23.57,23.57
+448,FRNAX,Fidelity Advisor Simplicity RMD Income Fund Class A,58.59,0.09,0.05,58.75,57.48,58.59,58.59
+449,CAMYX,Cambiar International Equity Institutional,21.87,1.96,0.42,27.75,17.02,20.376764,23.650955
+450,SWRLX,Touchstone International Equity Fund Class A,13.74,0.29,0.04,16.26,10.43,12.922941,14.359853
+451,GSMJX,GMO SGM Major Markets Fund Class IV,31.87,-0.41,-0.13,32.42,31.77,31.87,31.87
+452,TRVLX,T. Rowe Price Value Fund,32.35,-0.37,-0.119997,39.17,24.03,30.577942,34.227425
+453,CAMOX,Cambiar Opportunity Fund Class Investor,20.38,-0.54,-0.11,24.0,15.0,18.952353,20.746544
+454,TADGX,T. Rowe Price Dividend Growth Fund Advisor Class,49.56,0.3,0.15,55.58,37.13,46.917355,49.80978
+455,SGPIX,ProFunds Small Cap Growth Fund Investor Class,79.45,-2.98,-2.44,96.33,57.79,72.44147,82.76449
+456,APDGX,Artisan Global Value Fund Advisor Class,14.53,-0.68,-0.1,18.58,11.16,13.569706,15.929559
+457,MCINX,MainStay MacKay Convertible Fund Investor Class,18.51,0.05,0.01,19.36,14.38,17.342058,17.68978
+458,SMDVX,Hartford Schroders US MidCap Opportunities Fund Class A,13.73,-0.15,-0.02,16.27,9.64,12.701765,14.155221
+459,PAGSX,T. Rowe Price Global Stock Fund Advisor Class,46.99,0.41,0.189997,48.71,33.18,43.24647,43.512722
+460,DROCX,Diamond Hill Research Opportunities Fund Class C,18.6,-0.91,-0.17,22.8,13.86,17.378824,19.692574
+461,SHSCX,BlackRock Health Sciences Opportunities Portfolio Investor C Shares,57.71,1.23,0.7,58.06,41.56,55.525295,54.36441
+462,VMCCX,Virtus KAR Mid-Cap Core Fund Class C,34.0,0.06,0.02,37.08,24.48,31.009117,32.76809
+463,VMGIX,Vanguard Mid-Cap Growth Index Fund Investor Shares,62.53,0.42,0.26,67.04,42.82,57.437943,59.128235
+464,JVARX,JPMorgan Value Advantage Fund Class R5,29.82,-1.26,-0.379999,37.81,22.11,27.949705,32.77735
+465,DPSYX,BNY Mellon Structured MidCap Fund Class Y,22.65,-1.48,-0.34,28.23,15.74,20.651764,24.063456
+466,CSRIX,Cohen & Steers Institutional Realty Shares,39.93,0.45,0.18,50.5,29.57,37.565292,42.901398
+467,BLVAX,BMO Low Volatility Equity Fund Class A,14.44,0.63,0.090001,16.39,11.32,14.053823,14.938529
+468,SGENX,First Eagle Global Fund Class A,52.77,-0.02,-0.01,60.83,42.17,50.509705,54.134117
+469,MGBIX,AMG Managers Loomis Sayles Bond Fund Class I,26.32,0.0,0.0,27.75,24.44,25.954117,26.696398
+470,PRZIX,T. Rowe Price Emerging Markets Stock Fund I Class,39.01,-0.54,-0.209997,48.59,32.93,38.124413,42.315662
+471,PARLX,T. Rowe Price Retirement 2045 Fund Advisor Class,17.02,0.0,0.0,19.33,12.84,16.006176,17.277279
+472,VTCIX,Vanguard Tax-Managed Capital Appreciation Fund Institutional Shares,77.82,-0.22,-0.17,87.07,56.98,73.202644,77.12316
+473,USBLX,USAA Growth and Tax Strategy Fund,20.9,-0.14,-0.03,22.66,17.69,20.199411,21.079706
+474,LCGFX,William Blair Large Cap Growth Fund Class I,17.07,0.18,0.030001,17.93,12.36,16.048824,16.005074
+475,AIGYX,Aberdeen Realty Income & Growth Fund Institutional Class,12.49,0.56,0.07,18.13,9.19,11.835,14.311985
+476,GBATX,GMO Strategic Opportunities Allocation Fund Class III,18.13,-0.11,-0.02,21.28,14.71,17.410294,19.021618
+477,TOECX,Touchstone Mid Cap Growth Fund Class C,18.25,0.27,0.05,20.55,12.45,16.629412,17.886543
+478,FSTCX,Fidelity Select Telecommunications Portfolio,63.1,-0.32,-0.2,66.96,50.44,60.050587,60.39757
+479,PGIUX,Virtus Duff & Phelps Global Infrastructure Fund Class I,14.23,1.28,0.180001,17.03,10.38,13.345294,14.896912
+480,VHCAX,Vanguard Capital Opportunity Fund Admiral Shares,144.22,-0.89,-1.3,167.06,109.36,136.19618,147.58412
+481,AKRIX,Akre Focus Fund Institutional Class,48.6,0.98,0.470003,50.12,34.66,44.926178,45.309193
+482,AILCX,American Beacon International Equity Fund Class C,13.99,1.45,0.2,18.05,10.69,12.824411,15.264044
+483,NHMRX,Nuveen High Yield Municipal Bond Fund Class I,16.32,0.25,0.040001,18.83,14.63,15.956765,17.325663
+484,COGRX,Columbia Select Global Growth Fund Class R,17.48,0.46,0.08,17.94,12.32,16.13206,15.983603
+485,DREGX,Driehaus Emerging Markets Growth Fund Investor Class,34.73,-0.49,-0.169998,40.78,28.19,33.71206,36.27456
+486,FASDX,Fidelity Advisor Strategic Dividend & Income Fund Class A,14.19,0.07,0.010001,16.12,11.03,13.627059,14.560514
+487,BIPSX,ProFunds Biotechnology UltraSector Fund Service Class,52.13,1.01,0.52,52.8,34.06,49.332943,46.601765
+488,FIDLX,Fidelity Advisor Large Cap Fund Class Z,28.14,-1.16,-0.33,35.69,20.94,26.454117,30.056911
+489,THOCX,Thornburg Global Opportunities Fund Class C,26.4,-0.68,-0.18,30.94,20.1,24.76147,27.132132
+490,MLCIX,BMO Large-Cap Growth Fund Class I,18.81,0.0,0.0,19.94,13.71,17.624413,18.03728
+491,FTASX,Fidelity Advisor Asset Manager 70% Fund Class M,21.67,0.09,0.02,23.82,17.07,20.57,21.687647
+492,FIOAX,Fidelity Advisor Managed Retirement 2005 Fund Class A,59.11,0.02,0.009998,60.18,54.71,58.29794,58.842354
+493,CNPIX,ProFunds Consumer Goods Ultra Sector Fund Investor Class,100.63,-0.37,-0.37,123.4,65.94,93.95912,104.58853
+494,QGRCX,Invesco Oppenheimer Global Allocation Fund Class C,17.13,0.23,0.040002,18.26,14.21,16.449118,17.025515
+495,CLDIX,Calvert Long-Term Income Fund Class I,19.02,0.0,0.0,20.26,16.43,18.877354,18.704338
+496,ABSKX,AB Discovery Value Fund Class K,14.9,-2.36,-0.359999,20.1,10.43,13.529706,16.671103
+497,CTHRX,Columbia Global Technology Growth Fund Institutional 2 Class,44.57,-0.25,-0.11,46.96,32.64,41.79441,41.372646
+498,FRSSX,Nuveen Real Estate Securities Fund Class R3,17.24,0.82,0.14,23.25,13.0,16.442648,19.184484
+499,MIDNX,Matthews India Fund Institutional Class,17.48,1.33,0.23,27.94,14.02,16.989412,21.375
+500,LYRBX,Lyrical U.S. Value Equity Fund Investor Class,12.62,-2.17,-0.28,16.82,7.88,11.334412,13.812794
+501,FTHCX,Fidelity Advisor Technology Fund Class C,52.1,-0.21,-0.11,54.22,37.4,48.49,47.567207
+502,TWBIX,American Century Balanced Fund Investor Class,18.98,-0.11,-0.02,19.8,15.64,18.30647,18.706324
+503,ALCKX,AB Large Cap Growth Fund Class K,62.79,0.32,0.2,62.59,45.07,58.428825,57.508896
+504,ITTIX,Hartford Multi-Asset Income and Growth Fund Class I,19.1,-0.42,-0.08,23.5,16.74,18.65294,20.19897
+505,CSRYX,Columbia Select Large Cap Value Fund Institutional 3 Class,22.83,-0.91,-0.209999,28.56,16.27,21.615294,24.451618
+506,JVAAX,JPMorgan Value Advantage Fund Class A,29.68,-1.26,-0.38,37.57,22.02,27.829117,32.636986
+507,FELCX,Fidelity Advisor Semiconductors Fund Class C,22.4,-2.65,-0.61,24.85,14.84,21.080294,21.735073
+508,INPSX,ProFunds Internet UltraSector Fund Service Class,82.74,-0.01,-0.01,82.77,46.71,73.46059,69.645805
+509,SGIEX,Columbia Contrarian Core Fund Class V,25.51,0.0,0.0,27.8,18.78,24.111176,25.111986
+510,IHOAX,The Hartford International Opportunities Fund Class A,14.25,0.35,0.05,16.83,11.29,13.515294,14.958383
+511,DXQLX,Direxion Monthly NASDAQ-100 Bull 2X Fund Investor Class,35.4137,-0.48,-0.1716,38.85,19.23,32.03706,30.843163
+512,PCIEX,PACE International Equity Investments Class P,13.59,1.19,0.16,16.07,10.45,12.745295,14.180882
+513,ALAFX,Alger Focus Equity Fund Class A,43.2,0.09,0.04,43.92,31.01,40.347057,39.229042
+514,FCRWX,Fidelity Advisor Simplicity RMD 2020 Fund Class C,59.38,0.24,0.14,59.47,57.15,59.38,59.38
+515,CVMIX,Calvert Emerging Markets Equity Fund Class I,14.88,-0.47,-0.07,18.41,12.32,14.581765,16.094927
+516,PCCOX,T. Rowe Price U.S. Equity Research Fund I Class,29.2,-0.14,-0.040002,32.66,21.42,27.549118,28.989412
+517,CCLAX,Calvert Conservative Allocation Fund Class A,17.28,0.06,0.01,18.16,14.93,16.777647,17.268456
+518,VASIX,Vanguard LifeStrategy Income Fund Investor Shares,16.38,0.0,0.0,16.58,15.03,16.112648,16.179192
+519,FTMKX,Fidelity Advisor Emerging Markets Fund Class M,24.63,-0.24,-0.059999,29.63,19.83,23.773235,25.601986
+520,VEIRX,Vanguard Equity-Income Fund Admiral Shares,68.96,-0.12,-0.08,81.0,51.97,65.600586,72.47772
+521,FCRSX,Fidelity Advisor Managed Retirement 2015 Fund Class C,53.03,0.17,0.09,53.14,51.41,53.03,53.03
+522,SXPCX,DWS S&P 500 Index Fund - Class C,31.5,-0.19,-0.06,35.21,23.27,29.79147,31.503088
+523,HNMVX,Harbor Mid Cap Value Fund Retirement Class,15.57,-2.38,-0.38,21.85,10.88,14.09353,17.88603
+524,JTSYX,JPMorgan SmartRetirement 2050 Fund Class R6,18.82,-0.11,-0.02,22.51,14.46,17.81294,19.633455
+525,FARFX,Fidelity Advisor Managed Retirement 2025 Fund Class A,51.96,-0.04,-0.02,55.17,44.91,50.28706,52.107204
+526,PRWCX,T. Rowe Price Capital Appreciation Fund,31.18,-0.1,-0.030001,32.68,23.85,29.71294,30.477352
+527,MIEIX,MFS Institutional International Equity Fund,24.73,1.77,0.43,28.45,19.53,23.143824,25.541323
+528,ACRTX,AMG Managers Silvercrest Small Cap Fund Class I,13.01,-2.98,-0.4,16.8,9.65,11.860883,14.225661
+529,SPVZX,PGIM QMA Mid-Cap Value Fund- Class Z,13.07,-2.46,-0.33,19.24,8.96,11.81647,15.419632
+530,TIBAX,Thornburg Investment Income Builder Fund Class A,18.41,0.05,0.01,22.99,14.8,17.505295,20.184559
+531,CYPSX,ProFunds Consumer Services UltraSector Fund Service Class,38.87,-1.4,-0.55,122.25,25.51,35.79853,40.77566
+532,FCSDX,Fidelity Advisor Strategic Dividend & Income Fund Class C,14.12,0.07,0.01,16.03,10.97,13.567941,14.491397
+533,PRCOX,T. Rowe Price U.S. Equity Research Fund,29.19,-0.14,-0.040001,32.66,21.42,27.538235,28.980736
+534,MTINX,MainStay Income Builder Fund Investor Class,18.16,0.17,0.03,20.36,15.09,17.595,18.73897
+535,AIAFX,Aberdeen Global Infrastructure Fund Class A,19.16,0.52,0.1,23.26,14.18,17.683529,20.132132
+536,CMTFX,Columbia Global Technology Growth Fund Institutional Class,43.64,-0.25,-0.11,45.98,31.96,40.923237,40.516617
+537,SLMCX,Columbia Seligman Communications and Information Fund Class A,77.68,-1.91,-1.51,85.96,54.36,72.85176,76.352425
+538,JGMNX,Janus Henderson Triton Fund Class N,28.79,-0.72,-0.21,33.06,19.52,26.178236,28.743456
+539,DSMLX,Touchstone Large Company Growth Fund Class Institutional,45.51,0.33,0.150003,48.21,33.85,43.204117,43.40772
+540,FMCRX,Federated Mid-Cap Index Fund Institutional Shares,17.1,-1.38,-0.24,21.52,11.77,15.469706,17.798382
+541,FEYTX,Fidelity Advisor Asset Manager 85% Fund Class M,18.6,0.05,0.01,20.85,14.15,17.515295,18.692942
+542,CIPIX,Champlain Mid Cap Fund Institutional Class,20.74,0.24,0.05,21.63,14.31,18.825,19.576544
+543,BTIIX,DWS Equity 500 Index Fund - Class Inst,186.07,-0.19,-0.36001,213.54,137.79,175.84824,188.38235
+544,FMGIX,Frontier MFG Core Infrastructure Fund Institutional Class,16.51,1.6,0.26,19.45,12.78,15.792941,17.149706
+545,GIOPX,Guggenheim Macro Opportunities Fund Class P,24.86,0.24,0.059999,26.02,23.56,24.359118,25.172941
+546,BDSIX,BlackRock Advantage Small Cap Core Fund Institutional Shares,13.14,-2.52,-0.3400005,15.89,9.0,11.889706,13.614044
+547,MFMPX,"Morgan Stanley Institutional Fund, Inc. Frontier Markets Portfolio Class A",14.82,0.0,0.0,17.83,11.39,13.552647,15.417132
+548,BPIRX,Boston Partners Long/Short Research Fund Institutional Class,13.14,-0.23,-0.03,16.02,11.49,13.039412,14.545956
+549,FDIGX,Fidelity Advisor Consumer Staples Fund I Class,79.93,0.25,0.2,89.81,64.87,77.38706,82.804924
+550,HACAX,Harbor Capital Appreciation Fund Institutional Class,82.4,0.21,0.17,85.82,58.97,76.83647,76.20228
+551,MPACX,Matthews Asia Growth Fund Investor Class,27.47,-0.33,-0.09,29.0,21.13,26.04647,26.701765
+552,JMUEX,JPMorgan U.S. Equity Fund Class L,15.93,-0.19,-0.03,17.33,11.55,15.047941,15.59897
+553,OLVAX,JPMorgan Large Cap Value Fund Class A,12.63,-1.86,-0.24,15.74,8.94,11.597353,13.478382
+554,JHQRX,JPMorgan Hedged Equity Fund Class R6,21.77,-0.18,-0.040001,22.01,17.87,21.280294,21.026323
+555,DNINX,Dunham International Stock Fund Class N,14.05,0.43,0.06,16.37,10.78,13.205882,14.521397
+556,RRTCX,T. Rowe Price Retirement 2030 Fund Class R,23.94,0.0,0.0,26.6,18.73,22.71647,24.170588
+557,FHCIX,Fidelity Advisor Health Care Fund I Class,63.98,1.25,0.79,64.3,45.66,61.27559,58.89125
+558,SEMTX,Hartford Schroders Emerging Markets Equity Fund Class SDR,14.09,-0.84,-0.12,17.22,11.66,13.668823,15.093162
+559,STVYX,SEI Institutional Managed Trust Tax-Managed Managed Volatility Fund Class Y,16.04,0.63,0.099999,18.59,12.39,15.440588,16.748383
+560,JAGLX,Janus Henderson Global Life Sciences Fund Class T,61.83,0.85,0.52,63.63,45.45,59.200882,58.889046
+561,HEIFX,Hennessy Equity and Income Fund Investor Class,14.25,-0.14,-0.02,16.04,11.72,13.674412,14.499706
+562,GIOAX,Guggenheim Macro Opportunities Fund Class A,24.85,0.24,0.06,26.02,23.55,24.350588,25.164705
+563,FSRFX,Fidelity Select Transportation Portfolio,71.16,-1.22,-0.88,98.46,58.35,64.80324,82.209114
+564,FTUIX,Fidelity Advisor Telecommunications Fund I Class,62.97,-0.32,-0.200002,66.81,50.33,59.923237,60.245735
+565,SXPAX,DWS S&P 500 Index Fund - Class A,31.61,-0.22,-0.07,35.33,23.37,29.88441,31.599045
+566,GRMCX,Nationwide S&P 500 Index Fund Class C,14.62,-0.2,-0.03,16.31,10.78,13.828529,14.67353
+567,LGRCX,Loomis Sayles Growth Fund Class C,16.14,0.56,0.09,16.62,12.23,15.206764,15.169338
+568,FAMFX,FAM Small Cap Fund Investor Class,15.66,-2.49,-0.4,19.18,11.55,14.436176,16.589413
+569,HBLVX,The Hartford Balanced Income Fund Class R6,14.5,0.07,0.01,15.44,11.86,14.004705,14.529926
+570,NELCX,Nuveen Equity Long/Short Fund Class C,34.56,-0.6,-0.21,38.46,28.57,33.347942,35.37
+571,GASFX,Hennessy Gas Utility Fund Investor Class,24.63,1.53,0.370002,30.25,18.85,24.040295,26.56294
+572,FEGIX,First Eagle Gold Fund Class I,24.07,0.29,0.07,25.77,14.69,23.830883,20.574265
+573,VTCLX,Vanguard Tax-Managed Capital Appreciation Fund Admiral Shares,156.59,-0.22,-0.35,175.22,114.66,147.31117,155.19875
+574,RCGTX,AllianzGI Technology Fund Class C,39.63,-0.03,-0.01,47.83,28.06,37.204704,38.00669
+575,APDKX,Artisan International Value Fund Advisor Class,30.19,0.84,0.25,37.31,23.1,28.085295,32.46566
+576,BMRRX,BlackRock Mid-Cap Growth Equity Portfolio Class R,27.35,1.15,0.31,28.57,18.4,24.94853,25.01706
+577,EGOIX,Wells Fargo Large Cap Core Fund - Class Inst,15.29,-0.46,-0.07,20.1,11.05,14.342648,15.873603
+578,PRGFX,T. Rowe Price Growth Stock Fund,76.11,0.04,0.03,80.79,54.76,70.95765,71.38507
+579,PRLAX,T. Rowe Price Latin America Fund,16.49,-2.25,-0.379999,26.81,12.79,14.961471,20.502426
+580,FADTX,Fidelity Advisor Technology Fund Class A,64.42,-0.2,-0.129995,66.9,46.07,59.923824,58.69191
+581,ATACX,ATAC Rotation Fund Investor Class,43.54,-3.42,-1.54,45.08,29.18,39.08441,33.86816
+582,FURAX,Fidelity Advisor Simplicity RMD 2015 Fund Class A,59.69,0.18,0.110002,59.8,57.81,59.69,59.69
+583,JANEX,Janus Henderson Enterprise Fund Class D,131.85,-0.16,-0.21001,148.44,91.67,121.47176,131.69948
+584,HAVLX,Harbor Large Cap Value Fund Institutional Class,15.64,-0.64,-0.100001,17.96,11.55,14.559117,15.865441
+585,QASGX,Federated MDT Small Cap Growth Fund Class A Shares,21.79,-2.02,-0.450002,24.83,14.39,19.792353,21.567867
+586,VSSCX,JPMorgan Small Cap Core Fund Class R5,41.44,-3.09,-1.32,53.22,28.17,37.340294,44.75772
+587,ENTIX,ERShares Global Fund Institutional Class,16.13,0.44,0.07,17.24,11.71,15.23,15.644632
+588,BTBFX,Boston Trust Asset Management Fund,51.0,0.0,0.0,56.81,42.29,49.375,52.123676
+589,EKGYX,Wells Fargo Global Small Cap Fund Class Admin,36.74,-0.51,-0.19,43.64,28.65,34.056767,38.559193
+590,TVRVX,Third Avenue Real Estate Value Fund Investor Class,19.48,-1.17,-0.23,29.17,15.02,19.000883,23.095736
+591,ADGYX,AB Core Opportunities Fund Advisor Class,19.92,-0.05,-0.01,21.91,14.84,18.790882,19.805662
+592,JAVTX,Janus Henderson Venture Fund Class T,75.6,-0.89,-0.68,83.8,52.94,68.46,74.490585
+593,JMCRX,James Micro Cap Fund,12.45,-2.2,-0.28,16.88,8.91,11.28647,13.992132
+594,JARIX,James Alpha Global Real Estate Investments Portfolio Class I Shares,15.11,-0.4,-0.06,19.89,11.83,14.451765,17.066544
+595,FZAMX,Fidelity Advisor Mid Cap II Fund Class Z,17.15,-0.81,-0.139999,20.56,11.86,15.62147,17.702942
+596,SSQSX,State Street Institutional Small-Cap Equity Fund Service Class,14.64,-2.07,-0.310001,18.39,10.33,13.171177,15.381618
+597,GIOCX,Guggenheim Macro Opportunities Fund Class C,24.84,0.24,0.06,26.0,23.54,24.335588,25.149338
+598,WSCGX,Wells Fargo Small Company Growth Fund - Class Inst,50.28,-1.68,-0.86,59.12,33.56,45.46294,50.680515
+599,BUFIX,Buffalo International Fund,15.58,0.91,0.14,17.25,11.78,14.56647,15.577206
+600,HJPIX,Hennessy Japan Fund Institutional Class,39.35,1.92,0.740003,39.81,28.86,35.559708,36.79353
+601,GIBLX,Guggenheim Total Return Bond Fund Class P,28.57,0.11,0.030001,28.8,27.01,28.19,27.642132
+602,NHMAX,Nuveen High Yield Municipal Bond Fund Class A,16.32,0.25,0.040001,18.83,14.63,15.956765,17.325
+603,JOBEX,JPMorgan SmartRetirement Blend 2040 Fund Class I,22.38,-0.04,-0.01,25.39,17.56,21.218235,22.924852
+604,WFLLX,Wells Fargo Large Cap Core Fund - Class Admin,15.43,-0.45,-0.07,20.21,11.16,14.479117,16.01272
+605,GURIX,Guggenheim Risk Managed Real Estate Fund Institutional,29.84,1.02,0.3,35.56,23.71,28.864119,31.633455
+606,HGGAX,Harbor Global Leaders Fund Institutional Class,30.05,0.57,0.17,32.9,21.94,27.969706,29.566029
+607,DSCVX,BNY Mellon Opportunistic Small Cap Fund Investor Shares,23.5,-1.92,-0.46,28.73,15.86,21.093235,24.309633
+608,HFDYX,Hartford Schroders US MidCap Opportunities Fund Class Y,14.28,-0.21,-0.029999,16.91,10.03,13.211177,14.724853
+609,DISSX,BNY Mellon Small Cap Stock Index Fund Investor Shares,22.82,-3.14,-0.74,31.05,16.7,20.776176,25.143015
+610,FACSX,Nuveen Mid Cap Value Fund Class C,32.13,-1.14,-0.37,41.2,22.81,29.837059,35.164707
+611,SGGDX,First Eagle Gold Fund Class A,23.34,0.26,0.06,25.0,14.28,23.120882,19.96919
+612,DDDAX,13D Activist Fund Class A,18.72,-1.94,-0.37,22.45,12.52,17.015589,19.353971
+613,FABLX,Fidelity Advisor Balanced Fund Class A,22.01,-0.32,-0.07,23.43,17.25,20.917059,21.48956
+614,FELTX,Fidelity Advisor Semiconductors Fund Class M,25.11,-2.67,-0.690001,27.83,16.63,23.628235,24.339338
+615,MRAGX,Meridian Growth Fund A Class,33.76,-1.72,-0.59,40.8,22.59,30.082354,33.861763
+616,RWDYX,Redwood Managed Volatility Fund Class Y,14.32,0.14,0.020001,15.55,14.02,14.149706,14.961397
+617,GIUSX,Guggenheim Investment Grade Bond Fund Institutional Class,19.72,0.1,0.020001,19.88,18.63,19.469706,19.079706
+618,SAOSX,Guggenheim Alpha Opportunity Fund Class P,17.03,-1.16,-0.200001,17.84,15.21,16.647352,16.8625
+619,JANIX,Janus Henderson Triton Fund Class D,28.39,-0.73,-0.209998,32.65,19.26,25.818235,28.359339
+620,FIARX,Fidelity Advisor Simplicity RMD 2010 Fund Class A,53.67,0.13,0.07,53.79,52.31,53.67,53.67
+621,BMGAX,BlackRock Mid-Cap Growth Equity Portfolio Investor A Shares,27.88,1.12,0.31,29.1,18.75,25.433529,25.489412
+622,GWEIX,AMG GW&K Small Cap Core Fund Class I,23.61,-1.71,-0.41,27.64,16.09,21.294706,23.969265
+623,PSGAX,Virtus KAR Small-Cap Growth Fund Class A,41.86,-0.31,-0.13,43.07,29.08,37.299706,38.291176
+624,TIBCX,Thornburg Investment Income Builder Fund Class C,18.39,0.11,0.020001,22.96,14.78,17.484411,20.159706
+625,FGFAX,Federated International Leaders Fund Class A Shares,31.52,1.29,0.4,36.41,23.71,29.087942,32.20544
+626,FBGRX,Fidelity Blue Chip Growth Fund,117.03,-0.54,-0.629996,120.62,81.7,108.2347,105.84919
+627,FIRSX,Fidelity Managed Retirement 2015 Fund,52.9,0.0,0.0,55.02,47.3,51.63647,52.827057
+628,AUUCX,AB Select US Equity Portfolio Class C,14.82,-0.2,-0.029999,16.86,11.2,14.113235,15.085809
+629,FOCCX,AIG Focused Growth Fund Class C,23.46,0.09,0.020001,25.59,16.65,21.723824,22.228676
+630,FSPHX,Fidelity Select Health Care Portfolio,29.35,1.14,0.33,29.99,21.47,28.10853,27.576029
+631,LSSCX,Loomis Sayles Small Capital Value Fund Institutional Class,21.81,-2.28,-0.51,30.34,15.75,19.85,24.354559
+632,WTMCX,Segall Bryant & Hamill Mid Cap Value Dividend Fund Retail Class,20.78,-0.48,-0.100001,25.86,14.93,19.455294,22.445736
+633,SDVRX,PGIM QMA Mid-Cap Value Fund- Class R,13.04,-2.47,-0.33,19.12,8.95,11.794118,15.3872795
+634,RINPX,Royce International Premier Fund Consultant Class,17.84,1.02,0.18,19.7,13.01,16.417059,17.580294
+635,DHMCX,Diamond Hill Small Mid Cap Fund Class C,15.69,-2.12,-0.339999,20.84,11.1,14.276765,17.37375
+636,SMTSX,JPMorgan SmartRetirement 2040 Fund Class I,19.37,-0.15,-0.030002,23.33,15.14,18.40206,20.214045
+637,FSTRX,Federated MDT Large Cap Value Fund Class A,24.12,-0.5,-0.120002,28.64,17.59,22.746176,25.296396
+638,SFEPX,Guggenheim StylePlus - Large Core Fund Class P,20.14,-0.25,-0.049999,22.63,14.57,18.946177,20.160955
+639,PMVQX,PGIM QMA Mid-Cap Value Fund- Class R6,13.04,-2.47,-0.33,19.2,8.94,11.792941,15.383162
+640,NBGEX,Neuberger Berman Genesis Fund Trust Class,56.68,-1.06,-0.61,61.72,39.97,51.153824,54.994045
+641,SMTYX,JPMorgan SmartRetirement 2040 Fund Class R6,19.43,-0.15,-0.030001,23.4,15.19,18.455587,20.276176
+642,AVEDX,Ave Maria Rising Dividend Fund,16.26,-0.43,-0.07,20.04,11.62,15.047353,17.06022
+643,CVTCX,Calamos Growth & Income Fund Class C,33.7,-0.24,-0.080003,36.18,25.9,31.822647,33.06728
+644,EIPIX,EIP Growth and Income Fund Class I,13.17,0.23,0.03,16.19,9.07,12.310294,13.927868
+645,GEQZX,GuideStone Funds Equity Index Fund Investor Class,33.51,-0.18,-0.06,37.31,24.7,31.68794,33.28044
+646,FICSX,Fidelity Advisor International Small Cap Fund Class C,21.8,0.79,0.17,26.74,16.91,20.451176,23.361324
+647,TFEQX,Templeton Institutional Fund International Equity Series Primary Shares,12.87,0.94,0.12,16.4,10.31,12.305,14.020368
+648,CCASX,Conestoga Small Cap Fund Investors Class,58.08,-1.73,-1.020002,62.97,42.7,52.29441,55.973457
+649,FITTX,Fidelity Advisor Managed Retirement 2025 Fund Class M,53.19,0.25,0.130002,53.28,51.06,53.19,53.19
+650,ARTGX,Artisan Global Value Fund Investor Class,14.57,-0.61,-0.09,18.62,11.19,13.600588,15.96853
+651,HISVX,Harbor Small Cap Value Fund Investor Class,28.72,-2.11,-0.62,34.91,20.18,26.087942,29.981985
+652,JGRCX,Janus Henderson Enterprise Fund Class C,117.03,-0.16,-0.19,132.08,81.5,107.88529,117.287796
+653,DBECX,BNY Mellon Diversified Emerging Markets Fund Class C,19.57,0.0,0.0,23.96,15.74,18.887648,20.832794
+654,OMGNX,Invesco Oppenheimer Main Street Fund Class R,43.65,-0.14,-0.060003,50.24,32.38,41.64647,44.530663
+655,UMPSX,ProFunds UltraMid Cap Fund Service Class,24.46,-2.9,-0.729999,39.87,12.14,20.337059,29.720589
+656,VWILX,Vanguard International Growth Fund Admiral Shares,104.2,0.58,0.6,108.0,76.73,96.602646,97.81103
+657,AMDVX,American Century Mid Cap Value Fund R6 Class,14.34,-0.62,-0.09,17.27,10.47,13.329706,15.157721
+658,FVDKX,Fidelity Value Discovery Fund Class K,25.98,-1.18,-0.309999,30.47,18.98,24.260294,27.05022
+659,FIROX,Fidelity Managed Retirement 2005 Fund,59.13,0.03,0.02,60.22,54.72,58.308823,58.859486
+660,JMBRX,JPMorgan SmartRetirement Blend 2045 Fund Class R5,22.41,0.0,0.0,25.72,17.31,21.170588,23.043089
+661,NHMCX,Nuveen High Yield Municipal Bond Fund Class C2,16.31,0.18,0.030001,18.82,14.62,15.947647,17.314411
+662,PSIAX,PGIM QMA Stock Index Fund- Class A,42.22,-0.19,-0.080003,51.76,31.08,39.909412,43.1875
+663,SASWX,AIG Small-Cap Fund Class W,14.25,-2.26,-0.33,17.72,9.94,13.081177,15.1731615
+664,GGGAX,Gabelli Global Growth Fund Class A,36.5,0.69,0.25,39.2,27.12,34.33294,35.294632
+665,FSCRX,Fidelity Small Cap Discovery Fund,18.47,-2.07,-0.389999,24.26,12.5,16.369411,19.967794
+666,HWAIX,Hotchkis & Wiley Value Opportunities Fund Class Institutional,22.25,-1.72,-0.39,29.29,17.2,20.750587,25.011618
+667,JPGSX,JPMorgan Intrepid Growth Fund Class I,56.26,-0.34,-0.189997,61.78,41.07,53.242645,54.789265
+668,BPAIX,Boston Partners All Cap Value Fund Institutional Class,22.84,-0.87,-0.2,27.74,16.48,21.285294,24.230442
+669,FWCFX,Fidelity Advisor Worldwide Fund Class C,26.67,0.64,0.17,28.54,19.52,24.867353,25.642574
+670,RYBIX,Rydex Basic Materials Fund Class Investor,53.59,-0.56,-0.3,61.34,35.93,48.897648,53.346176
+671,SHTCX,Columbia Seligman Global Technology Fund Class C,31.44,-1.9,-0.61,35.27,21.91,29.482353,30.97103
+672,NBGIX,Neuberger Berman Genesis Fund Institutional Class,56.6,-1.07,-0.61,61.69,39.89,51.07206,54.899044
+673,FSRPX,Fidelity Select Retailing Portfolio,17.89,-0.67,-0.12,18.01,12.38,16.27794,16.146177
+674,RYCVX,Rydex Dow 2x Strategy Fund Class H,76.92,-1.12,-0.87,115.79,42.66,68.69882,89.78272
+675,GIBRX,Guggenheim Total Return Bond Fund Class R6,28.62,0.1,0.03,28.85,27.06,28.237352,27.688602
+676,HFDCX,Hartford Schroders US MidCap Opportunities Fund Class C,13.87,-0.14,-0.02,16.46,9.75,12.832941,14.323824
+677,GLRIX,James Balanced: Golden Rainbow Fund Institutional Class,19.9,0.0,0.0,21.37,17.79,19.580294,20.286985
+678,NMIMX,Columbia Large Cap Enhanced Core Fund Institutional Class,23.91,-0.5,-0.12,26.46,17.34,22.479706,23.714485
+679,MGPIX,ProFunds Mid Cap Growth Fund Investor Class,90.46,-0.87,-0.79,101.45,61.61,82.11617,88.885735
+680,MMEAX,Victory Integrity Discovery Fund Class A,23.3,-4.23,-1.03,34.53,16.86,20.961472,27.8425
+681,WIIGX,Wasatch International Growth Fund Institutional Class,30.37,0.4,0.12,32.02,20.73,27.324705,28.797205
+682,FIRNX,Fidelity Simplicity RMD Income Fund,58.72,0.05,0.029998,60.0,54.09,57.81794,58.52272
+683,RAIIX,Manning & Napier Rainier International Discovery Series Class I,21.67,0.46,0.1,22.75,15.2,19.920294,20.594044
+684,FASGX,Fidelity Asset Manager 70% Fund,21.71,0.05,0.010001,23.93,17.08,20.605,21.725735
+685,OTPIX,ProFunds NASDAQ-100 Fund Investor Class,90.3,-0.27,-0.24,93.87,67.4,85.68294,83.581985
+686,TRAOX,T. Rowe Price Asia Opportunities Fund,14.52,-0.48,-0.07,17.03,12.03,14.394706,15.184265
+687,ACMVX,American Century Mid Cap Value Fund Investor Class,14.32,-0.62,-0.09,17.25,10.46,13.321177,15.144044
+688,VEIPX,Vanguard Equity-Income Fund Investor Shares,32.9,-0.12,-0.040002,38.64,24.8,31.30147,34.57956
+689,HGIYX,Hartford Core Equity Fund Class Y,33.29,0.06,0.02,37.26,24.79,31.470882,33.313087
+690,MIJFX,Matthews Japan Fund Institutional Class,20.84,0.58,0.12,23.52,15.71,19.53647,20.425882
+691,MFCCX,Meridian Contrarian Fund Class C,29.59,-2.02,-0.61,36.11,20.18,26.771765,30.423897
+692,INPIX,ProFunds Internet UltraSector Fund Investor Class,107.78,0.0,0.0,107.8,60.74,95.63,90.478386
+693,TAAAX,Thrivent Aggressive Allocation Fund Class A,14.08,-0.14,-0.02,16.12,10.62,13.229706,14.419853
+694,BARUX,Baron Asset Fund Class R6,92.21,0.68,0.62,97.23,64.07,84.90147,86.576324
+695,BIECX,Brandes International Equity Fund Class C,12.67,-0.08,-0.01,17.09,10.22,11.901765,14.446177
+696,TYGGX,Touchstone International Growth Opportunities Fund Class Y,21.19,0.62,0.129999,23.64,16.16,19.955883,21.155148
+697,HFSAX,Hundredfold Select Alternative Fund Investor Class,24.59,0.08,0.02,24.57,22.14,23.878235,23.059118
+698,QFVOX,Pear Tree Polaris Foreign Value Fund Class Ordinary,17.17,1.06,0.18,22.21,12.61,15.743824,18.833235
+699,FDFAX,Fidelity Select Consumer Staples Portfolio,80.12,0.25,0.199994,90.02,65.03,77.57441,83.003235
+700,NRIIX,Nuveen Real Asset Income Fund Class I,20.13,0.5,0.100001,25.37,15.83,19.362352,22.375
+701,TRPIX,T. Rowe Price Value Fund I Class,32.35,-0.4,-0.13,39.16,24.03,30.579412,34.23088
+702,DHLYX,Diamond Hill Large Cap Fund Class Y,25.05,-0.91,-0.229999,29.95,18.18,23.471766,26.353603
+703,FLCCX,Fidelity Advisor Large Cap Fund Class C,23.43,-1.14,-0.27,29.95,17.47,22.038824,25.12772
+704,JCICX,JPMorgan Intrepid Growth Fund Class C,53.87,-0.33,-0.18,59.29,39.39,51.00941,52.54831
+705,FLRAX,Nuveen Large Cap Select Fund Class A,30.25,-0.23,-0.07,34.67,22.63,28.565882,30.494411
+706,TPLGX,T. Rowe Price Institutional Large Cap Core Growth Fund,51.28,0.06,0.03,53.56,37.11,48.19706,47.65897
+707,MPGIX,Meritage Growth Equity Fund Institutional Shares,17.2,-0.12,-0.020001,18.73,13.07,16.132353,16.462793
+708,POMIX,T. Rowe Price Total Equity Market Index Fund,33.29,-0.36,-0.12,37.32,24.24,31.265,33.144928
+709,HLQVX,JPMorgan Large Cap Value Fund Class I,12.4,-1.9,-0.239999,15.46,8.78,11.387059,13.23603
+710,CSGCX,Calvert Balanced Fund Class C,32.92,0.15,0.05,35.18,26.8,31.723824,32.668236
+711,NFFCX,Nuveen Symphony Floating Rate Income Fund Class C,17.23,0.17,0.030001,19.26,14.8,16.934118,18.051104
+712,DOPIX,BNY Mellon Opportunistic Small Cap Fund Class I,23.66,-1.91,-0.459999,28.91,15.96,21.229118,24.470295
+713,PRGIX,T. Rowe Price Growth and Income Fund,28.13,0.32,0.090001,31.84,21.11,26.735588,28.447353
+714,TCMPX,AMG TimesSquare International Small Cap Fund Class N,14.01,0.43,0.06,16.44,10.1,12.578236,14.327132
+715,PNAIX,T. Rowe Price New America Growth Fund I Class,57.83,-0.03,-0.020002,60.05,41.74,54.195,54.18978
+716,NMAEX,Nuveen Equity Market Neutral Fund Class A,21.49,-0.92,-0.2,23.68,20.92,21.731766,22.18706
+717,TAMVX,T. Rowe Price Mid-Cap Value Fund Advisor Class,24.02,-0.99,-0.24,28.55,17.13,22.299118,24.903824
+718,ILLLX,Transamerica Capital Growth Fund Class C,26.23,0.38,0.1,27.13,15.51,23.612942,21.513163
+719,WBSIX,William Blair Small Cap Growth Fund Class I,29.18,-1.65,-0.49,32.76,19.93,26.298235,28.76272
+720,CBALX,Columbia Balanced Fund Institutional Class,42.93,-0.02,-0.01,45.25,34.81,41.18441,42.152794
+721,MCNVX,MainStay MacKay Convertible Fund Class I,18.56,0.05,0.01,19.42,14.42,17.385294,17.735294
+722,QISCX,Federated MDT Small Cap Core Fund Institutional Class,16.53,-2.25,-0.38,20.42,11.41,15.022647,17.470146
+723,TIQIX,Touchstone Global ESG Equity Fund - Class Y,20.05,0.3,0.06,23.03,15.46,18.964413,20.663677
+724,HJPSX,Hennessy Japan Small Cap Fund Investor Class,14.7,0.55,0.08,16.08,10.58,13.27,14.252647
+725,HRCAX,Harbor Capital Appreciation Fund Administrative Class,80.41,0.21,0.169995,83.81,57.58,74.99147,74.429634
+726,GMODX,GMO Opportunistic Income Fund Class VI,25.36,0.04,0.01,26.92,23.87,25.045588,25.665514
+727,EAFGX,Eaton Vance Focused Growth Opportunities Fund Class A,23.77,-0.17,-0.040001,24.91,17.08,22.117647,22.263235
+728,FDVAX,Fidelity Advisor Diversified International Fund Class A,22.61,1.39,0.309999,24.98,16.98,21.144707,22.543308
+729,MTXVX,MainStay Income Builder Fund Class R3,18.15,0.17,0.030001,20.34,15.07,17.580294,18.724707
+730,NBGNX,Neuberger Berman Genesis Fund Investor Class,56.69,-1.06,-0.61,61.73,39.97,51.159412,54.99397
+731,TRSSX,T. Rowe Price Institutional Small-Cap Stock Fund,23.13,-1.36,-0.319999,26.97,16.42,21.12647,23.46456
+732,PRDGX,T. Rowe Price Dividend Growth Fund,49.64,0.3,0.150002,55.67,37.2,46.982647,49.88228
+733,CTCAX,Columbia Global Technology Growth Fund Class A,41.79,-0.26,-0.11,44.07,30.63,39.199707,38.835148
+734,GWETX,AMG GW&K Small Cap Core Fund Class N,23.15,-1.74,-0.41,27.11,15.79,20.885588,23.521029
+735,VWENX,Vanguard Wellington Fund Admiral Shares,70.93,0.0,0.0,77.12,57.08,68.47176,71.740364
+736,PJIAX,PGIM Jennison Focused Value Fund- Class A,13.44,0.0,0.0,16.69,10.18,12.696765,14.324926
+737,FEYCX,Fidelity Advisor Asset Manager 85% Fund Class C,18.39,0.05,0.01,20.55,14.01,17.326176,18.48581
+738,NEFJX,Natixis Funds Trust I Vaughan Nelson Small Cap Value Fund Class A,12.68,-2.24,-0.29,15.89,9.38,11.589412,13.57647
+739,DMIDX,BNY Mellon MidCap Index Fund Class I,28.03,-1.44,-0.41,36.08,19.22,25.36353,29.483162
+740,RISAX,Manning & Napier Rainier International Discovery Series Class S,21.45,0.47,0.1,22.54,15.06,19.724707,20.392574
+741,AULDX,American Century Ultra Fund R6 Class,58.88,0.07,0.04,60.76,41.37,54.653236,53.94706
+742,PSGCX,Virtus KAR Small-Cap Growth Fund Class C,37.16,-0.32,-0.12,38.32,25.85,33.130295,34.077427
+743,HRMVX,Harbor Mid Cap Value Fund Administrative Class,15.74,-2.3,-0.37,22.0,11.0,14.245588,18.073235
+744,FCAZX,Franklin Corefolio Allocation Fund Advisor Class,18.8,0.27,0.05,20.96,14.1,17.662941,18.872574
+745,FEATX,Fidelity Advisor Emerging Asia Fund Class M,39.55,-0.35,-0.14,41.63,31.41,38.187355,38.3875
+746,MCDFX,Matthews China Dividend Fund Investor Class,15.23,-0.46,-0.069999,16.97,13.09,15.215882,15.461544
+747,TIBIX,Thornburg Investment Income Builder Fund Class I,18.55,0.11,0.020001,23.16,14.9,17.633236,20.331911
+748,ENPSX,ProFunds UltraSector Oil & Gas Fund Service Class,11.43,-4.19,-0.5,26.35,5.64,10.338823,16.76147
+749,NSGAX,Columbia Select Large Cap Equity Fund Class A,14.72,-0.14,-0.020001,16.32,10.87,14.005,14.491692
+750,ITTAX,Hartford Multi-Asset Income and Growth Fund Class A,19.12,-0.36,-0.07,23.51,16.75,18.66794,20.21353
+751,BPTIX,Baron Partners Fund Institutional Shares,74.26,-1.64,-1.24,92.68,45.17,67.73441,69.82154
+752,ABSIX,AB Discovery Value Fund Class I,15.03,-2.34,-0.359999,20.29,10.52,13.64,16.803602
+753,CYPIX,ProFunds Consumer Services UltraSector Fund Investor Class,45.62,-1.38,-0.64,142.49,29.88,41.98941,47.716175
+754,SVUBX,PGIM QMA Mid-Cap Value Fund- Class B,10.86,-2.51,-0.279999,15.98,7.47,9.832647,12.842868
+755,PGUCX,Virtus Duff & Phelps Global Infrastructure Fund Class C,14.17,1.36,0.1899995,16.93,10.35,13.293235,14.822059
+756,BDSKX,BlackRock Advantage Small Cap Core Fund Class K,13.15,-2.52,-0.34,15.89,9.01,11.896765,13.620955
+757,FGTRX,Franklin Growth Allocation Fund Class R,16.98,0.24,0.040001,19.77,13.56,16.174706,17.331839
+758,BWLAX,American Beacon Bridgeway Large Cap Value Fund A Class,21.6,-1.1,-0.24,27.83,15.74,20.221766,23.678236
+759,JVTCX,Janus Henderson Venture Fund Class C,67.65,-0.89,-0.61,75.9,47.46,61.298824,66.87772
+760,LSWWX,Loomis Sayles Global Allocation Fund Class Y,24.08,0.5,0.12,25.42,18.89,22.87,23.670662
+761,JANVX,Janus Henderson Venture Fund Class D,76.82,-0.9,-0.7,85.4,53.79,69.567055,75.67228
+762,FSPSX,Fidelity International Index Fund,37.21,1.28,0.470002,43.51,28.87,34.71941,38.85147
+763,FEYAX,Fidelity Advisor Asset Manager 85% Fund Class A,18.73,0.05,0.01,21.01,14.24,17.632353,18.816544
+764,WEIMX,TETON Westwood Mighty Mites Class Institutional,21.53,-2.14,-0.47,27.64,16.37,19.684706,23.549559
+765,FCPVX,Fidelity Small Cap Value Fund,12.02,-2.28,-0.28,15.66,8.75,11.041177,13.296029
+766,IMIDX,Congress Mid Cap Growth Fund Institutional Class,21.88,0.09,0.020001,23.53,15.26,19.97294,21.064264
+767,FADCX,Fidelity Advisor Diversified International Fund Class C,21.68,1.4,0.299999,24.03,16.31,20.288235,21.637205
+768,JENIX,Jensen Quality Growth Fund Class I,49.34,0.26,0.13,55.02,36.83,47.33441,49.452427
+769,LGRRX,Loomis Sayles Growth Fund Class A,17.87,0.56,0.1,18.37,13.52,16.831764,16.767206
+770,JENHX,Johnson Enhanced Return Fund,16.1,0.12,0.02,18.75,11.43,15.122647,16.257868
+771,FREAX,Nuveen Real Estate Securities Fund Class A,16.93,0.83,0.14,22.87,12.77,16.147352,18.849045
+772,DFDMX,DF Dent Midcap Growth Fund Investor Shares,28.84,1.02,0.29,30.07,19.95,26.239117,26.647427
+773,KMKNX,Kinetics Market Opportunities Fund No Load Class,25.03,0.97,0.24,28.03,19.24,23.561766,24.918898
+774,FKKSX,Federated Kaufmann Small Cap Fund Class R Shares,45.22,-0.53,-0.240003,47.73,31.03,41.69206,41.92125
+775,PJOQX,PGIM Jennison Focused Value Fund- Class R6,14.15,0.0,0.0,17.51,10.71,13.363235,15.060661
+776,GIOTX,GMO International Developed Equity Allocation Fund Class III,13.66,0.89,0.12,16.55,10.55,12.886765,14.484853
+777,FIRFX,Fidelity Advisor Managed Retirement 2025 Fund Class I,52.11,-0.04,-0.02,55.3,45.03,50.42794,52.24441
+778,FPRAX,FPA Paramount Fund,19.7,0.92,0.18,23.35,14.53,18.244411,19.972427
+779,HSSCX,Emerald Banking and Finance Fund Class C,20.48,-2.34,-0.49,29.92,15.3,18.286764,24.558088
+780,PESPX,BNY Mellon MidCap Index Fund Investor Shares,28.13,-1.44,-0.409999,36.13,19.3,25.454412,29.581545
+781,CBDRX,Columbia Balanced Fund Advisor Class,43.37,0.0,0.0,45.7,35.16,41.60412,42.579266
+782,TARKX,Tarkio Fund,16.87,-2.03,-0.350001,20.97,12.88,15.492941,17.856544
+783,TAAIX,Thrivent Aggressive Allocation Fund Class S,14.23,-0.14,-0.02,16.3,10.73,13.367647,14.57125
+784,CGIIX,Calamos Growth & Income Fund Institutional Class,31.98,-0.25,-0.08,34.37,24.53,30.17853,31.394339
+785,BLGRX,BMO Large-Cap Growth Fund Class R6,18.86,0.05,0.01,19.97,13.73,17.66353,18.073456
+786,TWCIX,American Century Select Fund Investor Class,83.91,0.24,0.19999,87.54,60.46,78.539116,78.83059
+787,PRDMX,T. Rowe Price Diversified Mid Cap Growth Fund,36.26,0.28,0.1,38.85,24.9,33.109413,34.53581
+788,MVALX,Meridian Contrarian Fund Legacy Class,31.04,-1.99,-0.63,37.91,21.13,28.061176,31.857132
+789,CCIZX,Columbia Seligman Communications and Information Fund Institutional Class,86.54,-1.92,-1.69,95.7,60.54,81.149414,84.89052
+790,DHLTX,Diamond Hill All Cap Select Fund Class I,13.18,-2.51,-0.34,16.67,9.29,11.835,14.168676
+791,FDSVX,Fidelity Growth Discovery Fund,42.13,-0.02,-0.01,43.91,30.26,39.314117,38.935883
+792,ASCTX,AMG Managers Silvercrest Small Cap Fund Class N,12.84,-2.95,-0.3900005,16.57,9.53,11.711471,14.0475
+793,GMOKX,GMO Risk Premium Fund Class VI,23.72,0.0,0.0,28.42,19.97,22.802647,25.448162
+794,SSCVX,Columbia Select Small Cap Value Fund Class A,13.92,-2.45,-0.35,17.81,9.34,12.338235,14.830515
+795,NFRFX,Nuveen Symphony Floating Rate Income Fund Class R6,17.31,0.23,0.040001,19.36,14.87,17.009117,18.134117
+796,AWEIX,CIBC Atlas Disciplined Equity Fund Institutional Class,21.86,0.09,0.02,24.09,16.16,20.68706,21.540514
+797,NCOIX,Nuveen Symphony High Yield Income Fund Class I,17.93,0.34,0.06,20.34,15.54,17.403824,18.929485
+798,BTMFX,Boston Trust Midcap Fund,17.35,0.12,0.02,20.03,12.56,16.23147,17.892206
+799,DROYX,Diamond Hill Research Opportunities Fund Class Y,20.4,-0.87,-0.18,24.9,15.17,19.045588,21.54397
+800,FSHOX,Fidelity Select Construction & Housing Portfolio,56.0,-1.58,-0.9,67.28,37.9,49.391766,57.361763
+801,MGFIX,AMG Managers Loomis Sayles Bond Fund Class N,26.31,-0.04,-0.01,27.74,24.44,25.949118,26.69125
+802,SMDRX,Hartford Schroders US MidCap Opportunities Fund Class SDR,14.32,-0.21,-0.029999,16.96,10.05,13.247059,14.762868
+803,BSPIX,iShares S&P 500 Index Fund Institutional Shares,359.87,-0.19,-0.69,402.02,266.35,340.10675,357.90604
+804,SFLWX,AIG Focused Alpha Large-Cap Fund Class W,27.46,1.55,0.420001,30.17,19.99,25.470295,26.456102
+805,SCGVX,Sands Capital Global Growth Fund Investor Shares,28.68,0.7,0.2,28.55,20.29,26.355883,26.109632
+806,DODFX,Dodge & Cox International Stock Fund,34.3,0.68,0.23,45.04,26.29,31.67147,37.844852
+807,QTSRX,AQR TM Small Cap Momentum Style Fund Class R6,17.85,-1.98,-0.360001,20.72,12.35,16.306177,17.934706
+808,FIGFX,Fidelity International Growth Fund,14.92,1.22,0.18,16.49,11.4,14.080588,14.896618
+809,FSBCX,Federated Global Allocation Fund Class C Shares,18.35,0.22,0.04,19.79,14.69,17.441471,18.340662
+810,KMKYX,Kinetics Market Opportunities Fund Class Institutional,25.42,0.95,0.24,28.46,19.55,23.93,25.314192
+811,TCLCX,TIAA-CREF Large-Cap Value Fund Retail Class,14.83,-0.94,-0.14,17.83,10.96,13.971765,15.7059555
+812,SEEKX,Crossmark Steward Large Cap Enhanced Index Fund Class A,41.21,-0.63,-0.259997,48.19,29.9,38.51706,42.33816
+813,ABINX,American Century Balanced Fund I Class,19.0,-0.11,-0.02,19.82,15.65,18.32147,18.720074
+814,UBVRX,Undiscovered Managers Behavioral Value Fund Class R2,42.38,-3.33,-1.46,62.41,30.14,38.07088,49.902943
+815,PARDX,T. Rowe Price Retirement 2040 Fund Advisor Class,24.93,-0.04,-0.01,28.23,18.99,23.500883,25.285955
+816,LMIYX,Lord Abbett Micro Cap Growth Fund Class I,15.93,-2.27,-0.370001,17.89,9.74,14.11147,14.64375
+817,LEVIX,Lazard US Equity Concentrated Portfolio Institutional Shares,15.56,0.52,0.0799995,17.76,11.38,14.667059,15.729412
+818,PTIMX,Performance Trust Municipal Bond Fund - Institutional Class,25.12,0.08,0.02,26.19,22.83,24.694706,25.040073
+819,HFMIX,The Hartford MidCap Fund Class I,29.44,-0.74,-0.22,33.27,20.63,27.22,29.403677
+820,LSVAX,Loomis Sayles Small Capital Value Fund Admin Class,20.2,-2.27,-0.47,28.21,14.6,18.387058,22.598087
+821,RMBIX,RMB Mendon Financial Long/Short Fund Class I,6.43,-2.28,-0.15,16.29,5.42,5.947353,11.811765
+822,MSGGX,Meridian Small Cap Growth Fund Legacy Class,14.51,-1.89,-0.28,16.92,9.71,12.857353,14.319118
+823,USSCX,USAA Science & Technology Fund,25.41,-0.78,-0.2,29.56,16.76,23.317059,23.978823
+824,CHTTX,AMG Managers Fairpointe Mid Cap Fund Class N,28.21,-2.46,-0.709998,37.82,21.1,25.995588,30.630367
+825,LMVYX,Lord Abbett Focused Small Cap Value Fund Class I,18.21,-3.14,-0.59,28.23,12.05,15.593235,20.52331
+826,ICSCX,ICM Small Company Portfolio,22.3,-3.17,-0.729999,30.32,16.33,20.181177,24.883455
+827,FIOTX,Fidelity Advisor Managed Retirement 2005 Fund Class M,58.72,0.09,0.049998,58.9,57.55,58.72,58.72
+828,MSCFX,Mairs & Power Small Cap Fund,22.44,-1.84,-0.42,27.42,15.99,20.209705,23.341764
+829,FIMPX,Nuveen Small Cap Growth Opportunities Fund Class I,28.63,-1.55,-0.45,29.67,18.76,25.755589,26.29544
+830,WILNX,William Blair International Leaders Fund Class N Shares,16.88,1.14,0.190001,18.64,12.68,15.725,16.772867
+831,FMPOX,Fidelity Advisor Mid Cap Value Fund Class I,18.48,-1.28,-0.24,23.09,13.05,17.029118,19.925808
+832,JDEAX,JPMorgan U.S. Research Enhanced Equity Fund Class A,25.89,-0.27,-0.07,28.83,18.82,24.408823,25.520367
+833,RRTRX,T. Rowe Price Retirement 2045 Fund Class R,16.8,0.0,0.0,19.07,12.67,15.801176,17.059706
+834,DGLRX,BNY Mellon Global Stock Fund - Class I,22.09,1.01,0.22,24.3,16.9,20.914412,21.953089
+835,SEMVX,Hartford Schroders Emerging Markets Equity Fund Class A,14.08,-0.78,-0.11,17.23,11.66,13.660882,15.085662
+836,DHTYX,Diamond Hill All Cap Select Fund Class Y,13.23,-2.51,-0.34,16.72,9.32,11.876177,14.213383
+837,POLIX,Polen Growth Fund Institutional Class,36.82,0.63,0.23,38.19,26.62,34.282352,34.080513
+838,GTSCX,Glenmede Small Cap Equity Portfolio Institutional Class,22.42,-2.56,-0.59,28.22,14.92,19.74794,23.48206
+839,KLCIX,Federated Kaufmann Large Cap Fund Institutional Shares,29.54,0.51,0.149999,31.8,20.98,27.451765,27.943676
+840,FFGRX,Emerald Growth Fund Investor Class,25.43,-1.78,-0.46,28.13,16.46,22.849411,24.267279
+841,EGFIX,Edgewood Growth Fund Class Institutional,42.21,0.81,0.34,42.14,29.03,38.946175,37.845074
+842,BUFTX,Buffalo Discovery Fund,24.3,0.04,0.010001,27.83,17.24,22.606766,23.838089
+843,JAREX,James Alpha Global Real Estate Investments Portfolio Class A Shares,14.55,-0.34,-0.05,19.17,11.39,13.912353,16.448824
+844,FSMVX,Fidelity Mid Cap Value Fund,18.65,-1.27,-0.24,23.31,13.17,17.185293,20.109632
+845,PRHSX,T. Rowe Price Health Sciences Fund,85.15,0.77,0.65,85.02,60.38,80.99559,79.3811
+846,PRIUX,T. Rowe Price International Stock Fund I Class,16.62,0.79,0.129998,19.11,12.8,15.644706,17.045147
+847,MIPTX,Matthews Pacific Tiger Fund Institutional Class,24.48,-0.08,-0.02,29.54,20.41,24.16147,26.358456
+848,FARPX,Fidelity Advisor Simplicity RMD 2005 Fund Class A,58.34,0.09,0.05,58.49,57.14,58.34,58.34
+849,ABLOX,Alger Balanced Portfolio Class I-2,15.14,-0.13,-0.020001,16.21,12.48,14.637647,15.175294
+850,JPDEX,JPMorgan Tax Aware Equity Fund Class I,36.65,-0.14,-0.05,40.06,26.54,34.52853,35.809338
+851,TPVIX,Timothy Plan Small Cap Value Fund Class I,13.89,-2.53,-0.36,18.37,10.28,12.719118,15.462426
+852,DODBX,Dodge & Cox Balanced Fund,89.57,-1.05,-0.95,106.31,71.31,85.11794,94.11963
+853,PFPMX,Parnassus Mid Cap Fund Institutional Shares,32.11,0.6,0.19,37.18,23.3,29.872942,32.80331
+854,SGOVX,First Eagle Overseas Fund Class A,21.86,0.41,0.09,25.22,18.08,21.07147,22.473383
+855,VBIAX,Vanguard Balanced Index Fund Admiral Shares,38.49,-0.23,-0.09,40.79,31.5,36.976177,37.904045
+856,VRISX,Virtus KAR International Small-Cap Fund Class R6,16.99,0.77,0.13,19.4,12.08,15.402941,17.072868
+857,FMFTX,Fidelity Advisor Materials Fund Class M,61.17,0.82,0.5,69.08,42.34,56.78353,61.167793
+858,FRNCX,Fidelity Advisor Simplicity RMD Income Fund Class C,58.17,0.07,0.040003,58.32,57.06,58.17,58.17
+859,GSOFX,GMO Special Opportunities Fund Class VI,24.4,-0.49,-0.12,24.65,9.01,19.89206,17.82147
+860,FWWFX,Fidelity Worldwide Fund,28.15,0.61,0.17,30.04,20.57,26.231176,27.001617
+861,RYCCX,Rydex NASDAQ-100 2x Strategy Fund Class C,157.35,-0.51,-0.80001,185.18,89.58,142.21794,144.81537
+862,RRTDX,T. Rowe Price Retirement 2040 Fund Class R,24.73,-0.04,-0.01,27.98,18.85,23.317942,25.092058
+863,SENCX,Touchstone Large Cap Focused Fund Class A,41.3,-0.41,-0.169997,46.69,30.9,39.03794,41.21022
+864,MSGRX,Meridian Small Cap Growth Fund Institutional Class,14.59,-1.88,-0.28,16.99,9.75,12.920294,14.381838
+865,FCPCX,Fidelity Advisor International Capital Appreciation Fund Class C,18.44,1.54,0.28,20.6,14.23,17.47353,18.534706
+866,ALZFX,Alger Focus Equity Fund Class Z,44.21,0.11,0.05,44.9,31.71,41.27765,40.122868
+867,HLFNX,Hennessy Large Cap Financial Fund Investor Class,21.77,-1.09,-0.24,26.2,15.5,19.888235,22.261324
+868,VITPX,Vanguard Institutional Total Stock Market Index Fund Institutional Plus Shares,63.76,-0.38,-0.24,72.2,46.94,59.86147,63.879414
+869,ABASX,AB Discovery Value Fund Class A,15.15,-2.38,-0.3699995,20.43,10.61,13.755589,16.947647
+870,FCIVX,Frontier MFG Core Infrastructure Fund Service Class,16.54,1.53,0.25,19.49,12.81,15.827353,17.185295
+871,FRESX,Fidelity Real Estate Investment Portfolio,37.86,0.66,0.25,48.11,28.41,35.81912,41.275955
+872,EGORX,Wells Fargo Large Cap Core Fund - Class R6,15.27,-0.46,-0.07,20.08,11.04,14.326177,15.8544855
+873,FIDZX,Fidelity Advisor International Capital Appreciation Fund Class Z,22.57,1.53,0.34,25.13,17.37,21.368824,22.628456
+874,FHKIX,Fidelity Advisor China Region Fund I Class,38.65,-0.9,-0.35,41.56,31.52,38.18,37.93603
+875,FTQGX,Fidelity Focused Stock Fund,26.95,0.48,0.129998,28.51,19.58,25.171177,25.343529
+876,PSIFX,PGIM QMA Stock Index Fund- Class Z,42.45,-0.19,-0.080003,52.04,31.24,40.121765,43.39875
+877,PVIVX,Paradigm Micro-Cap Fund,27.83,-2.76,-0.79,32.5,17.69,24.919117,27.495
+878,RMBKX,RMB Mendon Financial Services Fund Class A,27.07,-3.84,-1.08,41.92,20.44,24.440294,33.54544
+879,HLMIX,Harding Loevner International Equity Portfolio Institutional Class,21.31,1.0,0.21,24.34,16.92,20.10147,21.835514
+880,JIJSX,JPMorgan SmartRetirement Blend Income Fund Class I,17.41,0.06,0.01,18.41,15.29,16.907942,17.47978
+881,IHOTX,The Hartford International Opportunities Fund Class R5,14.9,0.34,0.050001,17.58,11.8,14.129412,15.636471
+882,BGLUX,Baron Global Advantage Fund R6 Shares,34.95,0.32,0.11,35.01,23.73,31.419117,29.74772
+883,JIBBX,JPMorgan SmartRetirement Blend Income Fund Class R5,17.41,0.06,0.01,18.41,15.29,16.903234,17.477795
+884,FAGNX,Fidelity Advisor Energy Fund Class M,17.83,-2.52,-0.459999,29.51,10.74,16.42794,21.70169
+885,EGOHX,Wells Fargo Large Cap Core Fund - Class R,15.19,-0.46,-0.069999,19.93,10.99,14.253235,15.777427
+886,GILIX,Guggenheim StylePlus - Large Core Fund Institutional,20.24,-0.2,-0.04,22.72,14.63,19.033236,20.248236
+887,NWGPX,Nationwide WCM Focused Small Cap Fund Class A,19.56,-2.35,-0.469999,25.71,13.76,17.496765,21.555147
+888,HLMGX,Harding Loevner Global Equity Portfolio Advisor Class,37.64,0.51,0.19,39.28,27.51,34.79647,35.730442
+889,NWXQX,Nationwide Mid Cap Market Index Fund Institutional Service Class,13.51,-1.46,-0.2,16.27,9.56,12.228235,13.99
+890,FISMX,Fidelity International Small Cap Fund,23.05,0.79,0.180001,28.16,17.85,21.61,24.66956
+891,FMDCX,Federated Mid-Cap Index Fund Service Shares,17.11,-1.38,-0.24,21.53,11.77,15.485588,17.80456
+892,JVAYX,JPMorgan Value Advantage Fund Class R6,29.85,-1.26,-0.38,37.87,22.13,27.98,32.812057
+893,UBVLX,Undiscovered Managers Behavioral Value Fund Class L,44.06,-3.33,-1.52,64.93,31.3,39.56647,51.84125
+894,AKRSX,Akre Focus Fund Supra Institutional Class,48.81,0.97,0.47,50.33,34.81,45.12294,45.49794
+895,TRRCX,T. Rowe Price Retirement 2030 Fund,24.4,-0.04,-0.01,27.17,19.07,23.151764,24.628677
+896,PRIDX,T. Rowe Price International Discovery Fund,67.2,0.45,0.300006,70.76,47.24,61.184116,63.595
+897,RMBNX,RMB Mendon Financial Services Fund Class C,24.2,-3.85,-0.97,37.6,18.3,21.862059,30.065882
+898,RRTAX,T. Rowe Price Retirement 2010 Fund Class R,17.3,0.0,0.0,18.5,14.64,16.69706,17.331985
+899,GINNX,Guinness Atkinson Global Innovators Fund Institutional Class,45.75,-0.04,-0.02,48.8,33.42,43.090294,44.128162
+900,RYLDX,Rydex Dow 2x Strategy Fund Class A,77.19,-1.11,-0.870005,116.2,42.81,68.93588,90.09169
+901,FATEX,Fidelity Advisor Technology Fund Class M,60.24,-0.2,-0.12,62.6,43.17,56.04559,54.91772
+902,TRRNX,T. Rowe Price Retirement 2055 Fund,14.71,0.0,0.0,16.65,11.09,13.829118,14.919338
+903,PPIPX,T. Rowe Price Spectrum Conservative Allocation Fund I Class,19.3,-0.05,-0.01,20.43,16.49,18.614706,19.286985
+904,APHKX,Artisan International Value Fund Institutional Class,30.33,0.83,0.25,37.46,23.2,28.212353,32.603237
+905,FAMWX,FAM Value Fund Institutional Class,71.96,-0.48,-0.35,86.94,52.89,67.34559,75.408165
+906,PAROX,T. Rowe Price Retirement 2055 Fund Advisor Class,14.59,-0.07,-0.01,16.51,11.01,13.721471,14.804485
+907,FAIOX,Fidelity Advisor Balanced Fund I Class,22.49,-0.31,-0.07,23.94,17.63,21.369118,21.952574
+908,TRRKX,T. Rowe Price Retirement 2045 Fund,17.15,0.0,0.0,19.5,12.93,16.124706,17.40397
+909,HQISX,The Hartford Equity Income Fund Class R4,17.33,0.12,0.02,20.51,13.09,16.428823,18.157352
+910,FWIFX,Fidelity Advisor Worldwide Fund I Class,27.98,0.65,0.18,29.85,20.44,26.067352,26.835367
+911,CLFFX,Clifford Capital Partners Fund Investor Class,12.94,-1.97,-0.26,15.68,9.23,11.857647,13.467868
+912,VAIPX,Vanguard Inflation-Protected Securities Fund Admiral Shares,27.13,0.3,0.08,27.22,24.77,27.025883,26.40897
+913,HGOSX,The Hartford Growth Opportunities Fund Class R4,47.2,0.21,0.099998,47.29,31.54,43.14382,42.151176
+914,CUBAX,Calvert Flexible Bond Fund Class A,14.18,0.28,0.04,15.24,13.06,13.937058,14.640074
+915,VWINX,Vanguard Wellesley Income Fund Investor Shares,27.02,0.15,0.04,28.03,22.96,26.312647,26.798456
+916,GIOIX,Guggenheim Macro Opportunities Fund Institutional Class,24.89,0.24,0.06,26.05,23.58,24.383236,25.198088
+917,TQAAX,T. Rowe Price QM U.S. Small-Cap Growth Equity Fund Advisor Class,37.08,-1.09,-0.41,41.26,25.74,33.738235,36.45
+918,FFTHX,Fidelity Freedom 2035 Fund,13.46,-0.07,-0.01,15.61,10.97,12.996765,14.065661
+919,HJPNX,Hennessy Japan Fund Investor Class,38.17,1.92,0.720003,38.64,28.01,34.496178,35.689926
+920,DHMAX,Diamond Hill Small Mid Cap Fund Class A,17.43,-2.13,-0.38,23.11,12.32,15.85,19.275074
+921,VUVLX,Vanguard U.S. Value Fund Investor Shares,14.98,-0.99,-0.149999,19.12,10.99,14.107647,16.466324
+922,AIEAX,American Beacon International Equity Fund Class A,14.5,1.4,0.2,18.77,11.07,13.290882,15.817132
+923,HHHCX,Hartford Schroders Emerging Markets Equity Fund Class C,13.87,-0.86,-0.12,17.02,11.51,13.467059,14.868603
+924,SUSYX,SEI Institutional Managed Trust U.S. Managed Volatility Fund Class Y,15.56,0.06,0.01,18.4,12.13,14.898529,16.551765
+925,MMECX,Victory Integrity Discovery Fund Class C,15.83,-4.29,-0.709999,23.82,11.48,14.256471,19.020662
+926,THISX,T. Rowe Price Health Sciences Fund I Class,85.18,0.77,0.65,85.05,60.39,81.020294,79.40265
+927,CNPSX,ProFunds Consumer Goods Ultra Sector Fund Service Class,90.51,-0.36,-0.330004,111.29,59.42,84.570885,94.408165
+928,FBTIX,Fidelity Advisor Biotechnology Fund I Class,32.8,0.15,0.05,32.91,23.02,30.769411,29.36022
+929,WEMMX,TETON Westwood Mighty Mites Fund Class AAA,20.89,-2.15,-0.459998,26.84,15.89,19.100883,22.866692
+930,PDGIX,T. Rowe Price Dividend Growth Fund I Class,49.62,0.28,0.14,55.66,37.2,46.96588,49.86934
+931,JGIRX,JPMorgan Intrepid Growth Fund Class R5,55.38,-0.34,-0.19,60.99,40.42,52.406765,53.94993
+932,FEYIX,Fidelity Advisor Asset Manager 85% Fund I Class,18.87,0.05,0.01,21.18,14.35,17.765882,18.956177
+933,EKGAX,Wells Fargo Global Small Cap Fund Class A,34.87,-0.51,-0.18,41.46,27.2,32.325882,36.610516
+934,NEJYX,Natixis Funds Trust I Vaughan Nelson Small Cap Value Fund Class Y,13.31,-2.2,-0.300001,16.66,9.84,12.16147,14.241544
+935,MFCAX,Meridian Contrarian Fund A Class,30.25,-2.01,-0.62,36.81,20.61,27.35647,31.037132
+936,CSGZX,Columbia Seligman Global Technology Fund Institutional Class,44.61,-1.93,-0.88,49.09,31.04,41.809708,43.623676
+937,HWSCX,Hotchkis & Wiley Small Cap Value Fund Class C,29.79,-2.9,-0.89,44.17,21.58,26.881765,35.30478
+938,FSDIX,Fidelity Strategic Dividend & Income Fund,14.29,0.07,0.01,16.24,11.11,13.722941,14.663456
+939,QNTAX,Meeder Quantex Fund Adviser Class,27.89,-2.79,-0.799999,38.47,19.59,25.417646,31.748014
+940,JORCX,Janus Henderson Global Select Fund Class C,13.18,-0.45,-0.060001,15.81,9.61,12.341764,13.857059
+941,SVSPX,State Street S&P 500 Index Fund Class N,219.44,-0.2,-0.43,246.06,36.08,207.34853,200.70654
+942,TMDPX,AMG TimesSquare Mid Cap Growth Fund Class N,17.66,0.4,0.07,20.48,12.3,16.207058,17.322279
+943,CAAPX,Ariel Appreciation Fund Investor Class,36.64,-1.98,-0.74,47.05,26.12,33.698235,39.32
+944,PKSFX,Virtus KAR Small-Cap Core Fund Class I,39.76,-0.18,-0.069998,43.02,28.63,36.250294,38.775295
+945,FARVX,Fidelity Advisor Managed Retirement 2020 Fund Class A,50.91,-0.04,-0.02,53.67,44.73,49.463528,51.006763
+946,FAMKX,Fidelity Advisor Emerging Markets Fund Class A,24.9,-0.24,-0.06,29.93,20.04,24.03,25.872942
+947,JFNSX,Janus Henderson Global Life Sciences Fund Class S,59.87,0.86,0.51,61.68,44.03,57.33294,57.061764
+948,GBFAX,VanEck Emerging Markets Fund Class A,15.15,-0.33,-0.05,18.64,12.15,14.512647,16.318308
+949,JVAIX,JPMorgan Value Advantage Fund Class L,29.88,-1.26,-0.379998,37.88,22.15,28.006765,32.8425
+950,KWIAX,Kinetics Alternative Income Fund Advisor Class A,98.45,0.06,0.06,98.39,93.9,98.07588,97.33853
+951,PGUAX,Virtus Duff & Phelps Global Infrastructure Fund Class A,14.22,1.28,0.18,17.02,10.38,13.340882,14.887426
+952,FOSBX,Tributary Small Company Fund Institutional Plus Class,22.55,-2.38,-0.549998,30.17,18.09,21.078236,25.514927
+953,FTCLX,Franklin Corefolio Allocation Fund Class C,18.42,0.27,0.05,20.6,13.84,17.32147,18.515368
+954,PKSCX,Virtus KAR Small-Cap Core Fund Class C,30.81,-0.19,-0.059999,33.43,22.23,28.109118,30.20625
+955,WPLCX,WP Large Cap Income Plus Fund Institutional Class,8.69,-1.81,-0.159999,17.52,5.92,8.325,13.162574
+956,DGIFX,The Disciplined Growth Investors Fund,20.7,-0.81,-0.17,22.04,15.54,19.167059,20.245367
+957,VGIVX,Vanguard Emerging Markets Government Bond Index Fund Institutional Shares,30.55,-0.1,-0.03,33.49,26.4,29.10147,31.144192
+958,CLREX,Columbia Balanced Fund Institutional 2 Class,42.96,0.0,0.0,45.28,34.83,41.210587,42.179634
+959,ORENX,Invesco Oppenheimer Real Estate Fund Class R,20.66,3.2,0.64,28.61,16.21,21.055716,25.21835
+960,GRMAX,Nationwide S&P 500 Index Fund Class A,15.05,-0.2,-0.03,16.78,11.08,14.222353,15.087647
+961,UOPIX,ProFunds UltraNASDAQ-100 Fund Investor Class,94.18,-0.48,-0.45,111.05,53.59,85.06,86.70838
+962,AIAGX,Aberdeen Realty Income & Growth Fund Class A,12.46,0.56,0.07,18.09,9.17,11.806765,14.277941
+963,TILPX,TIAA-CREF Large-Cap Growth Fund Premier Class,23.41,0.21,0.05,24.25,16.98,21.918236,21.627426
+964,VWIGX,Vanguard International Growth Fund Investor Shares,32.75,0.58,0.19,33.95,24.12,30.362942,30.744486
+965,HBLTX,The Hartford Balanced Income Fund Class R5,14.41,0.07,0.01,15.35,11.79,13.922941,14.445588
+966,OTCFX,T. Rowe Price Small-Cap Stock Fund,47.26,-1.34,-0.639998,54.42,33.61,43.16941,47.80412
+967,FSTKX,Federated MDT Large Cap Value Fund Service Shares,24.15,-0.49,-0.12,28.67,17.61,22.772352,25.325073
+968,HWAAX,Hotchkis & Wiley Value Opportunities Fund Class A,22.3,-1.72,-0.389999,29.39,17.25,20.799412,25.071617
+969,DHMIX,Diamond Hill Small Mid Cap Fund Class I,17.63,-2.11,-0.379998,23.39,12.45,16.027647,19.488457
+970,QFVIX,Pear Tree Polaris Foreign Value Fund Class Institutional,17.13,1.06,0.180001,22.12,12.57,15.698529,18.776176
+971,ARTKX,Artisan International Value Fund Investor Class,30.24,0.83,0.25,37.39,23.14,28.133823,32.53316
+972,SHISX,BlackRock Health Sciences Opportunities Portfolio Service Shares,67.19,1.22,0.809995,67.47,48.33,64.61794,63.15625
+973,SMTIX,JPMorgan SmartRetirement 2040 Fund Class R5,19.43,-0.15,-0.030001,23.4,15.19,18.455883,20.275293
+974,FBTAX,Fidelity Advisor Biotechnology Fund Class A,30.7,0.13,0.04,30.81,21.56,28.809412,27.52331
+975,JIBFX,Johnson Institutional Core Bond Fund,17.43,-0.06,-0.01,17.55,16.06,17.39353,16.866692
+976,VMGMX,Vanguard Mid-Cap Growth Index Fund Admiral Shares,68.46,0.41,0.28,73.4,46.87,62.883823,64.73353
+977,ORECX,Invesco Oppenheimer Real Estate Fund Class C,20.09,3.18,0.62,27.87,15.78,20.488571,24.588074
+978,MIOPX,"Morgan Stanley Institutional Fund, Inc. International Opportunity Portfolio Class A",26.6,0.83,0.219999,27.45,19.67,24.671764,24.880735
+979,FTRWX,Fidelity Advisor Simplicity RMD 2020 Fund Class M,60.33,0.23,0.139998,60.42,58.04,60.33,60.33
+980,MNREX,Manning & Napier Real Estate Series Class S,13.71,0.44,0.06,17.55,10.18,13.070294,15.053603
+981,WESNX,William Blair Emerging Markets Small Cap Growth Fund Class N,15.78,-0.44,-0.069999,17.79,11.85,14.983824,15.785
+982,PRGSX,T. Rowe Price Global Stock Fund,47.57,0.4,0.19,49.27,33.57,43.770294,44.01419
+983,GTLOX,Glenmede Quantitative U.S. Large Cap Core Equity Portfolio,23.82,-0.92,-0.219999,28.49,17.41,22.310883,24.920515
+984,FMFAX,Fidelity Advisor Materials Fund Class A,61.79,0.83,0.509997,69.74,42.75,57.34559,61.763016
+985,PXSGX,Virtus KAR Small-Cap Growth Fund Class I,42.89,-0.3,-0.13,44.1,29.78,38.205883,39.1975
+986,TRRDX,T. Rowe Price Retirement 2040 Fund,25.18,-0.04,-0.01,28.55,19.17,23.735,25.536396
+987,NESYX,Natixis Funds Trust I U.S. Equity Opportunities Fund Class Y,40.7,-0.34,-0.14,46.5,30.93,37.999706,41.048603
+988,TGTIX,T. Rowe Price Growth and Income Fund I Class,28.14,0.32,0.09,31.86,21.12,26.74147,28.457869
+989,PFPWX,Parnassus Endeavor Fund Institutional Shares,33.35,-2.74,-0.939997,40.2,25.26,31.307354,34.85603
+990,CORRX,Columbia Contrarian Core Fund Advisor Class,26.53,0.0,0.0,28.9,19.53,25.078823,26.10647
+991,DISIX,BNY Mellon Small Cap Stock Index Fund Class I,22.78,-3.19,-0.75,31.06,16.67,20.742647,25.1075
+992,PYVSX,Payden Equity Income Fund SI Class,16.07,0.06,0.01,18.88,12.54,15.495882,16.936691
+993,DSENX,DoubleLine Shiller Enhanced CAPE Class N,14.11,-0.84,-0.12,17.04,10.1,12.943235,14.683603
+994,RRGSX,T. Rowe Price Growth Stock Fund R Class,71.2,0.04,0.03,75.69,51.28,66.40294,66.869415
+995,RCLIX,T. Rowe Price U.S. Large-Cap Core Fund I Class,24.96,0.32,0.08,28.14,18.67,23.719706,25.20228
+996,JLGAX,JAG Large Cap Growth Fund Class A,17.37,0.35,0.059999,18.75,12.85,16.388823,16.593088
+997,ACSLX,American Century Select Fund C Class,71.08,0.25,0.18,74.35,51.3,66.568825,67.07228
+998,DTSGX,Wilshire Small Company Growth Portfolio Investment Class Shares,25.58,-1.88,-0.49,28.83,17.86,23.124706,25.03544
+999,SSHVX,Sound Shore Fund Institutional Class,35.32,-1.67,-0.6,45.83,26.21,33.177353,38.39853
+1000,FLCGX,Meeder Quantex Fund Retail Class,27.8,-2.8,-0.799998,38.37,19.54,25.342058,31.661398
+1001,BPSIX,Boston Partners Small Cap Value Fund II Institutional Class,18.74,-2.65,-0.51,25.99,13.57,16.875294,21.620441
+1002,RRTNX,T. Rowe Price Retirement 2025 Fund Class R,16.59,0.0,0.0,18.2,13.22,15.812941,16.706545
+1003,BRLVX,American Beacon Bridgeway Large Cap Value Fund Institutional Class,21.81,-1.09,-0.24,28.16,15.89,20.408823,23.902794
+1004,LGMCX,Loomis Sayles Global Allocation Fund Class C,23.57,0.47,0.11,24.93,18.53,22.408823,23.209927
+1005,WESCX,TETON Westwood SmallCap Equity Fund Class AAA,14.82,-2.95,-0.4499995,19.41,10.65,13.475,16.195293
+1006,VLAIX,Value Line Asset Allocation Fund Institutional Class,39.33,0.46,0.18,41.01,31.22,37.424706,38.01537
+1007,JVTIX,Janus Henderson Venture Fund Class I,77.24,-0.89,-0.69,85.82,54.08,69.93912,76.06971
+1008,PRUIX,T. Rowe Price Equity Index 500 Fund I Class,80.74,-0.2,-0.16,90.19,59.71,76.30235,80.29022
+1009,FSDAX,Fidelity Select Defense & Aerospace Portfolio,14.18,-0.21,-0.03,19.71,10.43,12.708235,16.293089
+1010,JVACX,JPMorgan Value Advantage Fund Class C,29.55,-1.27,-0.379998,37.31,21.94,27.714706,32.50397
+1011,TEGIX,Touchstone Mid Cap Growth Fund Institutional Class,33.05,0.24,0.080003,36.74,22.5,30.094412,32.036175
+1012,NWHZX,Nationwide Geneva Small Cap Growth Fund Class A,63.14,-1.97,-1.269996,67.84,44.21,56.369705,59.57728
+1013,DHLRX,Diamond Hill Large Cap Fund Class I,25.03,-0.91,-0.23,29.9,18.16,23.454117,26.325663
+1014,NEAIX,Needham Aggressive Growth Fund Institutional Class,23.16,-1.7,-0.4,23.85,16.18,21.381472,21.314339
+1015,BPAVX,Boston Partners All Cap Value Fund Investor Class,22.73,-0.83,-0.19,27.63,16.4,21.180588,24.112574
+1016,HMDCX,The Hartford MidCap Fund Class C,18.88,-0.68,-0.129998,21.86,13.25,17.462353,18.990147
+1017,MSFLX,"Morgan Stanley Institutional Fund, Inc. Global Franchise Portfolio Class L",27.19,1.19,0.32,29.58,20.67,25.988235,26.842867
+1018,APGZX,AB Large Cap Growth Fund Class Z,67.9,0.34,0.23,67.67,48.69,63.15647,62.09669
+1019,WHGSX,Westwood SmallCap Fund Institutional Class,13.65,-2.43,-0.34,17.7,10.1,12.51853,15.087868
+1020,IUESX,JPMorgan International Unconstrained Equity Fund Class I,20.14,0.9,0.18,23.32,15.49,19.05441,20.73103
+1021,QLSCX,Federated MDT Small Cap Core Fund Class R6,16.53,-2.3,-0.39,20.43,11.42,15.027059,17.475735
+1022,HWCCX,Hotchkis & Wiley Diversified Value Fund Class C,15.05,-1.63,-0.25,20.43,10.75,13.829118,17.02169
+1023,CADIX,Columbia Select Global Growth Fund Institutional 2 Class,18.55,0.43,0.08,19.01,13.07,17.117647,16.936104
+1024,MAPTX,Matthews Pacific Tiger Fund Investor Class,24.49,-0.12,-0.03,29.58,20.43,24.179117,26.37919
+1025,CIVVX,Causeway International Value Fund Class Investor,12.34,1.31,0.16,16.25,9.27,11.205,13.448456
+1026,TBGVX,"Tweedy, Browne Global Value Fund",23.91,0.29,0.07,28.42,19.56,22.941765,25.533089
+1027,GIFPX,Guggenheim Floating Rate Strategies Fund Class P,22.98,0.52,0.120001,25.46,20.47,22.445883,24.013676
+1028,MGLBX,Marsico Global Fund,18.69,0.65,0.12,19.15,13.53,17.385883,17.085588
+1029,FGFRX,Federated International Leaders Fund Class R,31.35,1.29,0.4,36.19,23.58,28.932941,32.03522
+1030,MRIGX,Meridian Growth Fund Investor Class,34.74,-1.73,-0.610002,41.83,23.23,30.952059,34.793896
+1031,CIPSX,Champlain Small Company Fund Class Advisor,18.12,-1.63,-0.3,21.18,12.82,16.355,18.093529
+1032,OMOIX,Vivaldi Multi-Strategy Fund Class I,23.69,0.47,0.11,28.06,21.48,22.91647,25.114044
+1033,NNGRX,Nuveen Large-Cap Value Fund Class I,19.18,-1.29,-0.25,24.3,13.92,17.943235,20.796324
+1034,AMPAX,American Beacon Mid-Cap Value Fund Investor Class,12.18,-2.17,-0.270001,16.65,8.19,10.928235,13.715662
+1035,HCYAX,Hilton Tactical Income Fund Investor Class,15.46,0.45,0.07,18.1,13.41,15.153529,16.530294
+1036,FGSKX,Federated MDT Mid Cap Growth Fund Class R6 Shares,36.69,-0.08,-0.029997,40.69,24.84,33.645294,35.2625
+1037,QASCX,Federated MDT Small Cap Core Fund Class A,15.91,-2.33,-0.379999,19.68,10.99,14.466471,16.826029
+1038,COFYX,Columbia Contrarian Core Fund Institutional 3 Class,26.53,0.0,0.0,28.89,19.52,25.07353,26.098602
+1039,RYOCX,Rydex NASDAQ-100 Fund Investor Class,47.81,-0.27,-0.130002,49.44,35.52,45.32941,44.11294
+1040,FMEIX,Fidelity Mid Cap Enhanced Index Fund,13.58,-0.59,-0.08,15.91,9.5,12.55,13.981912
+1041,JDMAX,Janus Henderson Enterprise Fund Class A,127.96,-0.16,-0.21,144.19,89.02,117.91264,127.931175
+1042,FSCSX,Fidelity Select Software & IT Services Portfolio,21.41,0.42,0.09,22.58,15.8,19.79147,19.81853
+1043,DGLAX,BNY Mellon Global Stock Fund - Class A,21.74,1.02,0.22,23.91,16.64,20.587942,21.61397
+1044,JCAPX,Janus Henderson Forty Fund Class I,41.04,0.47,0.189998,42.89,30.19,38.570587,38.79544
+1045,WMMCX,TETON Westwood Mighty Mites Fund Class C,17.1,-2.17,-0.38,22.14,13.03,15.65,18.783014
+1046,BLYAX,American Beacon Bridgeway Large Cap Growth Fund A Class,29.4,0.27,0.08,32.38,20.78,27.487942,28.720882
+1047,PRJQX,PGIM Jennison Global Opportunities Fund-Class R6,30.5,0.86,0.26,30.98,21.23,28.22206,27.284853
+1048,VEVIX,Victory Sycamore Established Value Fund Class I,33.84,-1.2,-0.41,41.68,23.96,30.899706,35.74228
+1049,PARMX,Parnassus Mid Cap Fund,32.03,0.6,0.190002,37.12,23.24,29.800882,32.730515
+1050,FSKAX,Fidelity Total Market Index Fund,84.78,-0.38,-0.32,95.18,61.86,79.584114,84.43279
+1051,IVWAX,IVA Worldwide Fund Class A,14.46,-0.28,-0.04,17.77,12.45,14.044706,15.515809
+1052,ADKSX,Adirondack Small Cap Fund,12.74,-2.6,-0.34,17.44,9.24,11.8252945,14.465809
+1053,FSPCX,Fidelity Select Insurance Portfolio,49.38,-0.42,-0.21,67.93,38.26,45.526764,56.996616
+1054,FCPIX,Fidelity Advisor International Capital Appreciation Fund I Class,22.54,1.53,0.34,25.1,17.36,21.34147,22.604706
+1055,FETKX,Fidelity Equity Dividend Income Fund Class K,21.73,-0.91,-0.2,27.49,15.86,20.406765,23.273457
+1056,VEVRX,Victory Sycamore Established Value Fund Class R6,33.86,-1.17,-0.400002,41.7,23.97,30.910587,35.754707
+1057,FERCX,Fidelity Advisor Emerging Asia Fund Class C,36.51,-0.38,-0.139998,38.49,29.03,35.268234,35.491325
+1058,CCHRX,Columbia Seligman Global Technology Fund Advisor Class,45.46,-1.92,-0.89,50.03,31.63,42.607353,44.441765
+1059,CAMAX,Cambiar Global Ultra Focus Fund Investor Class,15.84,-0.19,-0.03,20.44,11.47,14.485,17.179338
+1060,TFIFX,T. Rowe Price Financial Services Fund I Class,22.02,-1.3,-0.290001,29.06,16.52,20.285883,24.730661
+1061,AMCCX,American Beacon Mid-Cap Value Fund C Class,11.38,-2.07,-0.24,15.59,7.66,10.208236,12.813529
+1062,MINDX,Matthews India Fund Investor Class,17.27,1.35,0.23,27.67,13.85,16.780588,21.12647
+1063,HSSAX,Emerald Banking and Finance Fund Class A,24.21,-2.34,-0.579999,35.3,18.06,21.608234,28.973236
+1064,PAREX,T. Rowe Price Real Estate Fund Advisor Class,20.41,0.05,0.01,30.78,15.87,19.566175,24.000515
+1065,CSVZX,Columbia Select Large Cap Value Fund Institutional Class,22.44,-0.93,-0.21,28.09,16.0,21.244411,24.03934
+1066,HASCX,Harbor Small Cap Value Fund Institutional Class,29.53,-2.12,-0.64,35.85,20.74,26.824118,30.822132
+1067,CPEAX,Catalyst Dynamic Alpha Fund Class A,18.81,0.05,0.01,20.93,13.87,18.084412,18.694632
+1068,PAITX,T. Rowe Price International Stock Fund Advisor Class,16.61,0.73,0.12,19.17,12.82,15.647353,17.076838
+1069,HCYIX,Hilton Tactical Income Fund Institutional Class,15.48,0.45,0.07,18.13,13.43,15.175294,16.554853
+1070,TGIPX,T. Rowe Price Spectrum Moderate Growth Allocation Fund I Class,33.57,-0.06,-0.02,37.18,26.18,31.793823,33.785442
+1071,PRBLX,Parnassus Core Equity Fund - Investor Shares,44.42,0.43,0.19,49.42,34.55,42.42147,44.62419
+1072,SVFDX,Smead Value Fund Class R1,40.71,-2.05,-0.849998,50.92,30.25,38.024708,43.82544
+1073,CDOFX,Crawford Small Cap Dividend Fund,33.99,-1.48,-0.51,43.94,25.69,31.544706,37.125515
+1074,SPIIX,SEI Institutional Managed Trust S&P 500 Index Fund Class I,68.5,-0.19,-0.13,76.64,50.7,64.76088,68.49919
+1075,PRSIX,T. Rowe Price Spectrum Conservative Allocation Fund,19.31,0.0,0.0,20.44,16.5,18.618235,19.293602
+1076,ABYSX,AB Discovery Value Fund Advisor Class,15.57,-2.38,-0.38,20.99,10.89,14.131471,17.405148
+1077,CDSIX,Calvert Short Duration Income Fund Class I,15.87,0.19,0.03,16.47,14.83,15.657647,16.012058
+1078,NPSFX,Nuveen Preferred Securities & Income Fund Class R6,16.04,0.06,0.01,17.92,13.12,15.645294,16.647058
+1079,CLCRX,Columbia Select Large Cap Equity Fund Institutional 2 Class,15.08,-0.13,-0.02,16.7,11.13,14.345882,14.837794
+1080,VTMSX,Vanguard Tax-Managed Small Cap Fund Admiral Shares,54.29,-3.19,-1.79,69.17,39.88,49.487354,58.549927
+1081,RRMGX,T. Rowe Price Mid-Cap Growth Fund R Class,84.64,0.2,0.17,92.38,59.0,77.6953,82.8889
+1082,FITIX,Fidelity Advisor Mid Cap II Fund Class M,16.08,-0.8,-0.13,19.31,11.14,14.654411,16.613382
+1083,BPGIX,Boston Partners Global Equity Institutional Class,13.96,-0.14,-0.0200005,17.48,10.44,13.035,15.13897
+1084,FCASX,Fidelity Advisor Asset Manager 70% Fund Class C,21.57,0.05,0.01,23.62,17.01,20.485588,21.58728
+1085,CPEIX,Catalyst Dynamic Alpha Fund Class I,18.99,0.0,0.0,21.12,14.0,18.25647,18.873676
+1086,CRMSX,CRM Small Cap Value Fund Class Investor,11.21,-2.1,-0.24,15.98,8.05,10.262647,12.9375
+1087,ALGRX,Alger Focus Equity Fund Class I,43.45,0.09,0.04,44.16,31.18,40.578236,39.45353
+1088,GPRIX,Grandeur Peak Global Reach Fund Institutional Class,15.47,0.32,0.05,16.63,10.7,14.035,14.884485
+1089,EKGCX,Wells Fargo Global Small Cap Fund Class C,23.14,-0.52,-0.12,27.66,18.07,21.463236,24.323896
+1090,ACMYX,American Beacon Mid-Cap Value Fund Class Y,11.95,-2.13,-0.26,16.31,8.03,10.714412,13.4482355
+1091,VIIIX,Vanguard Institutional Index Fund Institutional Plus Shares,271.15,-0.2,-0.53,304.99,201.93,256.245,271.32037
+1092,TGVAX,Thornburg International Value Fund Class A,21.17,0.47,0.1,24.12,16.58,19.815294,21.508677
+1093,TTMIX,T. Rowe Price Communications & Technology Fund I Class,141.2,0.26,0.37,140.83,104.51,132.60617,125.580734
+1094,FARWX,Fidelity Advisor Simplicity RMD 2020 Fund Class A,60.29,0.23,0.14,60.39,58.01,60.29,60.29
+1095,PREIX,T. Rowe Price Equity Index 500 Fund,80.71,-0.2,-0.16,90.16,59.68,76.28236,80.265366
+1096,VMACX,Virtus KAR Mid-Cap Core Fund Class A,36.77,0.05,0.02,40.02,26.45,33.523823,35.366985
+1097,FACDX,Fidelity Advisor Health Care Fund Class A,58.51,1.25,0.720003,58.8,41.77,56.045883,53.879044
+1098,SKTAX,SEI Asset Allocation Trust Core Market Strategy Allocation Fund Class F,17.7,-0.17,-0.030001,20.31,13.29,16.600294,18.241985
+1099,SCSCX,Touchstone Large Cap Focused Fund Class C,38.26,-0.39,-0.15,43.52,28.67,36.181473,38.253235
+1100,EGOAX,Wells Fargo Large Cap Core Fund - Class A,15.19,-0.46,-0.069999,19.94,10.98,14.25,15.772647
+1101,GIFCX,Guggenheim Floating Rate Strategies Fund Class C,22.96,0.53,0.120002,25.44,20.45,22.429707,23.996323
+1102,RYHHX,Rydex High Yield Strategy Fund Class C,19.47,0.26,0.05,22.29,17.16,19.042353,20.498383
+1103,DCMDX,Dunham Monthly Distribution Fund Class C,24.44,-0.04,-0.01,26.4,23.93,24.424706,25.125
+1104,THORX,Thornburg Global Opportunities Fund Class R3,27.17,-0.69,-0.19,31.8,20.67,25.472647,27.911545
+1105,SHSSX,BlackRock Health Sciences Opportunities Portfolio Institutional Shares,70.63,1.23,0.86,70.86,50.78,67.90941,66.33324
+1106,DNMDX,Dunham Monthly Distribution Fund Class N,32.76,-0.03,-0.009997,34.55,31.96,32.70353,33.479263
+1107,ADCCX,American Century Disciplined Growth Fund Class C,20.99,0.24,0.05,21.61,15.05,19.784412,19.769264
+1108,JACCX,Janus Henderson Forty Fund Class C,31.29,0.48,0.149999,32.78,23.06,29.423824,29.746618
+1109,NOSGX,Northern Small Cap Value Fund,15.56,-2.75,-0.44,22.02,11.5,14.314412,17.742868
+1110,FIDGX,Fidelity Advisor Small Cap Growth Fund Class Z,26.16,-1.02,-0.27,29.45,18.4,24.094412,25.621838
+1111,LCCCX,Columbia Contrarian Core Fund Class C,23.02,0.0,0.0,25.14,16.97,21.771177,22.704266
+1112,DRNYX,"BNY Mellon New York Tax Exempt Bond Fund, Inc.",14.78,0.0,0.0,15.46,13.73,14.59353,14.898162
+1113,MECAX,AMG Managers Cadence Emerging Companies Fund - Class N,41.25,-2.11,-0.89,52.13,28.5,38.154118,44.267204
+1114,HGOAX,The Hartford Growth Opportunities Fund Class A,43.87,0.21,0.09,43.96,29.32,40.101177,39.205296
+1115,WSMVX,Wilshire Small Company Value Fund Class Institutional,16.52,-2.82,-0.48,22.58,12.05,14.947647,18.680515
+1116,HIMVX,Harbor Mid Cap Value Fund Investor Class,15.57,-2.38,-0.38,21.79,10.89,14.098235,17.891691
+1117,HGITX,Hartford Core Equity Fund Class R5,33.15,0.06,0.02,37.1,24.69,31.336472,33.170734
+1118,NFRAX,Nuveen Symphony Floating Rate Income Fund Class A,17.23,0.23,0.040001,19.26,14.8,16.929707,18.049486
+1119,USNQX,USAA NASDAQ-100 Index Fund,26.33,-0.27,-0.07,27.12,19.54,24.951765,24.189264
+1120,BDSCX,BlackRock Advantage Small Cap Core Fund Investor C Shares,12.78,-2.52,-0.33,15.5,8.77,11.5732355,13.271618
+1121,SCIRX,Columbia Seligman Communications and Information Fund Class R,72.85,-1.91,-1.42,81.05,51.01,68.33441,71.70588
+1122,FIIRX,Fidelity Advisor Simplicity RMD 2010 Fund Class I,53.68,0.13,0.07,53.81,52.33,53.68,53.68
+1123,CFWIX,Calvert Global Water Fund Class I,19.69,-0.4,-0.08,23.12,14.74,18.301176,20.352942
+1124,PLBBX,Plumb Balanced Fund,32.56,0.34,0.11,34.51,25.95,30.748823,31.71081
+1125,MBESX,AMG Chicago Equity Partners Balanced Fund Class I,15.69,0.64,0.100001,17.85,13.39,15.111765,16.335442
+1126,RLUEX,Lazard US Equity Concentrated Portfolio R6 Shares,15.6,0.52,0.08,17.8,11.4,14.702941,15.767868
+1127,CCSGX,Conestoga SMid Cap Fund Institutional Class,17.48,-0.63,-0.11,19.28,12.44,15.886765,16.918236
+1128,JGMIX,Janus Henderson Triton Fund Class S,27.23,-0.73,-0.2,31.46,18.48,24.764118,27.23147
+1129,USPRX,USAA 500 Index Fund Reward Shares,41.81,-0.17,-0.07,46.49,30.85,39.49559,41.57706
+1130,TILCX,T. Rowe Price Institutional Large Cap Value Fund,19.15,-0.57,-0.11,24.8,14.46,18.099117,21.055
+1131,NOMIX,Northern Mid Cap Index Fund,16.74,-1.41,-0.24,19.77,11.46,15.141471,17.183676
+1132,SSIRX,Sierra Tactical Core Income Fund Institutional Class,20.96,0.09,0.0196,21.9,20.55,20.66,21.223602
+1133,GEQYX,GuideStone Funds Equity Index Fund Institutional Class,33.53,-0.15,-0.049998,37.29,24.7,31.694412,33.278824
+1134,TRLCX,TIAA-CREF Large-Cap Value Fund Retirement Class,15.52,-0.83,-0.130001,18.65,11.46,14.614412,16.424265
+1135,MPGFX,Mairs & Power Growth Fund Investor Class,120.89,-0.17,-0.2,136.38,88.01,113.26882,120.59868
+1136,TRBCX,T. Rowe Price Blue Chip Growth Fund,130.93,0.07,0.09,136.86,94.72,123.04588,121.65191
+1137,RSMRX,RBC SMID Cap Growth Fund Class R6,14.3,-1.24,-0.1800005,16.04,9.88,12.8232355,14.036324
+1138,MBEAX,AMG Chicago Equity Partners Balanced Fund Class N,15.52,0.65,0.1,17.66,13.25,14.949118,16.162794
+1139,MFOIX,BNY Mellon Focused Equity Opportunities Fund Investor Shares,14.63,-0.27,-0.04,16.6,10.64,13.832353,14.809853
+1140,RRCOX,T. Rowe Price U.S. Equity Research Fund R Class,28.95,-0.14,-0.040002,32.45,21.27,27.326176,28.769558
+1141,JLGMX,JPMorgan Large Cap Growth Fund Class R6,46.94,0.17,0.080003,47.55,32.42,43.837353,42.804337
+1142,CSXCX,Calvert US Large Cap Core Responsible Index Fund Class C,24.39,-0.25,-0.059999,26.7,17.92,22.969118,23.814339
+1143,TRRAX,T. Rowe Price Retirement 2010 Fund,17.51,0.0,0.0,18.77,14.8,16.89147,17.534706
+1144,FMSTX,Federated MDT Large Cap Value Fund Institutional Shares,24.13,-0.54,-0.129998,28.66,17.6,22.75647,25.312721
+1145,VWUAX,Vanguard U.S. Growth Fund Admiral Shares,123.35,0.29,0.36,125.77,86.61,114.33324,111.49743
+1146,CSRSX,Cohen & Steers Realty Shares Fund Class L,56.49,0.46,0.259997,72.79,41.59,53.094414,60.549927
+1147,IHOIX,The Hartford International Opportunities Fund Class I,14.16,0.35,0.05,16.71,11.21,13.427059,14.86103
+1148,HFDTX,Hartford Schroders US MidCap Opportunities Fund Class R5,14.27,-0.14,-0.020001,16.9,10.02,13.198529,14.708456
+1149,MFCIX,Meridian Contrarian Fund Investor Class,30.78,-2.04,-0.64,37.6,20.96,27.833235,31.59978
+1150,NFRIX,Nuveen Symphony Floating Rate Income Fund Class I,17.25,0.23,0.04,19.27,14.82,16.94647,18.065735
+1151,CVMAX,Calvert Emerging Markets Equity Fund Class A,14.74,-0.47,-0.069999,18.26,12.21,14.446177,15.950441
+1152,DODGX,Dodge & Cox Stock Fund,159.05,-1.46,-2.36,203.69,118.38,148.66,172.78735
+1153,FSBBX,Federated Global Allocation Fund Class B Shares,18.43,0.22,0.04,19.88,14.76,17.519117,18.420294
+1154,TRRBX,T. Rowe Price Retirement 2020 Fund,21.14,0.0,0.0,23.2,17.23,20.248236,21.283676
+1155,JSMGX,Janus Henderson Triton Fund Class I,28.61,-0.73,-0.21,32.89,19.41,26.020882,28.577206
+1156,DDDIX,13D Activist Fund Class I,19.18,-1.99,-0.39,22.96,12.82,17.436764,19.81897
+1157,FFBFX,Emerald Banking and Finance Fund Investor Class,22.9,-2.35,-0.549999,33.4,17.09,20.442059,27.390736
+1158,PARCX,T. Rowe Price Retirement 2030 Fund Advisor Class,24.17,0.0,0.0,26.88,18.9,22.930882,24.396544
+1159,FPVSX,Frontier Phocas Small Cap Value Fund Service Class,24.87,-2.7,-0.690001,33.03,17.84,22.425589,27.700073
+1160,MBEYX,AMG Chicago Equity Partners Balanced Fund Class Z,15.69,0.64,0.100001,17.85,13.39,15.109412,16.333015
+1161,SPRAX,PGIM QMA Mid-Cap Value Fund- Class A,12.92,-2.49,-0.33,18.99,8.87,11.686471,15.24625
+1162,RLEMX,Lazard Emerging Markets Equity Portfolio R6 Shares,14.02,0.36,0.05,18.74,11.71,13.488824,15.973824
+1163,USSPX,USAA 500 Index Fund Member Shares,41.78,-0.17,-0.07,46.46,30.83,39.47353,41.553455
+1164,CCVAX,Calvert Small-Cap Fund Class A,22.86,-1.17,-0.270001,26.83,17.1,21.128529,23.595148
+1165,WSMNX,William Blair Small-Mid Cap Growth Fund Class N,25.22,-0.43,-0.11,27.62,17.15,22.93647,24.344118
+1166,MIMSX,BNY Mellon Mid Cap Multi-Strategy Fund Class Investor,16.81,-0.41,-0.07,18.96,11.61,15.397942,16.650589
+1167,NOSIX,Northern Stock Index Fund,34.83,-0.17,-0.060003,38.94,25.77,32.915,34.696472
+1168,JHNBX,John Hancock Bond Fund Class A,16.33,0.06,0.01,16.75,14.93,16.156176,16.145369
+1169,FNMIX,Fidelity New Markets Income Fund,13.86,-0.07,-0.01,15.38,12.15,13.172941,14.246985
+1170,NEIAX,Columbia Large Cap Index Fund Class A,48.54,-0.19,-0.09,54.01,35.74,45.887352,48.46206
+1171,NWGQX,Nationwide WCM Focused Small Cap Fund Class C,16.74,-2.33,-0.4,22.25,11.79,14.979117,18.517206
+1172,SSSJX,State Street Dynamic Small Cap Fund Class I,42.44,-2.68,-1.169997,55.84,30.18,39.02853,46.09603
+1173,TRLGX,T. Rowe Price Institutional Large Cap Growth Fund,46.32,-0.11,-0.05,48.41,33.04,43.421764,43.28581
+1174,SMTAX,JPMorgan SmartRetirement 2040 Fund Class A,19.3,-0.1,-0.02,23.25,15.08,18.334412,20.140808
+1175,PRSCX,T. Rowe Price Science and Technology Fund,44.52,-0.56,-0.25,46.73,31.81,40.908825,41.790295
+1176,FBIOX,Fidelity Select Biotechnology Portfolio,22.65,-0.96,-0.219999,23.22,16.18,21.244705,21.235588
+1177,OMOAX,Vivaldi Multi-Strategy Fund Class A,23.25,0.48,0.11,27.55,21.07,22.492058,24.645588
+1178,JAENX,Janus Henderson Enterprise Fund Class T,130.89,-0.16,-0.21,147.4,91.02,120.595,130.7614
+1179,FSCCX,Nuveen Small Cap Value Fund Class I,16.76,-3.07,-0.53,23.85,12.24,15.328236,19.616617
+1180,NCTWX,Nicholas II Fund Class I,26.51,-0.23,-0.06,31.57,18.77,24.40206,26.848236
+1181,JPEAX,JPMorgan Tax Aware Equity Fund Class A,36.4,-0.16,-0.060003,39.78,26.35,34.30794,35.576103
+1182,QLSGX,Federated MDT Small Cap Growth Fund Class R6,22.85,-2.02,-0.47,26.02,15.08,20.748823,22.596838
+1183,PRNHX,T. Rowe Price New Horizons Fund,66.86,0.56,0.37,66.49,45.76,60.859413,60.39691
+1184,BHSRX,BlackRock Health Sciences Opportunities Portfolio Class R,65.29,1.22,0.79,65.61,46.99,62.801765,61.411102
+1185,USMYX,Natixis ASG Tactical U.S. Market Fund Class Y,13.21,0.08,0.01,17.35,11.61,12.902941,14.754265
+1186,WAGTX,Seven Canyons World Innovators Fund Investor Class,18.02,-0.11,-0.02,18.04,11.35,15.927059,16.131912
+1187,USAWX,USAA World Growth Fund,23.33,0.13,0.03,35.6,17.64,22.063824,25.330074
+1188,FTUCX,Fidelity Advisor Telecommunications Fund Class C,62.35,-0.34,-0.209998,66.24,49.85,59.38265,59.673088
+1189,BUFEX,Buffalo Large Cap Fund,35.36,0.31,0.11,37.56,25.88,33.254707,33.750515
+1190,CMIDX,Congress Mid Cap Growth Fund Retail Class,21.56,0.05,0.01,23.2,15.05,19.68853,20.776764
+1191,PRUFX,T. Rowe Price Growth Stock Fund I Class,76.19,0.04,0.03,80.84,54.8,71.02588,71.451614
+1192,LSSNX,Loomis Sayles Small Cap Growth Fund Class N,25.52,-1.12,-0.290001,29.03,17.5,23.042942,25.204632
+1193,GVMCX,Government Street Mid-Cap Fund,27.36,0.04,0.01,30.98,20.24,25.648823,27.483677
+1194,JGISX,JPMorgan Intrepid Growth Fund Class R6,55.37,-0.34,-0.189998,61.0,40.41,52.396763,53.93875
+1195,FIRMX,Fidelity Managed Retirement Income Fund,58.23,0.02,0.01,59.28,53.94,57.43647,57.985954
+1196,TWCAX,American Century Select Fund A Class,81.54,0.25,0.199996,85.12,58.78,76.333824,76.67794
+1197,SLVAX,Columbia Select Large Cap Value Fund Class A,21.52,-0.97,-0.21,26.99,15.35,20.382647,23.079338
+1198,NWQIX,Nuveen NWQ Flexible Income Fund Class I,20.65,0.29,0.06,22.63,17.15,20.101177,21.210957
+1199,FELIX,Fidelity Advisor Semiconductors Fund Class I,28.13,-2.66,-0.77,31.12,18.61,26.457941,27.226177
+1200,CCCRX,Columbia Contrarian Core Fund Class R,25.8,0.0,0.0,28.15,19.01,24.398235,25.41228
+1201,HDGCX,The Hartford Dividend and Growth Fund Class C,22.59,-0.66,-0.15,26.14,16.98,21.343529,23.372942
+1202,FTSDX,Fidelity Advisor Strategic Dividend & Income Fund Class M,14.18,0.07,0.01,16.11,11.02,13.620295,14.551176
+1203,JMGRX,Janus Henderson Enterprise Fund Class I,132.55,-0.17,-0.22,149.22,92.15,122.11794,132.39037
+1204,FESGX,First Eagle Global Fund Class C,50.75,-0.02,-0.01,58.25,40.61,48.59735,52.085735
+1205,JRBYX,JPMorgan SmartRetirement Blend 2030 Fund Class R6,21.38,0.0,0.0,23.52,17.61,20.461176,21.68875
+1206,RWDIX,Redwood Managed Volatility Fund Class I,14.21,0.21,0.03,15.43,13.91,14.037059,14.845074
+1207,VGENX,Vanguard Energy Fund Investor Shares,32.32,-1.01,-0.33,49.32,21.91,30.38353,38.58338
+1208,MICDX,Matthews China Dividend Fund Institutional Class,15.24,-0.46,-0.069999,16.97,13.09,15.22353,15.466986
+1209,JEMSX,JPMorgan Emerging Markets Equity Fund Class I,28.15,-0.28,-0.08,33.76,23.02,27.09147,29.743309
+1210,LCRIX,Leuthold Core Investment Fund Class Institutional,18.52,-0.11,-0.02,19.64,15.81,17.966177,18.480515
+1211,FBTTX,Fidelity Advisor Biotechnology Fund Class M,28.78,0.14,0.04,28.88,20.22,27.009117,25.836912
+1212,NEFSX,Natixis Funds Trust I U.S. Equity Opportunities Fund Class A,33.94,-0.35,-0.119998,39.4,25.92,31.696764,34.4625
+1213,JOBBX,JPMorgan SmartRetirement Blend 2040 Fund Class R5,22.38,0.0,0.0,25.41,17.57,21.212646,22.934633
+1214,PALRX,PGIM Balanced Fund- Class R,15.05,-0.27,-0.04,16.53,12.12,14.400883,15.25522
+1215,IFPUX,Independent Franchise Partners US Equity Fund,18.05,0.22,0.040002,20.3,13.89,17.062647,17.863897
+1216,HOOSX,Hartford Schroders US Small Cap Opportunities Fund Class R4,22.08,-1.47,-0.33,28.11,15.98,20.125,23.92956
+1217,FAASX,Fidelity Advisor Asset Manager 70% Fund Class A,21.67,0.05,0.01,23.85,17.06,20.567648,21.686691
+1218,SIIDX,Bernstein Intermediate Duration Institutional Portfolio,15.69,0.06,0.010001,16.06,14.65,15.522942,15.448456
+1219,CPECX,Catalyst Dynamic Alpha Fund Class C,17.47,0.06,0.01,19.48,12.9,16.80206,17.394558
+1220,QUERX,AQR Large Cap Defensive Style Fund Class R6,22.57,0.4,0.09,24.99,17.29,21.289412,22.414927
+1221,TPPAX,T. Rowe Price Spectrum Moderate Allocation Fund I Class,23.14,-0.04,-0.01,25.09,18.93,22.112648,23.2225
+1222,SEGPX,Guggenheim Large Cap Value Fund Class P,36.77,-1.1,-0.41,47.0,27.28,34.71794,39.578896
+1223,CAEEX,Columbia Acorn European Fund Institutional 2 Class,20.63,1.88,0.38,23.07,13.76,18.440882,20.214264
+1224,TEGYX,Touchstone Mid Cap Growth Fund Class Y,32.7,0.25,0.08,36.36,22.26,29.775293,31.70353
+1225,NLGIX,Columbia Global Strategic Equity Fund Class A,14.13,0.07,0.01,15.82,10.66,13.293236,14.261838
+1226,MSRFX,"Morgan Stanley Institutional Fund, Inc. Frontier Markets Portfolio Class IS",14.8,0.0,0.0,17.9,11.37,13.530882,15.403456
+1227,SIVIX,State Street Institutional Small-Cap Equity Fund Investment Class,14.64,-2.14,-0.32,18.42,10.33,13.172647,15.384485
+1228,PACOX,T. Rowe Price U.S. Equity Research Fund Advisor Class,29.1,-0.14,-0.040001,32.59,21.36,27.460882,28.901764
+1229,FSDPX,Fidelity Select Materials Portfolio,62.08,0.84,0.52,70.07,42.93,57.60294,62.041176
+1230,KIFCX,Salient Select Income Fund Class C,16.36,-0.3,-0.05,21.32,11.54,15.345882,18.416765
+1231,HWSIX,Hotchkis & Wiley Small Cap Value Fund Class I,37.31,-2.89,-1.110002,54.98,26.97,33.64294,44.080883
+1232,CISIX,Calvert US Large Cap Core Responsible Index Fund Class I,26.71,-0.22,-0.059999,29.16,19.59,25.134706,26.027353
+1233,FCPAX,Fidelity Advisor International Capital Appreciation Fund Class A,21.09,1.54,0.32,23.51,16.25,19.973824,21.162941
+1234,PWIYX,PACE International Equity Investments Class Y,13.63,1.19,0.16,16.11,10.48,12.780883,14.219044
+1235,IHOSX,The Hartford International Opportunities Fund Class R4,14.78,0.34,0.05,17.45,11.7,14.012353,15.502059
+1236,HNLVX,Harbor Large Cap Value Fund Retirement Class,15.64,-0.7,-0.11,17.96,11.55,14.558824,15.863824
+1237,HBLRX,The Hartford Balanced Income Fund Class R3,14.38,0.07,0.01,15.32,11.76,13.898529,14.415515
+1238,NMIAX,Columbia Large Cap Enhanced Core Fund Class A,23.94,-0.5,-0.120001,26.52,17.37,22.513529,23.75331
+1239,NNLEX,Nicholas Limited Edition Fund Class N,24.57,-1.29,-0.32,27.96,17.84,22.610294,24.721912
+1240,JPDVX,JPMorgan Diversified Fund Class L,15.21,0.07,0.01,17.28,12.41,14.536765,15.553677
+1241,GMRPX,GMO Risk Premium Fund Class III,23.92,0.0,0.0,28.58,20.14,22.996471,25.663162
+1242,FJSCX,Fidelity Japan Smaller Companies Fund,15.72,1.29,0.2,18.3,12.07,14.506764,15.703088
+1243,SVOAX,SEI Institutional Managed Trust U.S. Managed Volatility Fund Class F,15.55,0.0,0.0,18.39,12.12,14.898824,16.548529
+1244,TBCIX,T. Rowe Price Blue Chip Growth Fund I Class,131.13,0.07,0.08999,137.02,94.84,123.21912,121.81529
+1245,JPBRX,JPMorgan SmartRetirement Blend 2035 Fund Class R5,22.09,0.0,0.0,24.74,17.71,21.021471,22.539118
+1246,MSGAX,Meridian Small Cap Growth Fund A Class,14.15,-1.87,-0.27,16.54,9.47,12.536765,13.977058
+1247,BPSCX,Boston Partners Small Cap Value Fund II Investor Class,17.87,-2.67,-0.49,24.81,12.95,16.092941,20.623604
+1248,RYHGX,Rydex High Yield Strategy Fund Class H,22.53,0.31,0.069999,25.53,19.83,22.018236,23.633383
+1249,FAMRX,Fidelity Asset Manager 85% Fund,18.92,0.05,0.01,21.24,14.38,17.809412,19.00375
+1250,ACDHX,AC Alternatives Disciplined Long Short Fund C Class,16.3,-0.06,-0.01,16.31,15.44,16.3,16.025686
+1251,ADGKX,AB Core Opportunities Fund Class K,19.42,-0.05,-0.01,21.37,14.47,18.325,19.319927
+1252,UBVSX,Undiscovered Managers Behavioral Value Fund Class I,43.91,-3.32,-1.51,64.67,31.2,39.431175,51.665367
+1253,PRGTX,T. Rowe Price Global Technology Fund,18.47,0.05,0.01,18.74,13.13,17.225883,16.507353
+1254,HFCSX,Hennessy Focus Fund Investor Class,69.38,-0.77,-0.54,89.14,45.15,62.67,73.276474
+1255,TILRX,TIAA-CREF Large-Cap Growth Fund Retirement Class,23.27,0.26,0.059999,24.11,16.88,21.786764,21.499632
+1256,NWJFX,Nationwide Ziegler NYSE Arca Tech 100 Index Fund Institutional Service Class,96.94,0.06,0.059995,105.38,72.33,91.70088,94.448456
+1257,HSPGX,Emerald Growth Fund Class A,25.57,-1.77,-0.459999,28.28,16.55,22.971176,24.393162
+1258,DHLSX,Diamond Hill Long Short Fund Class I,23.22,-1.07,-0.25,28.47,18.64,21.989706,24.676104
+1259,FSTBX,Federated Global Allocation Fund Class A Shares,18.93,0.26,0.049999,20.41,15.17,17.981176,18.915295
+1260,VGSAX,Virtus Duff & Phelps Global Real Estate Securities Fund Class A,27.94,0.87,0.24,35.91,20.96,26.505295,31.031984
+1261,NWKEX,Nationwide WCM Focused Small Cap Fund Class R6,20.7,-2.36,-0.5,27.12,14.55,18.513529,22.777353
+1262,FESOX,First Eagle Overseas Fund Class C,21.0,0.43,0.09,24.1,17.39,20.247059,21.591103
+1263,WPSIX,AB Concentrated Growth Fund Class I,42.58,-0.42,-0.180002,46.47,29.64,39.61735,41.285442
+1264,SSPIX,SEI Institutional Managed Trust S&P 500 Index Fund Class F,68.05,-0.19,-0.13,76.16,50.4,64.315,68.0575
+1265,SMGIX,Columbia Contrarian Core Fund Institutional Class,26.02,0.0,0.0,28.35,19.15,24.596766,25.608677
+1266,FGDKX,Fidelity Growth Discovery Fund Class K,42.17,-0.02,-0.009996,43.94,30.28,39.349705,38.96647
+1267,AKREX,Akre Focus Fund Retail Class,47.33,0.96,0.45,48.85,33.78,43.76353,44.165
+1268,TIBRX,Thornburg Investment Income Builder Fund Class R3,18.41,0.11,0.02,22.98,14.79,17.499413,20.177279
+1269,SIUPX,Guggenheim Investment Grade Bond Fund Class P,19.76,0.1,0.02,19.92,18.68,19.511765,19.121471
+1270,OTIIX,T. Rowe Price Small-Cap Stock Fund I Class,47.28,-1.36,-0.65,54.48,33.62,43.188824,47.82456
+1271,HHHSX,Hartford Schroders Emerging Markets Equity Fund Class R4,14.13,-0.77,-0.11,17.28,11.7,13.707353,15.109264
+1272,RRTPX,T. Rowe Price Retirement 2035 Fund Class R,17.48,-0.06,-0.01,19.59,13.48,16.532059,17.687426
+1273,HAFCX,Hartford Multi-Asset Income and Growth Fund Class C,19.15,-0.31,-0.06,23.53,16.77,18.692648,20.23669
+1274,FZAHX,Fidelity Advisor Growth Opportunities Fund Class Z,107.02,-0.45,-0.48,109.4,72.58,98.60794,96.63544
+1275,WESJX,William Blair Emerging Markets Small Cap Growth Fund R6 Class,15.92,-0.5,-0.08,17.94,11.95,15.116177,15.9190445
+1276,PAWAX,T. Rowe Price New America Growth Fund Advisor Class,56.31,-0.02,-0.01,58.53,40.67,52.780296,52.79956
+1277,BSPAX,iShares S&P 500 Index Fund Investor A Shares,359.66,-0.19,-0.70002,401.77,266.12,339.97205,357.7256
+1278,JIGAX,JPMorgan Intrepid Growth Fund Class A,55.15,-0.33,-0.18,60.66,40.28,52.20294,53.747353
+1279,MIGPX,"Morgan Stanley Institutional Fund, Inc. Global Advantage Portfolio Class A",21.15,0.62,0.13,21.33,13.72,18.647058,17.695
+1280,BPTUX,Baron Partners Fund R6 Shares,74.26,-1.64,-1.24,92.67,45.17,67.73118,69.81875
+1281,VIMCX,Virtus KAR Mid-Cap Core Fund Class I,37.54,0.08,0.029998,40.83,26.98,34.213234,36.074043
+1282,PTEZX,PGIM QMA Large-Cap Core Equity Fund- Class Z,14.72,-0.54,-0.08,16.69,10.65,13.787059,14.863309
+1283,VGIAX,Vanguard Growth and Income Fund Admiral Shares,79.77,-0.25,-0.19999,88.82,58.33,75.33912,79.65
+1284,BPLEX,Boston Partners Long/Short Equity Fund Investor Class,13.67,-1.16,-0.16,17.09,10.99,12.998529,14.341911
+1285,SCUVX,Hartford Schroders US Small Cap Opportunities Fund Class A,21.03,-1.5,-0.32,26.82,15.23,19.17,22.798603
+1286,HLEMX,Harding Loevner Emerging Markets Portfolio Advisor Class,46.63,-0.36,-0.17,61.6,38.94,45.39206,52.357132
+1287,FMCKX,Fidelity Advisor Emerging Markets Fund Class C,23.22,-0.26,-0.059999,28.23,18.72,22.42647,24.177353
+1288,SEUPX,Guggenheim StylePlus - Mid Growth Fund Class P,39.98,-0.1,-0.04,43.7,26.85,36.445293,38.60728
+1289,PRJIX,T. Rowe Price New Horizons Fund I Class,67.07,0.57,0.38,66.69,45.89,61.04206,60.55978
+1290,FIASX,Fidelity Advisor International Small Cap Fund Class A,22.6,0.8,0.18,27.64,17.51,21.187647,24.194706
+1291,ASDEX,American Century Select Fund R6 Class,85.77,0.25,0.21,89.39,61.76,80.26235,80.485664
+1292,SGOAX,SEI Asset Allocation Trust Market Growth Strategy Allocation Fund Class F,22.55,-0.18,-0.04,25.85,16.93,21.150295,23.187721
+1293,SEMCX,SEI Institutional Managed Trust Mid-Cap Portfolio Fund Class F,21.95,-0.95,-0.21,26.65,15.4,20.128529,23.14022
+1294,WAAEX,Wasatch Small Cap Growth Fund Investor Class,39.62,-1.76,-0.709998,44.19,25.68,34.700882,37.53125
+1295,FSAIX,Fidelity Select Portfolios Air Transportation Portfolio,44.97,-1.45,-0.66,81.02,35.82,40.76647,60.76985
+1296,PAMCX,T. Rowe Price Mid-Cap Growth Fund Advisor Class,87.85,0.21,0.18,95.61,61.2,80.62706,85.94706
+1297,TFESX,Templeton Institutional Fund International Equity Series Service Shares,13.07,0.93,0.12,16.48,10.47,12.498823,14.2075
+1298,GMDFX,GMO Emerging Country Debt Fund Class IV,24.9,-0.12,-0.03,28.11,22.27,23.789118,25.938162
+1299,CBMSX,Wells Fargo C&B Mid Cap Value Fund - Class Inst,33.11,-2.3,-0.78,42.48,23.38,30.137648,36.338528
+1300,FDVIX,Fidelity Advisor Diversified International Fund I Class,23.01,1.41,0.32,25.4,17.27,21.510883,22.925661
+1301,GRMIX,Nationwide S&P 500 Index Fund Class R6,15.21,-0.2,-0.03,16.97,11.19,14.374118,15.247941
+1302,TRSGX,T. Rowe Price Spectrum Moderate Growth Allocation Fund,33.48,-0.06,-0.02,37.1,26.11,31.71353,33.705
+1303,DGLCX,BNY Mellon Global Stock Fund - Class C,20.96,0.96,0.200002,23.06,16.07,19.864412,20.871325
+1304,TIDDX,T. Rowe Price International Discovery Fund I Class,67.33,0.45,0.3,70.87,47.32,61.29559,63.69728
+1305,PABFX,PGIM Balanced Fund- Class Z,15.17,-0.26,-0.04,16.65,12.21,14.515588,15.367941
+1306,IHAYX,Hartford Multi-Asset Income and Growth Fund Class Y,19.45,-0.46,-0.09,23.87,17.05,19.002647,20.562647
+1307,NHMFX,Nuveen High Yield Municipal Bond Fund Class R6,16.33,0.18,0.03,18.84,14.64,15.966764,17.338015
+1308,SABTX,SA U.S. Value Fund Investor Class,14.29,-1.45,-0.21,18.58,10.44,13.360882,15.689853
+1309,FIRRX,Fidelity Simplicity RMD 2010 Fund,53.28,0.04,0.02,55.03,48.22,52.18294,53.18544
+1310,RBAIX,T. Rowe Price Balanced I Class,23.79,0.08,0.02,25.74,19.18,22.720589,23.76603
+1311,JLVZX,JPMorgan Large Cap Value Fund Class R2,12.51,-1.88,-0.24,15.6,8.85,11.489412,13.350294
+1312,VTMFX,Vanguard Tax-Managed Balanced Fund Admiral Shares,33.53,-0.09,-0.029998,35.44,27.69,32.27559,33.15816
+1313,CDOCX,Crawford Small Cap Dividend Fund Class C,38.35,-1.26,-0.49,43.59,38.35,38.35,41.87575
+1314,FIIVX,Fidelity Advisor Managed Retirement 2020 Fund Class I,50.96,-0.02,-0.009997,53.69,44.77,49.504414,51.031178
+1315,VWELX,Vanguard Wellington Fund Investor Shares,41.07,0.0,0.0,44.65,33.06,39.65,41.54162
+1316,MMCFX,AMG Managers Emerging Opportunities Fund Class N,33.72,-2.2,-0.76,43.29,22.75,30.204412,35.581028
+1317,TSAGX,Touchstone Large Company Growth Fund Class A,44.84,0.31,0.14,47.55,33.37,42.582058,42.81919
+1318,VQNPX,Vanguard Growth and Income Fund Investor Shares,48.85,-0.27,-0.13,54.41,35.73,46.144707,48.79081
+1319,RRBGX,T. Rowe Price Blue Chip Growth Fund Class R,122.92,0.07,0.08,128.68,89.01,115.55912,114.36265
+1320,CCALX,Conestoga Small Cap Institutional Class,58.83,-1.74,-1.040003,63.76,43.24,52.96794,56.66919
+1321,BTIEX,DWS Equity 500 Index Fund - Class S,182.71,-0.2,-0.36,210.02,135.31,172.68323,185.05118
+1322,FSPTX,Fidelity Select Technology Portfolio,20.92,-0.24,-0.05,22.54,15.46,19.451471,19.594486
+1323,BIIEX,Brandes International Equity Fund Class I,12.97,-0.08,-0.0100005,17.48,10.36,12.170882,14.772794
+1324,GQETX,GMO Quality Fund Class III,23.76,0.0,0.0,26.04,17.96,22.606764,23.690956
+1325,HLMVX,Harding Loevner Global Equity Portfolio Institutional Class,37.63,0.53,0.2,39.25,27.5,34.775295,35.723675
+1326,PMEGX,T. Rowe Price Institutional Mid-Cap Equity Growth Fund,58.0,0.21,0.12,63.56,39.94,53.11765,56.905075
+1327,RPBAX,T. Rowe Price Balanced Fund,23.79,0.08,0.02,25.74,19.18,22.725294,23.76875
+1328,JTSSX,JPMorgan SmartRetirement 2050 Fund Class I,18.77,-0.11,-0.02,22.46,14.42,17.769411,19.583603
+1329,AASCX,Thrivent Mid Cap Stock Fund Class A,21.51,-0.69,-0.15,25.25,14.98,19.435295,21.884338
+1330,EGFFX,Edgewood Growth Fund Retail Class,40.23,0.83,0.330002,40.2,27.68,37.12706,36.105515
+1331,ABSZX,AB Discovery Value Fund Class Z,15.01,-2.34,-0.36,20.27,10.5,13.619118,16.778234
+1332,AOVIX,American Century Investments One Choice Portfolio: Very Aggressive Investor Class,16.46,0.0,0.0,19.47,12.08,15.350294,16.780294
+1333,VINIX,Vanguard Institutional Index Fund Institutional Shares,271.13,-0.2,-0.53,304.96,201.91,256.23117,271.30258
+1334,LSCRX,Loomis Sayles Small Capital Value Fund Retail Class,21.38,-2.29,-0.5,29.73,15.44,19.458529,23.880367
+1335,SGRHX,Wells Fargo Growth Fund - Class R6,46.95,0.23,0.11,48.51,32.21,43.059116,43.315807
+1336,PRMTX,T. Rowe Price Communications & Technology Fund Investor Class,140.86,0.26,0.36,140.5,104.29,132.3053,125.3225
+1337,NBQFX,Nuveen International Growth Fund Class R6,44.16,0.59,0.26,49.07,33.32,41.542942,44.13
+1338,FCRVX,Fidelity Advisor Managed Retirement 2020 Fund Class C,50.93,0.22,0.11,51.02,49.11,50.93,50.93
+1339,FOSKX,Fidelity Overseas Fund Class K,47.67,1.45,0.680002,52.78,35.62,44.28059,47.507206
+1340,FEGOX,First Eagle Gold Fund Class C,21.31,0.28,0.06,22.83,13.14,21.117647,18.265368
+1341,SAISX,SA International Small Company Fund Investor Class,16.99,0.59,0.1,21.61,12.49,15.625588,18.080368
+1342,SIUSX,Guggenheim Investment Grade Bond Fund Class A,19.74,0.1,0.02,19.91,18.66,19.49353,19.103823
+1343,GMDZX,GuideStone Funds Medium-Duration Bond Fund Investor Class,15.59,0.0,0.0,15.76,14.34,15.432058,15.248161
+1344,DAMDX,Dunham Monthly Distribution Fund Class A,31.56,-0.03,-0.01,33.41,30.81,31.51147,32.28434
+1345,JUEPX,JPMorgan U.S. Equity Fund Class R3,15.78,-0.13,-0.02,17.16,11.43,14.905588,15.450735
+1346,GIFIX,Guggenheim Floating Rate Strategies Fund Institutional Class,22.99,0.52,0.120001,25.47,20.48,22.45647,24.025955
+1347,GLIFX,Lazard Global Listed Infrastructure Portfolio Institutional Shares,14.43,0.21,0.029999,16.86,11.7,13.655,14.853162
+1348,FBALX,Fidelity Balanced Fund,24.21,-0.33,-0.079999,25.82,18.93,22.986765,23.670883
+1349,PRASX,T. Rowe Price New Asia Fund,17.52,-0.34,-0.06,20.4,14.66,17.325588,18.231764
+1350,NINDX,Columbia Large Cap Index Fund Institutional Class,48.88,-0.18,-0.09,54.35,35.97,46.20147,48.78125
+1351,USAAX,USAA Growth Fund,27.48,0.4,0.110001,32.58,20.05,25.736177,26.708971
+1352,WSBFX,Walden Balanced Fund,19.5,0.0,0.0,21.31,16.15,18.83853,19.73728
+1353,NNGAX,Nuveen Large-Cap Value Fund Class A,19.08,-1.34,-0.26,24.15,13.86,17.859707,20.69875
+1354,FPACX,FPA Crescent Fund,29.96,-0.86,-0.26,34.83,24.57,28.364706,31.389559
+1355,FACTX,Fidelity Advisor Health Care Fund Class M,54.27,1.25,0.669998,54.54,38.77,51.99353,50.011986
+1356,FBAKX,Fidelity Balanced Fund Class K,24.21,-0.33,-0.079999,25.82,18.93,22.987059,23.671618
+1357,FSCWX,Nuveen Small Cap Value Fund Class R6,16.83,-3.11,-0.54,23.95,12.29,15.392941,19.693014
+1358,NOLCX,Northern Large Cap Core Fund,19.37,-0.77,-0.15,21.82,14.3,18.288235,19.556765
+1359,JUSRX,JPMorgan U.S. Equity Fund Class R5,15.94,-0.13,-0.02,17.34,11.55,15.053235,15.604264
+1360,SVFYX,Smead Value Fund Class Y,41.47,-2.03,-0.86,52.22,30.77,38.710587,44.643677
+1361,DTSVX,Wilshire Small Company Value Portfolio Investment Class Shares,16.14,-2.89,-0.479999,22.04,11.78,14.613529,18.26044
+1362,JMCEX,JPMorgan Mid Cap Equity Fund Class R2,45.47,-0.72,-0.330003,51.79,31.92,42.06853,45.28794
+1363,JUESX,JPMorgan U.S. Equity Fund Class I,15.9,-0.13,-0.02,17.3,11.52,15.019117,15.568897
+1364,LVOLX,SGI U.S. Large Cap Equity Fund Class A,17.34,0.99,0.17,19.66,13.5,16.715588,17.717205
+1365,CIPMX,Champlain Mid Cap Fund Advisor Class,20.25,0.25,0.05,21.13,13.98,18.378824,19.12625
+1366,NELAX,Nuveen Equity Long/Short Fund Class A,38.01,-0.6,-0.229998,42.17,31.38,36.658234,38.81831
+1367,DPDEX,Macquarie Pooled Trust Large Cap Value Portfolio,14.92,0.2,0.03,25.47,11.09,14.059117,17.068382
+1368,TESIX,Franklin Mutual Shares Fund Class A,21.62,-0.92,-0.200002,28.45,16.82,20.591764,24.208382
+1369,DDDCX,13D Activist Fund Class C,18.34,-1.93,-0.36,22.09,12.28,16.67853,19.004265
+1370,FFFDX,Fidelity Freedom 2020 Fund,15.06,0.0,0.0,16.89,13.26,14.805588,15.605074
+1371,FSMDX,Fidelity Mid Cap Index Fund,21.01,-0.47,-0.1,24.56,14.65,19.358824,21.48375
+1372,SBACX,Touchstone Balanced Fund Class C,21.28,-0.23,-0.05,23.54,17.34,20.444412,21.12375
+1373,SGIDX,Crossmark Steward Global Equity Income Fund Class A,27.26,-0.58,-0.16,33.79,20.8,25.81206,29.153088
+1374,CTHCX,Columbia Global Technology Growth Fund Class C,37.07,-0.24,-0.09,39.17,27.2,34.786472,34.52559
+1375,RRTVX,T. Rowe Price Retirement 2055 Fund Class R,14.49,0.0,0.0,16.37,10.94,13.627353,14.703676
+1376,SMVLX,Smead Value Fund Investor Class,41.39,-2.04,-0.86,52.02,30.73,38.65059,44.577427
+1377,MGGIX,"Morgan Stanley Institutional Fund, Inc. Global Opportunity Portfolio Class I",31.06,0.65,0.200001,31.46,22.91,28.661177,28.45934
+1378,SFDYX,SEI Institutional Managed Trust Mid-Cap Fund Class Y,21.95,-0.99,-0.22,26.66,15.41,20.132353,23.149853
+1379,ATERX,AB Sustainable Global Thematic Fund Class R,122.67,0.54,0.660005,129.34,88.8,114.37265,116.55029
+1380,SGAPX,Virtus SGA Global Growth I Class,22.97,0.61,0.14,24.02,16.96,21.561764,21.788603
+1381,CSSZX,Columbia Select Small Cap Value Fund Institutional Class,16.09,-2.48,-0.41,20.59,10.8,14.267058,17.144264
+1382,TFSCX,Templeton Institutional Foreign Smaller Companies Series Advisor,17.53,0.81,0.139999,21.81,12.96,15.965,18.508236
+1383,FNCMX,Fidelity NASDAQ Composite Index Fund,117.95,-0.46,-0.54,123.3,86.19,110.75412,110.61625
+1384,HJSIX,Hennessy Japan Small Cap Fund Institutional Class,14.53,0.48,0.07,15.93,10.46,13.118529,14.092573
+1385,FANIX,Fidelity Advisor Energy Fund I Class,18.35,-2.5,-0.47,30.39,11.04,16.90206,22.327574
+1386,VGELX,Vanguard Energy Fund Admiral Shares,60.62,-1.01,-0.619998,92.55,41.11,56.988235,72.38897
+1387,FLCSX,Fidelity Large Cap Stock Fund,28.87,-1.13,-0.33,34.42,21.57,27.156765,30.36625
+1388,MCSVX,MainStay MacKay Convertible Fund Class B,18.35,0.0,0.0,19.21,14.26,17.205883,17.55772
+1389,TRGIX,TIAA-CREF Growth & Income Fund Retirement Class,14.02,-0.21,-0.03,15.86,10.18,13.176176,14.077721
+1390,VGISX,Virtus Duff & Phelps Global Real Estate Securities Fund Class I,27.19,0.85,0.229999,35.36,20.39,25.790295,30.282133
+1391,HRCUX,Carillon ClariVest Capital Appreciation Fund Class R6,48.38,-0.04,-0.02,51.67,35.23,45.561176,46.090073
+1392,TCMIX,AMG TimesSquare International Small Cap Fund Class Z,14.05,0.43,0.06,16.47,10.12,12.61,14.363235
+1393,POGSX,Pin Oak Equity Fund,68.12,-0.19,-0.13,77.0,51.06,64.20853,68.860886
+1394,MXXVX,Matthew 25 Fund,27.08,-1.88,-0.52,33.09,18.59,24.248236,28.303677
+1395,FCAGX,Fidelity Advisor Small Cap Growth Fund Class A,24.68,-1.0,-0.25,27.81,17.37,22.735882,24.202574
+1396,PARNX,Parnassus Fund,48.43,0.98,0.47,53.59,35.1,44.907352,47.569412
+1397,TGVIX,Thornburg International Value Fund Class I,21.93,0.46,0.1,24.96,17.16,20.52,22.284632
+1398,FPBFX,Fidelity Pacific Basin Fund,32.33,0.53,0.169996,35.49,25.69,31.100882,32.296177
+1399,VSCGX,Vanguard LifeStrategy Conservative Growth Fund Investor Shares,20.71,0.0,0.0,21.54,18.12,20.14206,20.560736
+1400,PTRMX,Performance Trust Municipal Bond Fund - A Class,25.14,0.08,0.020001,26.21,22.85,24.714706,25.059853
+1401,JNGLX,Janus Henderson Global Life Sciences Fund Class D,62.14,0.86,0.53,63.96,45.67,59.491177,59.173016
+1402,MAPOX,Mairs & Power Balanced Fund Investor Class,93.27,0.02,0.02,102.82,76.4,89.507355,94.838234
+1403,GEDFX,GMO Emerging Domestic Opportunities VI,23.709,0.29,0.069,23.71,23.71,23.71,23.71
+1404,BFOCX,Berkshire Focus Fund,31.4,-0.19,-0.06,33.67,22.13,29.442942,29.059706
+1405,SEBLX,Touchstone Balanced Fund Class A,21.2,-0.19,-0.040002,23.46,17.28,20.354118,21.037132
+1406,HAOYX,The Hartford International Opportunities Fund Class Y,14.99,0.33,0.05,17.68,11.87,14.21353,15.728162
+1407,AVEGX,Ave Maria Growth Fund,37.23,0.24,0.09,40.7,25.66,34.080296,35.90544
+1408,DPSCX,BNY Mellon Structured Midcap Fund Class C,18.72,-1.47,-0.28,23.39,12.99,17.079706,19.908014
+1409,GIBCX,Guggenheim Total Return Bond Fund Class C,28.58,0.11,0.03,28.81,27.02,28.2,27.65206
+1410,GEDTX,GMO Emerging Domestic Opportunities Fund Class II,19.58,-0.71,-0.14,23.68,16.73,19.332058,21.064192
+1411,QCSCX,Federated MDT Small Cap Core Fund Class C,13.93,-2.25,-0.32,17.27,9.63,12.665294,14.7475
+1412,PABCX,PGIM Balanced Fund- Class C,15.13,-0.26,-0.04,16.62,12.19,14.484411,15.342353
+1413,HAMVX,Harbor Mid Cap Value Fund Institutional Class,15.58,-2.32,-0.37,21.84,10.88,14.09853,17.891766
+1414,CIPNX,Champlain Small Company Fund Institutional Class,18.34,-1.56,-0.290001,21.38,12.97,16.544706,18.29066
+1415,RYHOX,Rydex NASDAQ-100 Fund Class H,43.7,-0.27,-0.12,45.22,32.48,41.44,40.358234
+1416,ABSRX,AB Discovery Value Fund Class R,14.62,-2.34,-0.35,19.7,10.24,13.274706,16.36081
+1417,FTIRX,Fidelity Advisor Simplicity RMD 2010 Fund Class M,53.7,0.13,0.07,53.82,52.35,53.7,53.7
+1418,SEVIX,SEI Institutional Managed Trust U.S. Managed Volatility Fund Class I,15.55,0.0,0.0,18.39,12.11,14.901176,16.548603
+1419,NCBVX,PGIM QMA Mid-Cap Value Fund- Class C,10.81,-2.44,-0.270001,15.9,7.43,9.782941,12.778529
+1420,SGIIX,First Eagle Global Fund Class I,53.07,-0.02,-0.009998,61.23,42.39,50.783825,54.42228
+1421,RMBFX,RMB Mendon Financial Long/Short Fund Class A,6.33,-2.31,-0.15,16.06,5.33,5.855882,11.639192
+1422,FTISX,Fidelity Advisor International Small Cap Fund Class M,22.51,0.81,0.18,27.56,17.45,21.10853,24.110294
+1423,SIBAX,Sit Balanced Fund,25.7,-0.04,-0.010001,26.73,20.72,24.577942,24.99669
+1424,HSPCX,Emerald Growth Fund Class C,21.02,-1.78,-0.38,23.28,13.62,18.888529,20.098087
+1425,HSVRX,Harbor Small Cap Value Fund Administrative Class,29.36,-2.1,-0.63,35.67,20.62,26.666176,30.645882
+1426,RBRCX,RBC Small Cap Core Fund Class R6,26.97,-2.53,-0.7,33.9,17.66,23.885588,28.084558
+1427,VMNVX,Vanguard Global Minimum Volatility Fund Admiral Shares,25.45,0.43,0.11,30.35,20.3,24.579706,27.193161
+1428,MIPIX,Matthews Asia Dividend Fund Institutional Class,15.78,-0.19,-0.029999,17.95,12.71,15.166765,16.131618
+1429,WMMAX,TETON Westwood Mighty Mites Fund Class A,19.93,-2.16,-0.44,25.63,15.17,18.22647,21.836103
+1430,FBGKX,Fidelity Blue Chip Growth Fund Class K,117.34,-0.53,-0.62999,120.9,81.9,108.515,106.10095
+1431,PASVX,T. Rowe Price Small-Cap Value Fund Advisor Class,38.76,-1.87,-0.74,49.24,28.52,35.459705,41.926544
+1432,HNVRX,Harbor Small Cap Value Fund Retirement Class,29.55,-2.12,-0.639999,35.86,20.74,26.833529,30.832426
+1433,FMIJX,FMI International Fund Investor Class,25.64,0.04,0.01,32.96,20.59,24.389706,28.6675
+1434,JHQPX,JPMorgan Hedged Equity Fund Class R5,21.76,-0.18,-0.040001,22.0,17.86,21.27,21.018677
+1435,PARWX,Parnassus Endeavor Fund Investor Shares,33.31,-2.74,-0.94,40.18,25.23,31.273235,34.81316
+1436,FAIGX,Fidelity Advisor Balanced Fund Class M,22.29,-0.31,-0.07,23.73,17.46,21.188236,21.76375
+1437,NEAGX,Needham Aggressive Growth Fund Retail Class,22.63,-1.74,-0.399999,23.34,15.83,20.900589,20.859045
+1438,FAMVX,FAM Value Fund Investor Class,71.64,-0.49,-0.35,86.65,52.67,67.05647,75.11963
+1439,CAMIX,Cambiar International Equity Fund Investor Class,21.84,1.96,0.42,27.69,17.0,20.35,23.620148
+1440,CTFAX,Columbia Thermostat Fund Class A,17.1,-0.06,-0.01,17.11,13.83,16.564411,15.630294
+1441,VWIAX,Vanguard Wellesley Income Fund Admiral Shares,65.45,0.14,0.09,67.9,55.62,63.740295,64.92081
+1442,FURIX,Fidelity Advisor Simplicity RMD 2015 Fund Class I,59.77,0.18,0.11,59.88,57.89,59.77,59.77
+1443,HCAIX,Harbor Capital Appreciation Fund Investor Class,78.38,0.2,0.16001,81.71,56.13,73.10323,72.60117
+1444,TAREX,Third Avenue Real Estate Value Fund Institutional Class,19.57,-1.21,-0.24,29.36,15.09,19.089706,23.204706
+1445,SVFKX,Smead Value Fund Class R2,42.07,-2.03,-0.87,52.91,31.24,39.283825,45.32669
+1446,TEGAX,Touchstone Mid Cap Growth Fund Class A,31.23,0.22,0.07,34.75,21.28,28.449411,30.310074
+1447,NWQCX,Nuveen NWQ Flexible Income Fund Class C,20.59,0.34,0.07,22.55,17.09,20.040295,21.14397
+1448,LDVAX,Leland Thomson Reuters Venture Capital Index Fund Class A,23.64,0.55,0.13,25.89,15.83,21.64206,21.297573
+1449,TIBGX,Thornburg Investment Income Builder Fund Class R4,18.43,0.05,0.01,23.01,14.81,17.52353,20.204266
+1450,VEVCX,Victory Sycamore Established Value Fund Class C,32.98,-1.2,-0.4,40.64,23.32,30.138824,34.851765
+1451,PASSX,T. Rowe Price Small-Cap Stock Fund Advisor Class,46.73,-1.35,-0.64,53.76,33.25,42.69294,47.28515
+1452,POGRX,PRIMECAP Odyssey Growth Fund,36.67,-0.92,-0.34,42.65,27.41,34.41853,37.644558
+1453,JDMNX,Janus Henderson Enterprise Fund Class N,133.11,-0.16,-0.21,149.8,92.52,122.62088,132.92508
+1454,ROGSX,Red Oak Technology Select Fund,31.36,-0.6,-0.190001,33.29,23.45,29.712646,30.018896
+1455,NSCFX,Nuveen NWQ Small-Cap Value Fund Class R6,35.96,-2.73,-1.009997,48.49,26.04,32.699413,39.79066
+1456,RAAIX,Altegris/AACA Opportunistic Real Estate Fund I,17.98,0.39,0.07,20.18,12.51,16.964706,17.53
+1457,SXMAX,SEI Asset Allocation Trust Moderate Strategy Allocation Fund Class F,17.48,0.17,0.030001,21.46,14.29,16.77853,18.916323
+1458,VIISX,Virtus KAR International Small-Cap Fund Class I,16.98,0.77,0.13,19.37,12.07,15.392058,17.060146
+1459,PFPRX,Parnassus Fund Institutional Shares,48.42,0.96,0.46,53.57,35.08,44.899117,47.564705
+1460,PEXMX,T. Rowe Price Extended Equity Market Index Fund,26.4,-1.38,-0.37,30.77,18.07,23.884117,26.623823
+1461,TGGCX,Touchstone International Growth Opportunities Fund Class C,20.39,0.54,0.110001,22.81,15.58,19.219706,20.416103
+1462,TMSIX,Thrivent Mid Cap Stock Fund Class S,24.68,-0.68,-0.17,28.95,17.18,22.298235,25.091839
+1463,PBFBX,PGIM Balanced Fund- Class B,15.12,-0.33,-0.05,16.62,12.19,14.479412,15.340074
+1464,JDVSX,JPMorgan Diversified Fund Class I,15.24,0.07,0.01,17.31,12.43,14.565883,15.583383
+1465,NVSCX,Wells Fargo Small Company Growth Fund - Class Admin,48.69,-1.68,-0.83,57.46,32.52,44.03412,49.135883
+1466,IILGX,Thrivent Global Stock Fund Class S,22.34,-0.13,-0.03,27.36,16.48,20.914412,23.183603
+1467,TGCNX,TCW Select Equities Fund Class N,26.32,0.61,0.16,26.79,18.56,24.157648,24.24294
+1468,NSCRX,Nuveen NWQ Small-Cap Value Fund Class I,35.52,-2.74,-1.0,47.88,25.74,32.303528,39.314266
+1469,PARFX,T. Rowe Price Retirement 2050 Fund Advisor Class,14.34,0.0,0.0,16.26,10.81,13.484706,14.548897
+1470,GILCX,Guggenheim Large Cap Value Fund Class Institutional,36.4,-1.11,-0.41,46.61,27.0,34.361767,39.177353
+1471,JGMRX,Janus Henderson Triton Fund Class R,26.5,-0.71,-0.19,30.72,17.99,24.105,26.526764
+1472,GSXCX,Aberdeen U.S. Small Cap Equity Fund Class C,25.51,-1.81,-0.47,29.01,17.83,22.683823,24.900808
+1473,NQWFX,Nuveen NWQ Flexible Income Fund Class R6,20.76,0.29,0.06,22.75,17.24,20.212353,21.326838
+1474,SGTTX,Columbia Seligman Global Technology Fund Institutional 2 Class,44.9,-1.92,-0.880003,49.4,31.23,42.07794,43.896545
+1475,CBAIX,Calvert Balanced Fund Class I,34.85,0.14,0.05,37.24,28.39,33.56853,34.56816
+1476,JLVMX,JPMorgan Large Cap Value Fund Class R6,12.45,-1.89,-0.24,15.52,8.82,11.430294,13.289044
+1477,SAOIX,Guggenheim Alpha Opportunity Fund Institutional Class,24.59,-1.17,-0.290001,25.8,21.95,24.031765,24.341324
+1478,PARAX,T. Rowe Price Retirement 2010 Fund Advisor Class,17.42,0.0,0.0,18.65,14.73,16.805882,17.444706
+1479,FOSFX,Fidelity Overseas Fund,47.77,1.47,0.69,52.91,35.7,44.37294,47.612793
+1480,FALAX,Fidelity Advisor Large Cap Fund Class A,26.58,-1.12,-0.3,33.79,19.79,24.98853,28.423824
+1481,CAGIX,Calvert Growth Allocation Fund Class I,19.9,0.05,0.01,22.36,14.96,18.737942,20.107132
+1482,DHROX,Diamond Hill Research Opportunities Fund Class A,19.97,-0.89,-0.18,24.38,14.86,18.649706,21.101912
+1483,VDIGX,Vanguard Dividend Growth Fund Investor Shares,28.72,0.45,0.13,31.9,21.38,27.199411,28.923235
+1484,BPTRX,Baron Partners Fund Retail Shares,72.32,-1.65,-1.21,90.32,44.02,65.97823,68.04875
+1485,GTCSX,Glenmede Small Cap Equity Portfolio Class Advisor,21.17,-2.53,-0.55,26.64,14.08,18.646177,22.167131
+1486,FHCCX,Fidelity Advisor Health Care Fund Class C,45.69,1.24,0.560003,45.93,32.67,43.790295,42.169044
+1487,LYRIX,Lyrical U.S. Value Equity Fund Institutional Class,12.7,-2.08,-0.27,16.91,7.93,11.400588,13.898897
+1488,FNORX,Fidelity Nordic Fund,45.89,2.11,0.95,49.23,32.42,41.648823,44.451546
+1489,NGPAX,Columbia Global Strategic Equity Fund Institutional Class,14.61,0.07,0.010001,16.37,11.03,13.746177,14.745955
+1490,MECIX,AMG Managers Cadence Emerging Companies Fund - Class I,45.18,-2.1,-0.97,57.06,31.2,41.77441,48.45338
+1491,TRSAX,T. Rowe Price Growth Stock Fund Advisor Class,74.11,0.04,0.03,78.73,53.35,69.10853,69.548454
+1492,GURAX,Guggenheim Risk Managed Real Estate Fund Class A,29.47,1.03,0.3,35.12,23.41,28.509706,31.244705
+1493,IWIRX,Guinness Atkinson Global Innovators Fund Investor Class,45.54,-0.02,-0.01,48.6,33.28,42.893234,43.939705
+1494,PARBX,T. Rowe Price Retirement 2020 Fund Advisor Class,20.96,0.0,0.0,22.98,17.1,20.08147,21.11022
+1495,NLIGX,Nuveen Large Cap Growth Fund Class I,26.15,-0.61,-0.16,29.15,18.7,24.456764,25.969633
+1496,JIGZX,JPMorgan Intrepid Growth Fund Class R2,53.67,-0.33,-0.18,59.17,39.22,50.810295,52.34728
+1497,WIGTX,Seven Canyons World Innovators Fund Institutional Class,18.28,-0.16,-0.030001,18.31,11.51,16.157059,16.357279
+1498,SIIEX,Touchstone International Equity Fund Class Y,13.55,0.3,0.04,16.05,10.28,12.73647,14.15603
+1499,FALIX,Fidelity Advisor Large Cap Fund Class I,28.17,-1.12,-0.32,35.68,20.97,26.481764,30.08103
+1500,FERIX,Fidelity Advisor Emerging Asia Fund I Class,42.2,-0.35,-0.150002,44.34,33.48,40.729412,40.907867
+1501,RYVLX,Rydex NASDAQ-100 2x Strategy Fund Class A,201.77,-0.5,-1.02001,236.97,114.72,182.2747,184.82455
+1502,SECEX,Guggenheim StylePlus - Large Core Fund Class A,20.42,-0.2,-0.040001,22.93,14.77,19.20353,20.42978
+1503,CFWCX,Calvert Global Water Fund Class C,17.96,-0.39,-0.069999,21.15,13.47,16.709118,18.582354
+1504,FIXIX,Fidelity Advisor International Small Cap Fund Class I,23.2,0.83,0.19,28.34,17.96,21.748236,24.826986
